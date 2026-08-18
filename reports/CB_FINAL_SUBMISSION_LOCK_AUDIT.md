@@ -22,11 +22,11 @@ Status: `MAJOR`. Supplementary data tables exist, but separate Supplementary Fig
 
 ## 6. Data/code reproducibility
 
-Status: `PASS_WITH_MINOR`. Local source data and code exist, README has been updated, and the public GitHub repository URL is recorded. A release tag and Zenodo DOI remain recommended after push.
+Status: `PASS_WITH_MINOR`. Local source data and code exist, README has been updated, and the public GitHub repository URL plus v0.1.1 release tag are recorded. A Zenodo DOI remains optional for final archival citation.
 
 ## 7. Journal-format blockers
 
-Status: `PASS_WITH_MINOR`. Data Availability, Code Availability, Author Contributions, Competing Interests and Funding/Acknowledgements have been completed from author-provided metadata. Zenodo DOI/release tag remains recommended.
+Status: `PASS_WITH_MINOR`. Data Availability, Code Availability, Author Contributions, Competing Interests and Funding/Acknowledgements have been completed from author-provided metadata. A Zenodo DOI remains optional if a citable archive is desired.
 
 ## 8. Placeholder audit
 
@@ -38,4 +38,4 @@ Status: `PASS`. No causal CAD mediator, protective IBD interpretation, axis-spec
 
 ## 10. Final submission status
 
-`READY_AFTER_MINOR_RELEASE_AND_SUPPLEMENTARY_PACKAGING`
+`READY_AFTER_OPTIONAL_ZENODO_AND_SUPPLEMENTARY_PACKAGING`

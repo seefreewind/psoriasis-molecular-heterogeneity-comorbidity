@@ -1,6 +1,6 @@
 # Communications Biology Journal Format Audit
 
-Status: `PASS_WITH_MINOR_RELEASE_DOI_RECOMMENDED`
+Status: `PASS_WITH_MINOR_ZENODO_DOI_OPTIONAL`
 
 Official guidance checked on 2026-08-18 from Communications Biology submission guidelines and Nature Portfolio reporting/data policies.
 
@@ -11,7 +11,7 @@ Official guidance checked on 2026-08-18 from Communications Biology submission g
 - Figures: `PASS`. Figure1-6 SVG/TIFF/PNG/PDF assets exist; final submission should upload separate figure files.
 - Source data: `PASS`. Figure and table source data exist and are mapped to the public GitHub repository path.
 - Data Availability: `PASS_WITH_MINOR`. Public GitHub URL is included; Zenodo DOI can be added after release archiving.
-- Code Availability: `PASS_WITH_MINOR`. Public GitHub URL is included; release tag/DOI is recommended.
+- Code Availability: `PASS`. Public GitHub URL and v0.1.1 release tag are included.
 - Author Contributions: `PASS`. CRediT-style contribution statement has been added from author-provided metadata.
 - Competing Interests: `PASS`. No competing interests declaration has been added from author-provided metadata.
 - Funding/Acknowledgements: `PASS`. No funding/no acknowledgements wording has been added from author-provided metadata.

@@ -1,6 +1,6 @@
 # Repository Reproducibility Audit
 
-Status: `PASS_WITH_RELEASE_TAG_RECOMMENDED`
+Status: `PASS`
 
 - README describes manuscript workflow: `PASS`. README describes the final manuscript workflow and repository layout.
 - software versions documented: `PARTIAL`. environment/environment.yml exists; exact versions are mostly unconstrained.
@@ -11,4 +11,4 @@ Status: `PASS_WITH_RELEASE_TAG_RECOMMENDED`
 - figure scripts map to Figures 1-6: `PASS`. src/figures/make_communications_biology_final_figures.py maps to final figures.
 - table scripts map to Tables 1-3: `PASS`. source_data/Table1-3_source_data.tsv exist.
 - source-data outputs reproducible: `PARTIAL`. source data exist; public archive missing.
-- repository version/tag matches manuscript: `PARTIAL`. GitHub repository URL is recorded; release tag should be added after push.
+- repository version/tag matches manuscript: `PASS`. GitHub repository URL and v0.1.1 release tag are recorded.

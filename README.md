@@ -103,4 +103,6 @@ manuscript/Communications_Biology_main_manuscript_v7_SUBMISSION_LOCK.docx
 
 ## Citation
 
-If using this repository before journal publication, cite the repository URL and manuscript title. A Zenodo DOI can be added after GitHub release archiving.
+If using this repository before journal publication, cite the repository URL, manuscript title and the submission-lock release
+[`v0.1.1`](https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity/releases/tag/v0.1.1).
+A Zenodo DOI can be added after GitHub release archiving if required by the journal.

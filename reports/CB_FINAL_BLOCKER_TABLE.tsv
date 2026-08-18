@@ -1,6 +1,6 @@
 Issue	Severity	Location	Why it matters	Automated fix possible?	Manual input required?	Status
 Zenodo DOI absent	MINOR	Data/Code Availability	A DOI is preferable for final publication but a public GitHub URL is now present.	no	yes	OPTIONAL_AFTER_GITHUB_RELEASE
-Code release/tag absent	MINOR	Repository	Release tag improves reproducibility and Zenodo DOI creation.	yes	no	PENDING_PUSH
+Code release/tag previously absent	RESOLVED	Repository	Release tag improves reproducibility and Zenodo DOI creation.	yes	no	FIXED
 Author contributions previously incomplete	RESOLVED	Author Contributions	Required journal declaration.	yes	no	FIXED
 Competing interests previously incomplete	RESOLVED	Competing Interests	Required journal declaration.	yes	no	FIXED
 Funding/acknowledgements previously incomplete	RESOLVED	Acknowledgements	Required funding transparency.	yes	no	FIXED

@@ -18,6 +18,7 @@ OUT_DOCX = MANUSCRIPT / "Communications_Biology_main_manuscript_v7_SUBMISSION_LO
 SUPP_SRC = MANUSCRIPT / "Communications_Biology_supplementary_methods_v1.md"
 SUPP_OUT = MANUSCRIPT / "Communications_Biology_supplementary_methods_v2_SUBMISSION_LOCK.md"
 REPOSITORY_URL = "https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity"
+REPOSITORY_RELEASE_URL = REPOSITORY_URL + "/releases/tag/v0.1.1"
 
 
 def write_tsv(path: Path, rows: list[list[str]]) -> None:
@@ -63,7 +64,7 @@ Correspondence: Da Lin, 212574@wzhealth.com; ORCID 0009-0009-4410-0218
             1,
         )
     data_availability = f"""All transcriptomic and spatial datasets used in this study are public or publicly indexed: E-MTAB-14509, GSE244679, GSE228421, GSE173706, GSE225475 and GSE202011. Psoriasis GWAS summary statistics were represented by GCST90472771. GTEx v8 eQTL resources were used for regulatory prioritization. Comorbidity GWAS summary statistics were obtained from their original study sources subject to the corresponding access terms; source-resolved outcomes and unresolved prespecified outcomes are reported in Table 1 and the supplementary tables. Processed source data supporting the main figures and tables, together with analysis outputs required to reproduce the reported summaries, are available in the project repository at {REPOSITORY_URL}, including `source_data/`, `results/figures/communications_biology_final/source_data/` and `manuscript/supplementary_tables/`."""
-    code_availability = f"""Analysis code used to generate the reported summaries, figures and tables is available in the project repository at {REPOSITORY_URL}. The repository contains analysis scripts under `src/`, environment information under `environment/`, figure-generation scripts, manuscript-generation scripts, source-data files and submission-lock audit reports."""
+    code_availability = f"""Analysis code used to generate the reported summaries, figures and tables is available in the project repository at {REPOSITORY_URL}. The submission-lock code archive is released as v0.1.1 at {REPOSITORY_RELEASE_URL}. The repository contains analysis scripts under `src/`, environment information under `environment/`, figure-generation scripts, manuscript-generation scripts, source-data files and submission-lock audit reports."""
     author_contrib = """Y.Z. and D.L. conceived and designed the study. Y.Z. developed the analysis workflow, performed the computational analyses, curated the processed data, generated figures and tables, and drafted the manuscript. Y.C. and Y.L. contributed to data curation, result checking and manuscript review. D.L. supervised the study, contributed to interpretation and revised the manuscript. All authors reviewed and approved the final manuscript."""
     competing = """The authors declare no competing interests."""
     acknowledgements = """No specific funding was received for this study. The authors have no acknowledgements to declare."""
@@ -241,17 +242,17 @@ def create_reports(md: str, supp: str) -> None:
         ("figure scripts map to Figures 1-6", "PASS", "src/figures/make_communications_biology_final_figures.py maps to final figures."),
         ("table scripts map to Tables 1-3", "PASS", "source_data/Table1-3_source_data.tsv exist."),
         ("source-data outputs reproducible", "PARTIAL", "source data exist; public archive missing."),
-        ("repository version/tag matches manuscript", "PARTIAL", "GitHub repository URL is recorded; release tag should be added after push."),
+        ("repository version/tag matches manuscript", "PASS", "GitHub repository URL and v0.1.1 release tag are recorded."),
     ]
     (REPORTS / "CB_REPOSITORY_REPRODUCIBILITY_AUDIT.md").write_text(
-        "# Repository Reproducibility Audit\n\nStatus: `PASS_WITH_RELEASE_TAG_RECOMMENDED`\n\n"
+        "# Repository Reproducibility Audit\n\nStatus: `PASS`\n\n"
         + "\n".join(f"- {k}: `{s}`. {n}" for k, s, n in repo_checks) + "\n",
         encoding="utf-8",
     )
 
     journal = """# Communications Biology Journal Format Audit
 
-Status: `PASS_WITH_MINOR_RELEASE_DOI_RECOMMENDED`
+Status: `PASS_WITH_MINOR_ZENODO_DOI_OPTIONAL`
 
 Official guidance checked on 2026-08-18 from Communications Biology submission guidelines and Nature Portfolio reporting/data policies.
 
@@ -262,7 +263,7 @@ Official guidance checked on 2026-08-18 from Communications Biology submission g
 - Figures: `PASS`. Figure1-6 SVG/TIFF/PNG/PDF assets exist; final submission should upload separate figure files.
 - Source data: `PASS`. Figure and table source data exist and are mapped to the public GitHub repository path.
 - Data Availability: `PASS_WITH_MINOR`. Public GitHub URL is included; Zenodo DOI can be added after release archiving.
-- Code Availability: `PASS_WITH_MINOR`. Public GitHub URL is included; release tag/DOI is recommended.
+- Code Availability: `PASS`. Public GitHub URL and v0.1.1 release tag are included.
 - Author Contributions: `PASS`. CRediT-style contribution statement has been added from author-provided metadata.
 - Competing Interests: `PASS`. No competing interests declaration has been added from author-provided metadata.
 - Funding/Acknowledgements: `PASS`. No funding/no acknowledgements wording has been added from author-provided metadata.
@@ -292,7 +293,7 @@ Likely reviewer concerns and answers:
     final_rows = [
         ["Issue", "Severity", "Location", "Why it matters", "Automated fix possible?", "Manual input required?", "Status"],
         ["Zenodo DOI absent", "MINOR", "Data/Code Availability", "A DOI is preferable for final publication but a public GitHub URL is now present.", "no", "yes", "OPTIONAL_AFTER_GITHUB_RELEASE"],
-        ["Code release/tag absent", "MINOR", "Repository", "Release tag improves reproducibility and Zenodo DOI creation.", "yes", "no", "PENDING_PUSH"],
+        ["Code release/tag previously absent", "RESOLVED", "Repository", "Release tag improves reproducibility and Zenodo DOI creation.", "yes", "no", "FIXED"],
         ["Author contributions previously incomplete", "RESOLVED", "Author Contributions", "Required journal declaration.", "yes", "no", "FIXED"],
         ["Competing interests previously incomplete", "RESOLVED", "Competing Interests", "Required journal declaration.", "yes", "no", "FIXED"],
         ["Funding/acknowledgements previously incomplete", "RESOLVED", "Acknowledgements", "Required funding transparency.", "yes", "no", "FIXED"],
@@ -326,11 +327,11 @@ Status: `MAJOR`. Supplementary data tables exist, but separate Supplementary Fig
 
 ## 6. Data/code reproducibility
 
-Status: `PASS_WITH_MINOR`. Local source data and code exist, README has been updated, and the public GitHub repository URL is recorded. A release tag and Zenodo DOI remain recommended after push.
+Status: `PASS_WITH_MINOR`. Local source data and code exist, README has been updated, and the public GitHub repository URL plus v0.1.1 release tag are recorded. A Zenodo DOI remains optional for final archival citation.
 
 ## 7. Journal-format blockers
 
-Status: `PASS_WITH_MINOR`. Data Availability, Code Availability, Author Contributions, Competing Interests and Funding/Acknowledgements have been completed from author-provided metadata. Zenodo DOI/release tag remains recommended.
+Status: `PASS_WITH_MINOR`. Data Availability, Code Availability, Author Contributions, Competing Interests and Funding/Acknowledgements have been completed from author-provided metadata. A Zenodo DOI remains optional if a citable archive is desired.
 
 ## 8. Placeholder audit
 
@@ -342,7 +343,7 @@ Status: `PASS`. No causal CAD mediator, protective IBD interpretation, axis-spec
 
 ## 10. Final submission status
 
-`READY_AFTER_MINOR_RELEASE_AND_SUPPLEMENTARY_PACKAGING`
+`READY_AFTER_OPTIONAL_ZENODO_AND_SUPPLEMENTARY_PACKAGING`
 """
     (REPORTS / "CB_FINAL_SUBMISSION_LOCK_AUDIT.md").write_text(final_audit, encoding="utf-8")
 

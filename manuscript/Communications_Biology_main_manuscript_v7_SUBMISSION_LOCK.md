@@ -129,7 +129,7 @@ All transcriptomic and spatial datasets used in this study are public or publicl
 
 ## Code Availability
 
-Analysis code used to generate the reported summaries, figures and tables is available in the project repository at https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity. The repository contains analysis scripts under `src/`, environment information under `environment/`, figure-generation scripts, manuscript-generation scripts, source-data files and submission-lock audit reports.
+Analysis code used to generate the reported summaries, figures and tables is available in the project repository at https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity. The submission-lock code archive is released as v0.1.1 at https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity/releases/tag/v0.1.1. The repository contains analysis scripts under `src/`, environment information under `environment/`, figure-generation scripts, manuscript-generation scripts, source-data files and submission-lock audit reports.
 
 ## Author Contributions
 
