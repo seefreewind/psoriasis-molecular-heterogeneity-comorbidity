@@ -1,0 +1,7 @@
+trait	sensitivity	rg	se	z	p	cross_trait_intercept	cross_trait_intercept_se	log
+Psoriatic arthritis	explicit_no_MHC	1.1715	0.0751	15.6049	6.7461e-55	0.3142	0.0103	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b0/ldsc/rg_no_mhc_psoriasis_vs_psoriatic_arthritis_GCST90243956.log
+Crohn disease	explicit_no_MHC	-0.2717	0.0449	-6.0516	1.434e-09	-0.0636	0.0094	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b0/ldsc/rg_no_mhc_psoriasis_vs_crohn_disease_GCST004132.log
+Ulcerative colitis	explicit_no_MHC	-0.2233	0.0409	-5.4578	4.8195e-08	-0.0625	0.0077	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b0/ldsc/rg_no_mhc_psoriasis_vs_ulcerative_colitis_GCST004133.log
+Coronary artery disease	explicit_no_MHC	0.1732	0.0274	6.3271	2.4979e-10	0.0189	0.0069	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b0/ldsc/rg_no_mhc_psoriasis_vs_coronary_artery_disease_CADMETA_eu.log
+Crohn disease	outcome_Z_sign_flipped	0.2717	0.0449	6.0516	1.434e-09	0.0636	0.0094	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b0/ldsc/rg_signflip_psoriasis_vs_crohn_disease_GCST004132.log
+Ulcerative colitis	outcome_Z_sign_flipped	0.2233	0.0409	5.4578	4.8195e-08	0.0625	0.0077	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b0/ldsc/rg_signflip_psoriasis_vs_ulcerative_colitis_GCST004133.log

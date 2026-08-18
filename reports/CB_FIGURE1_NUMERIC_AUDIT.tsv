@@ -1,0 +1,7 @@
+panel	value	meaning	source_file	source_row_or_identifier	verified
+a	146.0	E-MTAB-14509 baseline psoriasis patients	manuscript/tables/Table1_public_datasets_and_roles.tsv	E-MTAB-14509	yes
+a/b	82.0	Discovery paired lesional and non-lesional skin patients	results/phase1/phase1_smoke_summary.tsv	discovery_skin_pair_patients	yes
+a/b	76.0	Discovery complete matched LS/NL/blood patients for multi-view modeling	results/phase1/phase1_smoke_summary.tsv	discovery_three_tissue_patients	yes
+a/b	57.0	Replication paired lesional and non-lesional skin patients	results/phase1/phase1_smoke_summary.tsv	replication_skin_pair_patients	yes
+c	0.562	k=2 minimum bootstrap Jaccard	reports/PHASE1_ENDOTYPE_GO_NOGO_REPORT.md	k=2 minimum bootstrap Jaccard	yes
+c	0.75	Prespecified stability threshold	reports/PHASE1_ENDOTYPE_GO_NOGO_REPORT.md	stability threshold	yes

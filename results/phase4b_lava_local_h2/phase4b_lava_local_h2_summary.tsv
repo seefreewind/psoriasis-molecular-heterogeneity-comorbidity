@@ -1,0 +1,5 @@
+outcome	shared_loci_tested	local_h2_pass_p05	local_h2_pass_fdr10	min_joint_h2_p
+cad	2011	1031	1146	2.90384e-65
+crohn	1981	940	1058	2.52945e-81
+psa	1773	716	744	4.0364e-74
+uc	1961	925	1013	3.5364e-61

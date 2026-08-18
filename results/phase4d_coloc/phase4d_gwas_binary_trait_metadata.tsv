@@ -1,0 +1,6 @@
+phenotype	cases	controls	total_n	case_fraction	sumstats_filename	source_file
+cad	122733	424528	547261	0.2242677625484001	coronary_artery_disease_CADMETA_eu.sumstats.gz	results/phase4b_lava_pairwise/cad/input.info.tsv
+crohn	12194	28072	40266	0.3028361396711866	crohn_disease_GCST004132.sumstats.gz	results/phase4b_lava_pairwise/crohn/input.info.tsv
+psa	5065	21286	26351	0.1922128192478464	psoriatic_arthritis_GCST90243956.sumstats.gz	results/phase4b_lava_pairwise/psa/input.info.tsv
+psoriasis	36466	458078	494544	0.07373661393121744	psoriasis_GCST90472771.sumstats.gz	results/phase4b_lava_pairwise/crohn/input.info.tsv
+uc	12366	33609	45975	0.2689722675367047	ulcerative_colitis_GCST004133.sumstats.gz	results/phase4b_lava_locuswise/uc/input.info.tsv

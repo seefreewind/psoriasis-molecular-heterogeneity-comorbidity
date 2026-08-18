@@ -1,0 +1,41 @@
+panel	program	metric	displayed_value	source_file	source_row	analysis_definition	verified
+b	F1	MAGMA gene-set beta	-0.053787	results/phase3a/magma_core_MHC_excluded.tsv	F1	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F1	standard error	0.061254	results/phase3a/magma_core_MHC_excluded.tsv	F1	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F1	95% CI low	-0.173845	results/phase3a/magma_core_MHC_excluded.tsv	F1	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F1	95% CI high	0.066271	results/phase3a/magma_core_MHC_excluded.tsv	F1	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F1	FDR q	0.810050	results/phase3a/magma_core_MHC_excluded.tsv	F1	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+c	F1	observed MAGMA gene-set beta	-0.053787	results/phase3a/matched_null_results.tsv	F1	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F1	matched-null mean	-0.000585	results/phase3a/matched_null_results.tsv	F1	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F1	matched-null SD	0.058153	results/phase3a/matched_null_results.tsv	F1	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F1	empirical P	0.822089	results/phase3a/matched_null_results.tsv	F1	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F1	random sets	2000	results/phase3a/matched_null_results.tsv	F1	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+b	F2	MAGMA gene-set beta	0.051850	results/phase3a/magma_core_MHC_excluded.tsv	F2	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F2	standard error	0.039191	results/phase3a/magma_core_MHC_excluded.tsv	F2	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F2	95% CI low	-0.024964	results/phase3a/magma_core_MHC_excluded.tsv	F2	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F2	95% CI high	0.128664	results/phase3a/magma_core_MHC_excluded.tsv	F2	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F2	FDR q	0.371692	results/phase3a/magma_core_MHC_excluded.tsv	F2	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+c	F2	observed MAGMA gene-set beta	0.051850	results/phase3a/matched_null_results.tsv	F2	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F2	matched-null mean	0.004824	results/phase3a/matched_null_results.tsv	F2	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F2	matched-null SD	0.036030	results/phase3a/matched_null_results.tsv	F2	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F2	empirical P	0.091454	results/phase3a/matched_null_results.tsv	F2	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F2	random sets	2000	results/phase3a/matched_null_results.tsv	F2	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+b	F6	MAGMA gene-set beta	0.042266	results/phase3a/magma_core_MHC_excluded.tsv	F6	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F6	standard error	0.081005	results/phase3a/magma_core_MHC_excluded.tsv	F6	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F6	95% CI low	-0.116504	results/phase3a/magma_core_MHC_excluded.tsv	F6	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F6	95% CI high	0.201036	results/phase3a/magma_core_MHC_excluded.tsv	F6	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F6	FDR q	0.401227	results/phase3a/magma_core_MHC_excluded.tsv	F6	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+c	F6	observed MAGMA gene-set beta	0.042266	results/phase3a/matched_null_results.tsv	F6	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F6	matched-null mean	0.014035	results/phase3a/matched_null_results.tsv	F6	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F6	matched-null SD	0.077186	results/phase3a/matched_null_results.tsv	F6	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F6	empirical P	0.356322	results/phase3a/matched_null_results.tsv	F6	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F6	random sets	2000	results/phase3a/matched_null_results.tsv	F6	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+b	F7	MAGMA gene-set beta	0.044330	results/phase3a/magma_core_MHC_excluded.tsv	F7	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F7	standard error	0.069210	results/phase3a/magma_core_MHC_excluded.tsv	F7	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F7	95% CI low	-0.091322	results/phase3a/magma_core_MHC_excluded.tsv	F7	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F7	95% CI high	0.179982	results/phase3a/magma_core_MHC_excluded.tsv	F7	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+b	F7	FDR q	0.401227	results/phase3a/magma_core_MHC_excluded.tsv	F7	CORE molecular-program gene set; MHC-excluded; competitive MAGMA gene-set test using GCST90472771 psoriasis GWAS	yes
+c	F7	observed MAGMA gene-set beta	0.044330	results/phase3a/matched_null_results.tsv	F7	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F7	matched-null mean	-0.011825	results/phase3a/matched_null_results.tsv	F7	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F7	matched-null SD	0.062585	results/phase3a/matched_null_results.tsv	F7	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F7	empirical P	0.201399	results/phase3a/matched_null_results.tsv	F7	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes
+c	F7	random sets	2000	results/phase3a/matched_null_results.tsv	F7	matched random gene-set null distribution for the same CORE MHC-excluded statistic; 2,000 matched random sets	yes

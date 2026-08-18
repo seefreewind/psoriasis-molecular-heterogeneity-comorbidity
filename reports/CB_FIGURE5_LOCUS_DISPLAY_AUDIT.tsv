@@ -1,0 +1,28 @@
+locus	trait	eligible_for_display	reason	FDR_status	LD_validation_status	local_rho	source
+347	CAD	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.650751	cad
+1215	CAD	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	FDR_supported	Tier 3	0.840885	cad
+1841	CAD	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.605075	cad
+113	CAD	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.631202	cad
+1559	CAD	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	not_FDR_supported	not_retested_or_unavailable	-0.13054	cad
+57	Crohn	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.534925	crohn
+887	Crohn	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.642693	crohn
+908	Crohn	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.381768	crohn
+1082	Crohn	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.945307	crohn
+1559	Crohn	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.625949	crohn
+2251	Crohn	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.658624	crohn
+113	Crohn	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	FDR_supported	not_retested_or_unavailable	0.345449	crohn
+2203	Crohn	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	not_FDR_supported	not_retested_or_unavailable	-0.31598	crohn
+908	PsA	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.944787	psa
+1041	PsA	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	1.0	psa
+57	PsA	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.740363	psa
+347	PsA	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.847701	psa
+887	PsA	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.807433	psa
+2251	PsA	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	FDR_supported	not_retested_or_unavailable	1.0	psa
+57	UC	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.689577	uc
+347	UC	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.828549	uc
+2251	UC	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.762875	uc
+908	UC	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	0.39234	uc
+2203	UC	True	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	FDR_supported	Tier 1	-0.648811	uc
+113	UC	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	not_FDR_supported	not_retested_or_unavailable	0.310791	uc
+887	UC	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	not_FDR_supported	not_retested_or_unavailable	-0.260275	uc
+1841	UC	False	not displayed: absent from selected set, FDR >= 0.05 or Phase 4B-R Tier 3/unvalidated	not_FDR_supported	not_retested_or_unavailable	-0.284017	uc

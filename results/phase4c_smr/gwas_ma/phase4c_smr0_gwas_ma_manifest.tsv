@@ -1,0 +1,6 @@
+trait	input_rows	ma_rows	rows_with_rsid	rows_with_freq	missing_rsid_rows	output_file
+cad	47709	47709	47709	47709	0	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/cad.phase4c_loci.ma
+crohn	44401	42383	42383	42383	2018	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/crohn.phase4c_loci.ma
+psa	38048	38048	38048	38048	0	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/psa.phase4c_loci.ma
+psoriasis	161787	142515	142515	142515	19272	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/psoriasis.phase4c_loci.ma
+uc	40209	38322	38322	38322	1887	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/uc.phase4c_loci.ma

@@ -1,0 +1,111 @@
+Reading input for psoriasis vs uc
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'uc')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1131512 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+Shared SNPs: 1131512
+Retained loci: 98 with threshold 1e-05
+Outcome uc locus 1/98 (57): OK
+Outcome uc locus 2/98 (908): OK
+Outcome uc locus 3/98 (159): OK
+Outcome uc locus 4/98 (268): OK
+Outcome uc locus 5/98 (1037): OK
+Outcome uc locus 6/98 (2453): OK
+Outcome uc locus 7/98 (1063): OK
+Outcome uc locus 8/98 (1966): OK
+Outcome uc locus 9/98 (2318): OK
+Outcome uc locus 10/98 (809): OK
+Outcome uc locus 11/98 (1569): OK
+Outcome uc locus 12/98 (2180): OK
+Outcome uc locus 13/98 (1495): OK
+Outcome uc locus 14/98 (585): OK
+Outcome uc locus 15/98 (899): OK
+Outcome uc locus 16/98 (2432): OK
+Outcome uc locus 17/98 (898): OK
+Outcome uc locus 18/98 (2167): OK
+Outcome uc locus 19/98 (1462): OK
+Outcome uc locus 20/98 (2205): OK
+Outcome uc locus 21/98 (2251): OK
+Outcome uc locus 22/98 (113): OK
+Outcome uc locus 23/98 (483): OK
+Outcome uc locus 24/98 (53): OK
+Outcome uc locus 25/98 (117): OK
+Outcome uc locus 26/98 (2203): OK
+Outcome uc locus 27/98 (922): OK
+Outcome uc locus 28/98 (58): OK
+Outcome uc locus 29/98 (2482): OK
+Outcome uc locus 30/98 (1544): OK
+Outcome uc locus 31/98 (1501): OK
+Outcome uc locus 32/98 (2048): OK
+Outcome uc locus 33/98 (581): OK
+Outcome uc locus 34/98 (1090): OK
+Outcome uc locus 35/98 (1841): OK
+Outcome uc locus 36/98 (2471): OK
+Outcome uc locus 37/98 (2009): OK
+Outcome uc locus 38/98 (1097): OK
+Outcome uc locus 39/98 (1852): OK
+Outcome uc locus 40/98 (155): OK
+Outcome uc locus 41/98 (2249): OK
+Outcome uc locus 42/98 (888): OK
+Outcome uc locus 43/98 (2162): OK
+Outcome uc locus 44/98 (1146): OK
+Outcome uc locus 45/98 (835): OK
+Outcome uc locus 46/98 (1453): OK
+Outcome uc locus 47/98 (2165): OK
+Outcome uc locus 48/98 (2092): OK
+Outcome uc locus 49/98 (2095): OK
+Outcome uc locus 50/98 (781): OK
+Outcome uc locus 51/98 (1209): OK
+Outcome uc locus 52/98 (897): OK
+Outcome uc locus 53/98 (1078): OK
+Outcome uc locus 54/98 (638): OK
+Outcome uc locus 55/98 (2022): OK
+Outcome uc locus 56/98 (2370): OK
+Outcome uc locus 57/98 (2350): OK
+Outcome uc locus 58/98 (26): OK
+Outcome uc locus 59/98 (584): OK
+Outcome uc locus 60/98 (1545): OK
+Outcome uc locus 61/98 (604): OK
+Outcome uc locus 62/98 (419): OK
+Outcome uc locus 63/98 (1938): OK
+Outcome uc locus 64/98 (1099): OK
+Outcome uc locus 65/98 (2412): OK
+Outcome uc locus 66/98 (1873): OK
+Outcome uc locus 67/98 (2115): OK
+Outcome uc locus 68/98 (974): OK
+Outcome uc locus 69/98 (2133): OK
+Outcome uc locus 70/98 (2298): OK
+Outcome uc locus 71/98 (1965): OK
+Outcome uc locus 72/98 (1134): OK
+Outcome uc locus 73/98 (347): OK
+Outcome uc locus 74/98 (110): OK
+Outcome uc locus 75/98 (737): OK
+Outcome uc locus 76/98 (160): OK
+Outcome uc locus 77/98 (1592): OK
+Outcome uc locus 78/98 (2274): OK
+Outcome uc locus 79/98 (1894): OK
+Outcome uc locus 80/98 (936): OK
+Outcome uc locus 81/98 (2307): OK
+Outcome uc locus 82/98 (1353): OK
+Outcome uc locus 83/98 (40): OK
+Outcome uc locus 84/98 (887): OK
+Outcome uc locus 85/98 (768): OK
+Outcome uc locus 86/98 (1749): OK
+Outcome uc locus 87/98 (1191): OK
+Outcome uc locus 88/98 (1389): OK
+Outcome uc locus 89/98 (1856): OK
+Outcome uc locus 90/98 (893): OK
+Outcome uc locus 91/98 (771): OK
+Outcome uc locus 92/98 (2184): OK
+Outcome uc locus 93/98 (1493): OK
+Outcome uc locus 94/98 (2231): OK
+Outcome uc locus 95/98 (1955): OK
+Outcome uc locus 96/98 (2021): OK
+Outcome uc locus 97/98 (2413): OK
+Outcome uc locus 98/98 (1119): OK
+Locuswise runner complete for uc

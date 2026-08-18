@@ -1,0 +1,5 @@
+axis	program_type	N_frozen_genes	N_tested_genes	beta	SE	P	FDR	direction	interpretation
+F1	EXTENDED	see_axis_gene_mapping_coverage	718	-0.0050894	0.037204	0.5544	0.5544	negative	not_significant
+F2	EXTENDED	see_axis_gene_mapping_coverage	1059	0.05465	0.032032	0.044002	0.176008	positive	nominal_only
+F6	EXTENDED	see_axis_gene_mapping_coverage	499	0.029358	0.042178	0.2432	0.41985333333333336	positive	not_significant
+F7	EXTENDED	see_axis_gene_mapping_coverage	442	0.022483	0.04664	0.31489	0.41985333333333336	positive	not_significant

@@ -1,0 +1,30 @@
+Running cad x Skin_Sun_Exposed_Lower_leg (304 probes)
+Running cad x Skin_Not_Sun_Exposed_Suprapubic (310 probes)
+Running cad x Whole_Blood (284 probes)
+Running cad x Artery_Coronary (293 probes)
+Running cad x Artery_Aorta (285 probes)
+Running cad x Artery_Tibial (280 probes)
+Running psa x Skin_Sun_Exposed_Lower_leg (290 probes)
+Running psa x Skin_Not_Sun_Exposed_Suprapubic (290 probes)
+Running psa x Whole_Blood (263 probes)
+Running psa x Spleen (295 probes)
+Running psa x Cells_EBV-transformed_lymphocytes (283 probes)
+Running crohn x Skin_Sun_Exposed_Lower_leg (119 probes)
+Running crohn x Skin_Not_Sun_Exposed_Suprapubic (119 probes)
+Running crohn x Whole_Blood (111 probes)
+Running crohn x Colon_Sigmoid (126 probes)
+Running crohn x Colon_Transverse (136 probes)
+Running crohn x Spleen (133 probes)
+Running crohn x Cells_EBV-transformed_lymphocytes (114 probes)
+Running uc x Skin_Sun_Exposed_Lower_leg (125 probes)
+Running uc x Skin_Not_Sun_Exposed_Suprapubic (121 probes)
+Running uc x Whole_Blood (106 probes)
+Running uc x Colon_Sigmoid (120 probes)
+Running uc x Colon_Transverse (130 probes)
+Running uc x Spleen (132 probes)
+Running uc x Cells_EBV-transformed_lymphocytes (108 probes)
+outcome  status
+cad      PASS      425
+crohn    PASS      218
+psa      PASS      318
+uc       PASS      172

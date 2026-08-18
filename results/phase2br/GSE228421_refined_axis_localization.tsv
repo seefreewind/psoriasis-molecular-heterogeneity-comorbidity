@@ -1,0 +1,5 @@
+axis	dominant_refined_state	parent_cell_type	localization_by_score	donor_effect_LS_minus_NL	bootstrap_ci_low	bootstrap_ci_high	fdr	core_extended_state_spearman	interpretation_after_refinement	confidence
+F1	keratinocyte_inflammatory_T17	keratinocyte	melanocyte_unresolved	0.05741257971106084	0.024371464800768395	0.09213512103564127	0.4	0.9512215816613568	refined directional localization	LOW
+F2	keratinocyte_stress_hypoxia	keratinocyte	fibroblast_homeostatic_matrix	0.02961726175547218	0.012970416192954035	0.05393323977632436	0.4	0.9728245284452205	refined directional localization	LOW
+F6	keratinocyte_inflammatory_T17	keratinocyte	myeloid_monocyte_macrophage	0.07256239392868231	0.019411629317472645	0.13548363271070557	0.4444444444444445	0.9676006442878538	refined directional localization	LOW
+F7	B_cell_unresolved	B_cell	T_cell_TRM_T17_like	0.10645065399838845	0.029253774722524994	0.19233866553400328	0.4	0.9858037946044378	refined directional localization	LOW

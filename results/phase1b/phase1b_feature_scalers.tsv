@@ -1,0 +1,1351 @@
+view	feature	mean_discovery	sd_discovery
+LS	signaling_PROGENy::JAK-STAT	0.5668410953947369	6.908975606995847
+LS	regulon_DoRothEA::STAT1	0.38570398680263146	4.3752194132841336
+LS	regulon_DoRothEA::CEBPA	0.32073609655263163	4.325496300528692
+LS	regulon_DoRothEA::FOS	0.2248343630657895	3.7671957170442387
+LS	signaling_PROGENy::MAPK	-0.003077468368420956	3.5815388038887592
+LS	signaling_PROGENy::NFkB	0.00125258028947372	3.3965594067878806
+LS	signaling_PROGENy::EGFR	-0.2046869534210526	3.2968152288666124
+LS	signaling_PROGENy::PI3K	0.0663870492105264	3.264464803905634
+LS	regulon_DoRothEA::IRF3	-0.17121440749999997	3.2486862609621907
+LS	signaling_PROGENy::TNFa	-0.053154998421052556	3.2145747715699096
+LS	regulon_DoRothEA::RELA	-0.00714384530263158	2.850035649922535
+LS	regulon_DoRothEA::NFKB1	0.016457610657894684	2.8182468167296366
+LS	signaling_PROGENy::Hypoxia	0.05361485057894734	2.7266764017774783
+LS	signaling_PROGENy::TGFb	-0.05653492192105264	2.610961846989932
+LS	regulon_DoRothEA::HIF1A	0.08563422209210525	2.571649237717123
+LS	regulon_DoRothEA::STAT3	0.014252426657894736	2.4318203362459947
+LS	regulon_DoRothEA::JUN	-0.048990150236842084	2.4120818189878115
+LS	regulon_DoRothEA::IRF1	0.2126131343157894	2.316842294700593
+LS	regulon_DoRothEA::SMAD3	-0.03867804931315783	2.1884140953821274
+LS	regulon_DoRothEA::AHR	0.1252550486842105	1.911617907581459
+LS	regulon_DoRothEA::CEBPB	0.029841831614473666	1.4518886395974318
+LS	signaling_PROGENy::Androgen	0.1650063358342105	1.4472419951960176
+LS	signaling_PROGENy::p53	-0.005621050842105252	1.4241183035006009
+LS	signaling_PROGENy::VEGF	-0.07033655040789474	1.2498564056559418
+LS	signaling_PROGENy::Trail	-0.03825348518157892	1.2320194392754364
+LS	signaling_PROGENy::Estrogen	0.0015298155263158025	1.0629011368861445
+LS	Reactome::HS-GAG biosynthesis	0.00014098367285249398	1.0313070999595468
+LS	Reactome::Regulation of gene expression by Hypoxia-inducible Factor	0.0008870571067488433	1.030385341061657
+LS	Reactome::Synthesis of bile acids and bile salts	0.012038884216391082	1.0301864272851948
+LS	Reactome::DNA Damage Recognition in GG-NER	0.0069146768244213175	1.0295373070456804
+LS	Reactome::Protein methylation	0.007427223798018158	1.0293980740576585
+LS	Reactome::AUF1 (hnRNP D0) binds and destabilizes mRNA	0.009240854088475173	1.0289583319303488
+LS	Reactome::Regulation of pyruvate dehydrogenase (PDH) complex	0.015422477635987598	1.0284868421675595
+LS	Reactome::Resolution of Abasic Sites (AP sites)	-0.004212281125492144	1.028242363962598
+LS	Reactome::SUMOylation of transcription cofactors	-0.016240315148076712	1.028142558142578
+LS	Reactome::Role of LAT2/NTAL/LAB on calcium mobilization	-0.001177782570880064	1.0280801931402956
+LS	Reactome::CD22 mediated BCR regulation	0.012671133625970435	1.028031286826413
+LS	Reactome::NOTCH3 Intracellular Domain Regulates Transcription	-0.01003288001657135	1.0278492208764096
+LS	Reactome::RHOF GTPase cycle	-0.016313603726084112	1.0278076902744528
+LS	Reactome::ADORA2B mediated anti-inflammatory cytokines production	-0.02145206478127142	1.0277513210484002
+LS	Reactome::tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis	-0.0027938976827241342	1.0277347921846447
+LS	Reactome::Bile acid and bile salt metabolism	0.019402048451711246	1.0277273652499994
+LS	Reactome::Transcriptional regulation by RUNX3	-0.020284695211237845	1.0275717346355773
+LS	Reactome::Signaling by NOTCH2	-0.008481196162895353	1.0275476147859812
+LS	Reactome::Physiological factors	0.011061123909534875	1.0272040318183193
+LS	Reactome::Ion transport by P-type ATPases	-0.003523685409259188	1.027157826575655
+LS	Hallmark::HALLMARK_UV_RESPONSE_DN	-0.012150635299929144	1.0271224840076978
+LS	Reactome::GPER1 signaling	-0.01832555420511189	1.0270676546475468
+LS	Reactome::Regulation of TP53 Degradation	-0.004061820657892432	1.027030833068825
+LS	Reactome::Spry regulation of FGF signaling	-0.017281027375785647	1.0269069685270868
+LS	Reactome::Regulation of TP53 Expression and Degradation	-0.008272908141955032	1.0266957577388278
+LS	Reactome::Expression of BMAL (ARNTL), CLOCK, and NPAS2	-0.011278293578705304	1.0265765446102801
+LS	Reactome::Heme signaling	0.007228073637652392	1.0264929658265505
+LS	Reactome::Nitric oxide stimulates guanylate cyclase	-0.01243968169175513	1.0264556520448074
+LS	Reactome::Regulation of FZD by ubiquitination	0.010692550475809604	1.0263428255335838
+LS	Reactome::RHOU GTPase cycle	-0.026652671591585558	1.026204952228616
+LS	Reactome::Beta-catenin independent WNT signaling	-0.014214187638211707	1.0261430742109774
+LS	Reactome::Regulation of mRNA stability by proteins that bind AU-rich elements	-0.013127253378601378	1.0261244816553312
+LS	Reactome::mRNA decay by 3' to 5' exoribonuclease	0.005398466199536598	1.0261238087456144
+LS	Reactome::Mitochondrial tRNA aminoacylation	-0.0068785332153534	1.026065731927539
+LS	Reactome::Metabolism of steroids	0.007754478547023611	1.0259874584992617
+LS	Reactome::Biotin transport and metabolism	0.01613957993033374	1.0259645373595678
+LS	Reactome::mRNA Editing	0.01676355070280277	1.0259314012415377
+LS	Reactome::Signaling by Nuclear Receptors	-0.01724882630751437	1.025923642599294
+LS	Reactome::Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	-0.0037659388647977563	1.0258605543881152
+LS	Reactome::Insulin processing	-0.01622249448556511	1.025857839655296
+LS	Reactome::Beta-oxidation of very long chain fatty acids	0.008532766720279994	1.0258347225717117
+LS	Reactome::Differentiation of naive CD4+ T cells to T helper 2 cells (Th2 cells)	-0.001964862881916356	1.0257319207625286
+LS	Reactome::Ion homeostasis	-0.012369846440971763	1.025628713806425
+LS	Reactome::tRNA modification in the nucleus and cytosol	-0.013830688399431006	1.025531639262157
+LS	Hallmark::HALLMARK_ESTROGEN_RESPONSE_EARLY	-0.0071644384752478215	1.025493801070698
+LS	Reactome::Receptor-type tyrosine-protein phosphatases	-0.008778414356056377	1.0254647566169506
+LS	Reactome::Signaling by ROBO receptors	0.010528513168631296	1.0254599683547159
+LS	Reactome::Signaling by BMP	-0.024558593886091624	1.0254003903891658
+LS	Reactome::Diseases of mitotic cell cycle	-0.017599017995137013	1.0252667187939621
+LS	Reactome::SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	0.003799209248689064	1.0252545908354596
+LS	Reactome::Sema4D induced cell migration and growth-cone collapse	-0.016538071855367802	1.0251272038061752
+LS	Reactome::MITF-M-dependent gene expression	-0.02868384089225046	1.0251207662859045
+LS	Reactome::Early SARS-CoV-2 Infection Events	0.00743670452433696	1.025079585442582
+LS	Reactome::cGMP effects	-0.0014119803233834704	1.025033808001267
+LS	Reactome::Cardiac conduction	0.0010167822124349634	1.0249746225704681
+LS	Reactome::NFE2L2 regulating tumorigenic genes	-0.014941616837879663	1.0248886476019523
+LS	Reactome::Nuclear Receptor transcription pathway	-0.010463591590916187	1.024858447348785
+LS	Reactome::Inwardly rectifying K+ channels	-0.02738929409122087	1.0248517315270458
+LS	Reactome::Processing of Capped Intron-Containing Pre-mRNA	0.018179022808465704	1.0248142989386122
+LS	Reactome::TNFR1-induced proapoptotic signaling	-0.01871656362625472	1.024813912988712
+LS	Reactome::MITF-M-regulated melanocyte development	-0.031264080286850245	1.0247818931838142
+LS	Reactome::Signaling by BRAF and RAF1 fusions	-0.02465570760601888	1.0247711080980462
+LS	Reactome::Ca2+ pathway	-0.020663715081318833	1.0247612767921346
+LS	Reactome::Aquaporin-mediated transport	-0.006083971478610915	1.0247608450452517
+LS	Reactome::Regulation of insulin secretion	-0.018267986464732665	1.0247505929488026
+LS	Reactome::Defective EXT1 causes exostoses 1, TRPS2 and CHDS	0.011765877842196737	1.0246404623006136
+LS	Reactome::Defective EXT2 causes exostoses 2	0.011765877842196737	1.0246404623006136
+LS	Reactome::SLBP independent Processing of Histone Pre-mRNAs	0.0076830456636948095	1.0246170712138731
+LS	Reactome::Signaling by NOTCH3	-0.018098712963558052	1.0246102851185437
+LS	Reactome::NRAGE signals death through JNK	0.003488165828648874	1.0245753810374614
+LS	Reactome::Late SARS-CoV-2 Infection Events	0.008096103853484873	1.0245459763770106
+LS	Reactome::FGFR1 mutant receptor activation	0.0008432677208401802	1.0245345282415046
+LS	Reactome::RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	-0.0041135828327770714	1.024403280720015
+LS	Reactome::Keratan sulfate biosynthesis	-0.01224128105582378	1.0243888880462777
+LS	Reactome::Metabolism of polyamines	0.0016934978467205205	1.0242309726532295
+LS	Reactome::Regulation of RUNX2 expression and activity	-0.00040673865755618644	1.0242028052997614
+LS	Reactome::Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.00978347854904348	1.0241140302227891
+LS	Reactome::Glucagon signaling in metabolic regulation	-0.014916191887190233	1.0240914551269056
+LS	Reactome::mRNA Splicing	0.030649907693151058	1.0240268961333456
+LS	Reactome::NOTCH2 Activation and Transmission of Signal to the Nucleus	0.0019783730378314145	1.0240211363602385
+LS	Reactome::Ion channel transport	0.014740657114244146	1.0240067042248722
+LS	Reactome::EPHA-mediated growth cone collapse	-0.019130347792218127	1.023972546058562
+LS	Reactome::Glycosaminoglycan-protein linkage region biosynthesis	-0.008324764782748233	1.0239557707244442
+LS	Reactome::Regulation of RUNX3 expression and activity	0.009722136822189	1.023946903011335
+LS	Reactome::Activation of BH3-only proteins	-0.016842434439885316	1.02382792349838
+LS	Reactome::Regulation of clotting cascade	-0.02298955248112511	1.0237897636839381
+LS	Reactome::Myogenesis	-0.022374887416544042	1.023771280636779
+LS	Reactome::mRNA Splicing - Major Pathway	0.03045365229553946	1.0237211121262042
+LS	Reactome::Nuclear signaling by ERBB4	-0.0033225852797458674	1.0236750252477091
+LS	Reactome::PI3K Cascade	0.002906979044413704	1.023599512033662
+LS	Reactome::RET signaling	-0.014386740790026574	1.0235461543468092
+LS	Reactome::Eukaryotic Translation Elongation	0.0222782863705675	1.023535724198042
+LS	Reactome::Transcriptional activation of mitochondrial biogenesis	0.0004996005690131559	1.0235153310779916
+LS	Reactome::Constitutive Signaling by NOTCH1 HD Domain Mutants	-0.0308751453198849	1.0235033782638139
+LS	Reactome::Signaling by NOTCH1 HD Domain Mutants in Cancer	-0.0308751453198849	1.0235033782638139
+LS	Reactome::Regulation of lipid metabolism by PPARalpha	-0.024579210609393977	1.0234852668653949
+LS	Reactome::Response to metal ions	0.012389870228791856	1.0234785671369904
+LS	Reactome::RNA Polymerase III Transcription	0.018813517763813747	1.0234200750913598
+LS	Reactome::RNA Polymerase III Abortive And Retractive Initiation	0.018813517763813747	1.0234200750913598
+LS	Reactome::RA biosynthesis pathway	0.0018526728698449648	1.0233998824266577
+LS	Reactome::Matriglycan biosynthesis on DAG1	-0.015394580421314571	1.0233979514900653
+LS	Reactome::Developmental Lineage of Pancreatic Endocrine Mid Progenitor Cells	-0.015886641546362407	1.023368701044073
+LS	Reactome::Developmental Lineage of Pancreatic Ductal Cells	-0.015405643726184371	1.023336369120143
+LS	Reactome::Keratan sulfate/keratin metabolism	-0.00607055200818418	1.023315932594348
+LS	Reactome::Pregnenolone biosynthesis	-0.00887724631942019	1.0232313613675452
+LS	Reactome::Defective B3GAT3 causes JDSSDHD	-0.0073932488517418305	1.0232137970352804
+LS	Reactome::Cross-presentation of soluble exogenous antigens (endosomes)	0.02335362863925526	1.0231238737585258
+LS	Reactome::Regulation of MITF-M-dependent genes involved in apoptosis	-0.021673982451595224	1.0231222120230694
+LS	Reactome::RNA Polymerase III Transcription Initiation	0.02863108688378167	1.0230541770376533
+LS	Reactome::KSRP (KHSRP) binds and destabilizes mRNA	-0.00766422137080063	1.022978777716432
+LS	Reactome::RAB geranylgeranylation	-0.021287939974975592	1.022940230848069
+LS	Reactome::RHOD GTPase cycle	-0.028309908289096297	1.0229314450016191
+LS	Reactome::APOBEC3G mediated resistance to HIV-1 infection	0.023673662415496857	1.0228817819776435
+LS	Reactome::Nephrin family interactions	-0.023058184703479208	1.0228784580026962
+LS	Reactome::Regulation of CDH1 posttranslational processing and trafficking to plasma membrane	0.0227814578294401	1.0228662139779174
+LS	Reactome::NOTCH2 intracellular domain regulates transcription	-0.018564705183636107	1.0228477372206066
+LS	Reactome::NPAS4 regulates expression of target genes	-0.01779686854608118	1.0228473042529265
+LS	Reactome::BMAL1:CLOCK,NPAS2 activates circadian expression	-0.021651705411614947	1.0228415968600617
+LS	Reactome::Metallothioneins bind metals	0.017525610370980105	1.0228030089338747
+LS	Reactome::Defective B4GALT7 causes EDS, progeroid type	-0.01166812823949618	1.0227869757297252
+LS	Reactome::Signaling by RAF1 mutants	-0.024958452109331314	1.0227453177344046
+LS	Reactome::Vasopressin regulates renal water homeostasis via Aquaporins	-0.02647026142191096	1.0226761271493086
+LS	Reactome::Insulin receptor signalling cascade	-0.004427552570608953	1.0226723488375171
+LS	Reactome::Muscle contraction	-0.012227557360383447	1.0226560608603585
+LS	Reactome::Nucleotide biosynthesis	-0.026612381339159115	1.0226432595265906
+LS	Reactome::Eukaryotic Translation Initiation	0.027584847131624003	1.0226200511159684
+LS	Reactome::Cap-dependent Translation Initiation	0.027584847131624003	1.0226200511159684
+LS	Reactome::Defective B3GALT6 causes EDSP2 and SEMDJL1	-0.015551532023066417	1.022593476175124
+LS	Reactome::p75NTR regulates axonogenesis	-0.008182497073418546	1.0225673053500257
+LS	Reactome::Signaling by activated point mutants of FGFR1	0.02090211372449053	1.022535432081843
+LS	Reactome::Diseases associated with glycosaminoglycan metabolism	-0.016767907416265982	1.022483907697264
+LS	Reactome::VxPx cargo-targeting to cilium	-0.02366923827067523	1.0224322922825426
+LS	Reactome::Response of EIF2AK4 (GCN2) to amino acid deficiency	0.025034319690307415	1.0223951587872064
+LS	Reactome::CREB1 phosphorylation through the activation of Adenylate Cyclase	-0.027165906598582295	1.0223325424536043
+LS	Reactome::Lanosterol biosynthesis	-0.019390620675309455	1.0223208298746682
+LS	Reactome::Mitotic Telophase/Cytokinesis	-0.024463401470079478	1.022319455662422
+LS	Reactome::Attachment and Entry_9694614	0.009231009824741962	1.0223067939681807
+LS	Reactome::YAP1- and WWTR1 (TAZ)-stimulated gene expression	-0.03357569273349844	1.0223058550243753
+LS	Reactome::Entry of Influenza Virion into Host Cell via Endocytosis	0.005053721712432101	1.0222975049474028
+LS	Hallmark::HALLMARK_MYOGENESIS	-0.002800989977179122	1.0222734784688197
+LS	Reactome::Netrin-1 signaling	-0.019285430422701495	1.0222094657907561
+LS	Reactome::NFE2L2 regulating anti-oxidant/detoxification enzymes	-0.0028863365156533553	1.0221743604966387
+LS	Reactome::Lysosphingolipid and LPA receptors	-0.03388808582642247	1.0220937827071137
+LS	Reactome::Peptide hormone biosynthesis	-0.01052788359149196	1.0220787854066553
+LS	Reactome::Purine salvage	0.002992843294124927	1.0220447203262348
+LS	Reactome::RNA Polymerase III Transcription Termination	0.003901429966247072	1.0220391013494712
+LS	Reactome::Coagulation pathway	-0.0311841533195349	1.0220280676016602
+LS	Hallmark::HALLMARK_NOTCH_SIGNALING	-0.010675913951818727	1.0220186043405102
+LS	Reactome::Regulation of BACH1 activity	-0.021075306202302	1.0220082295757527
+LS	Reactome::Fanconi Anemia Pathway	0.005398769186692817	1.0219777881422352
+LS	Reactome::Signaling by Retinoic Acid	-0.0026054143675382927	1.0219420634538314
+LS	Reactome::Developmental Cell Lineages of the Exocrine Pancreas	-0.012957633363267359	1.0219037056631497
+LS	Reactome::Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	-0.004096316872070217	1.0217843488782041
+LS	Reactome::Signaling by RAS mutants	-0.027811033973343273	1.0217295779280289
+LS	Reactome::Paradoxical activation of RAF signaling by kinase inactive BRAF	-0.027811033973343273	1.0217295779280289
+LS	Reactome::Signaling by moderate kinase activity BRAF mutants	-0.027811033973343273	1.0217295779280289
+LS	Reactome::Signaling downstream of RAS mutants	-0.027811033973343273	1.0217295779280289
+LS	Reactome::Selenoamino acid metabolism	0.013607959528331203	1.0217075007405385
+LS	Reactome::mRNA 3'-end processing	0.030494848243556964	1.021704649413686
+LS	Reactome::Positive Regulation of CDH1 Gene Transcription	-0.006374055567325437	1.0216933667950305
+LS	Reactome::PPARA activates gene expression	-0.026253669048810525	1.0216585881122016
+LS	Reactome::SUMO E3 ligases SUMOylate target proteins	-0.022074089621440453	1.021600705309596
+LS	Reactome::RHOB GTPase cycle	-0.028968818796641475	1.0215138137608135
+LS	Reactome::Cellular response to starvation	0.029910195127020048	1.0215070078921331
+LS	Reactome::Response of Mtb to phagocytosis	0.0077768967012006515	1.0214975958962897
+LS	Reactome::SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	0.011094873414108327	1.021493353887162
+LS	Reactome::The CRY:PER:kinase complex represses transactivation by the BMAL:CLOCK (ARNTL:CLOCK) complex	-0.006460583177646956	1.0214598210038754
+LS	Reactome::p75 NTR receptor-mediated signalling	-0.007805120950343896	1.02139856991454
+LS	Reactome::Thyroxine biosynthesis	0.006151137514579782	1.0213860011752303
+LS	Reactome::Lysine catabolism	0.02095305773450768	1.0213595277769711
+LS	Reactome::trans-Golgi Network Vesicle Budding	-0.013374468169292907	1.021326367098001
+LS	Reactome::Transcriptional Regulation by NPAS4	-0.026783130144942702	1.0213243513789392
+LS	Reactome::Differentiation of T cells	0.0009318298170990035	1.0212913148282627
+LS	Reactome::G alpha (z) signalling events	-0.0310235296780641	1.0212745588969707
+LS	Reactome::Metabolism of amine-derived hormones	0.010535750252499176	1.021269239565874
+LS	Reactome::IGF1R signaling cascade	0.006404114906388428	1.021261674312861
+LS	Reactome::EGR2 and SOX10-mediated initiation of Schwann cell myelination	-0.028944727178126333	1.021246606870149
+LS	Reactome::Regulation of PD-L1(CD274) Post-translational modification	-0.0012304745131615882	1.0212435256469028
+LS	Reactome::JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	-0.03619821413582555	1.0212314860584957
+LS	Reactome::Cholesterol biosynthesis	-0.007696889719016959	1.021199015994816
+LS	Reactome::RUNX3 regulates NOTCH signaling	-0.001202993517957285	1.0211934274653998
+LS	Reactome::Potential therapeutics for SARS	-0.006496940561174018	1.0211486368874632
+LS	Reactome::Protein ubiquitination	0.006009782199245524	1.021131354001592
+LS	Reactome::Regulation of beta-cell development	-0.008576929426258708	1.0211207298819096
+LS	Reactome::Virus Assembly and Release	-0.010630229477074427	1.021086489406005
+LS	Reactome::Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	-0.017681607190728005	1.021071194663451
+LS	Reactome::G protein gated Potassium channels	-0.017681607190728005	1.021071194663451
+LS	Reactome::Activation of G protein gated Potassium channels	-0.017681607190728005	1.021071194663451
+LS	Reactome::Signaling by NODAL	0.02335390981159717	1.0210673807384714
+LS	Reactome::Class C/3 (Metabotropic glutamate/pheromone receptors)	0.021236772576573935	1.0210665566960706
+LS	Reactome::Transcriptional Regulation by MECP2	-0.026058987509234077	1.021033291397467
+LS	Reactome::Cell death signalling via NRAGE, NRIF and NADE	0.012481499516035631	1.0209407046684247
+LS	Reactome::UCH proteinases	-0.005547776899661693	1.0209378239346147
+LS	Reactome::Regulation of cholesterol biosynthesis by SREBP (SREBF)	-0.010438477452940203	1.0209178992870538
+LS	Reactome::Mechanical load activates signaling by PIEZO1 and integrins in osteocytes	-0.029782763152847575	1.0209127066203318
+LS	Reactome::Metabolism of folate and pterines	0.009706095515748721	1.0208670575679049
+LS	Reactome::RNA Polymerase III Transcription Initiation From Type 1 Promoter	0.024768400013543725	1.0208651472737038
+LS	pathway::WNT_signaling	-0.02263910723356552	1.0208573867535518
+LS	Reactome::Strand-asynchronous mitochondrial DNA replication	0.02219704712478304	1.0208313508925224
+LS	Reactome::Activation of the AP-1 family of transcription factors	-0.01728655181223102	1.0208121362617053
+LS	Reactome::tRNA modification in the mitochondrion	0.01962645803121692	1.020798014246142
+LS	Reactome::Metabolism of cofactors	0.024639228712569784	1.020782744103966
+LS	Reactome::IRS-related events triggered by IGF1R	0.00678013060939536	1.0206623881733699
+LS	Reactome::Potassium Channels	-0.0006912546986681899	1.0205700703446314
+LS	Reactome::Signaling by PDGFR in disease	-0.023837202740264563	1.0204744813650326
+LS	Reactome::SUMOylation	-0.02346070220863197	1.0204493906306291
+LS	Reactome::Transcriptional Regulation by VENTX	-0.008428333703687632	1.0204463859586475
+LS	Reactome::Signaling by TGFB family members	-0.03539113899126909	1.0204370678434824
+LS	Reactome::NOTCH3 Activation and Transmission of Signal to the Nucleus	-0.024001067737940848	1.0204225001600367
+LS	Reactome::DAG and IP3 signaling	-0.02578523795201661	1.020407154463465
+LS	Reactome::MET activates PTK2 signaling	-0.019483883089681804	1.0203469506998308
+LS	Reactome::Circadian clock	0.006374909771151583	1.02034254487601
+LS	Reactome::Regulation of pyruvate metabolism	-0.01997918901386175	1.0203087893565639
+LS	Reactome::Late endosomal microautophagy	0.026310560775147176	1.0202439909183425
+LS	Reactome::Maturation of spike protein_9694548	-0.008540495935305722	1.0202351546537456
+LS	Reactome::Stimuli-sensing channels	0.02103276994901962	1.0201844031265723
+LS	Reactome::Formation of the dystrophin-glycoprotein complex (DGC)	-0.010246299804341013	1.0201307487655398
+LS	Reactome::SPOP-mediated proteasomal degradation of PD-L1(CD274)	0.005114630741301839	1.0201197660420418
+LS	Reactome::Protein hydroxylation	0.010036193838407523	1.0201170616942676
+LS	Reactome::Regulation of MITF-M-dependent genes involved in extracellular matrix, focal adhesion and epithelial-to-mesenchymal transition	-0.02771464926319887	1.0200975895915485
+LS	Reactome::mRNA Polyadenylation	0.03132716495576959	1.0200833594578385
+LS	Hallmark::HALLMARK_HEME_METABOLISM	0.00472055110876059	1.0200813077075819
+LS	Reactome::Binding and Uptake of Ligands by Scavenger Receptors	0.02137568690346233	1.020078136516806
+LS	Reactome::Negative regulation of NOTCH4 signaling	0.020579988683136444	1.0200644819745595
+LS	Reactome::Regulation of TP53 Activity	-0.00801097803850684	1.0200556850358022
+LS	Reactome::RNA Polymerase III Transcription Initiation From Type 2 Promoter	0.019136669399003305	1.0199682295625303
+LS	Reactome::NIK-->noncanonical NF-kB signaling	-0.005767766613890851	1.019924213023332
+LS	Reactome::Regulation of CDH1 Function	-0.018969184915064826	1.019923224350887
+LS	Reactome::Transcriptional regulation of pluripotent stem cells	-0.0028341182640351697	1.0199022138180496
+LS	Reactome::G alpha (12/13) signalling events	0.0015047347608116814	1.0198975618735036
+LS	Reactome::PKA-mediated phosphorylation of CREB	-0.021471403845982444	1.019862731378136
+LS	Reactome::RAS processing	-0.024295013292426098	1.0198478695735933
+LS	Hallmark::HALLMARK_ESTROGEN_RESPONSE_LATE	-0.016173203317269107	1.0198315526383803
+LS	Reactome::Initiation of coagulation cascade	-0.001926090046785252	1.01982686259656
+LS	Hallmark::HALLMARK_MYC_TARGETS_V1	-0.018775630474712358	1.0197797407685225
+LS	Reactome::Regulation of PD-L1(CD274) translation	-0.024017904890170683	1.0197396074962184
+LS	Reactome::Smooth Muscle Contraction	-0.018394320426474136	1.019729850804245
+LS	Reactome::LDL clearance	0.0016549131415034039	1.0197284733044434
+LS	cell_state::Keratinocyte	-0.03963903215818456	1.0196837055119787
+LS	Reactome::Resolution of AP sites via the multiple-nucleotide patch replacement pathway	-0.011897700187747428	1.0196461509926031
+LS	Reactome::Ubiquinol biosynthesis	0.02597574227706496	1.0196438403188426
+LS	Reactome::RND3 GTPase cycle	-0.016375072197651597	1.019639005942546
+LS	Reactome::Semaphorin interactions	-0.020694809420105015	1.0196051862040294
+LS	Reactome::ATP-dependent chromatin remodelers	-0.013019708527042017	1.0196013697010953
+LS	Reactome::Heparan sulfate/heparin (HS-GAG) metabolism	0.02500706125580988	1.0195582928583589
+LS	Reactome::Oncogene Induced Senescence	-0.0197619728844696	1.0195320349271997
+LS	Reactome::Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	-0.009162239379348833	1.019520919552596
+LS	Reactome::Constitutive Signaling by NOTCH1 PEST Domain Mutants	-0.009162239379348833	1.019520919552596
+LS	Reactome::Signaling by NOTCH1 PEST Domain Mutants in Cancer	-0.009162239379348833	1.019520919552596
+LS	Reactome::Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	-0.009162239379348833	1.019520919552596
+LS	Reactome::Signaling by NOTCH1 in Cancer	-0.009162239379348833	1.019520919552596
+LS	Reactome::Termination of O-glycan biosynthesis	0.015956030677813968	1.0195159475610922
+LS	Reactome::Eukaryotic Translation Termination	0.03008170244056395	1.0194505788467627
+LS	Reactome::RHOJ GTPase cycle	-0.03440139150073353	1.0194303040524402
+LS	Reactome::Signaling by Insulin receptor	0.0018663981417748187	1.0193905959186031
+LS	Reactome::Downregulation of TGF-beta receptor signaling	-0.005981877158122544	1.0193855724915448
+LS	Reactome::Calnexin/calreticulin cycle	-0.029383948287213774	1.019379732660846
+LS	Reactome::p53-Independent G1/S DNA Damage Checkpoint	0.0009486620359907535	1.0193795501309981
+LS	Reactome::Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A	0.0009486620359907535	1.0193795501309981
+LS	Reactome::Phosphorylation of CLOCK, acetylation of BMAL1 (ARNTL) at target gene promoters	-0.005438314008090303	1.0193744920790513
+LS	Reactome::Sphingolipid de novo biosynthesis	-0.033654006351177795	1.0193607331460226
+LS	Reactome::SARS-CoV-2 targets host intracellular signalling and regulatory pathways	-0.019034924864843365	1.0193404718608101
+LS	Reactome::RNA Polymerase II Transcription Termination	0.0027653286844669537	1.0193380241272425
+LS	Reactome::Processing of Capped Intronless Pre-mRNA	0.0027653286844669537	1.0193380241272425
+LS	Reactome::Signaling by MET	-0.02453669293276987	1.0193198473819862
+LS	Reactome::SRP-dependent cotranslational protein targeting to membrane	0.028288640423036002	1.0193176784893412
+LS	Reactome::IRS-mediated signalling	0.00018741133098471323	1.0192667072414652
+LS	Reactome::mTORC1-mediated signalling	0.019416886339002796	1.0192628367887127
+LS	Reactome::tRNA Aminoacylation	-0.024110999515747977	1.0192005442030445
+LS	Reactome::Signal attenuation	-0.024302021945836104	1.0191971883724789
+LS	Reactome::Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	-0.0017187956324337436	1.0191929132811302
+LS	Reactome::Defective RIPK1-mediated regulated necrosis	-0.006688241340108822	1.0191693203743115
+LS	Reactome::GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	0.014037041500427684	1.0191663077925306
+LS	Reactome::Activation of gene expression by SREBF (SREBP)	0.008210561782241289	1.019148956010649
+LS	Reactome::VLDLR internalisation and degradation	0.006973359677775474	1.019133769935716
+LS	Reactome::PCNA-Dependent Long Patch Base Excision Repair	-0.0087016096518835	1.019070921391712
+LS	Reactome::Activation of RAC1	-0.02257882943867782	1.0190698052861322
+LS	Reactome::rRNA processing in the nucleus and cytosol	-0.017822580800274664	1.0190630272279588
+LS	Reactome::rRNA modification in the mitochondrion	-0.016598354596342613	1.019020728954555
+LS	Reactome::Sema4D in semaphorin signaling	-0.02034632889626903	1.0189930424955298
+LS	Reactome::Reactions specific to the complex N-glycan synthesis pathway	-0.007462172454233875	1.0189255342530201
+LS	Reactome::RNA Polymerase III Transcription Initiation From Type 3 Promoter	0.022775865725168775	1.0189060404550985
+LS	Reactome::Adrenaline,noradrenaline inhibits insulin secretion	-0.011861008443379636	1.0189036101027027
+LS	Reactome::PI3K/AKT Signaling in Cancer	-0.032713672240840104	1.0189033634772497
+LS	Reactome::RHOG GTPase cycle	-0.01312147686421088	1.0188730384827562
+LS	Reactome::Infection with Enterobacteria	0.0067162386957081875	1.0188513928203358
+LS	Reactome::RNA Polymerase III Chain Elongation	0.02125486940359414	1.0188512127253022
+LS	Reactome::Scavenging by Class A Receptors	-0.026697366791540545	1.0188428385168284
+LS	Reactome::The role of GTSE1 in G2/M progression after G2 checkpoint	-0.0030162171115662396	1.0188412008013943
+LS	Reactome::GABA B receptor activation	-0.028308040656826503	1.0188363280407877
+LS	Reactome::Activation of GABAB receptors	-0.028308040656826503	1.0188363280407877
+LS	Reactome::Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	0.02894819318560296	1.0188339605762182
+LS	Reactome::Formation of paraxial mesoderm	0.01439404525748775	1.0188296553687775
+LS	Reactome::AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)	0.007504932616042508	1.0188112295827925
+LS	Reactome::Phase 2 - plateau phase	0.03396689526179303	1.0188110153023981
+LS	Reactome::Voltage gated Potassium channels	0.010480171018815905	1.0187890256694623
+LS	Reactome::Rap1 signalling	-0.02841218899660128	1.0187652505254319
+LS	Reactome::Constitutive Signaling by AKT1 E17K in Cancer	-0.027897499335641493	1.0187475614785018
+LS	Reactome::Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	0.0044950607672205305	1.0187131498509123
+LS	Hallmark::HALLMARK_KRAS_SIGNALING_DN	0.027800190695852035	1.0187062449914648
+LS	Reactome::Regulation of TP53 Activity through Acetylation	-0.011642029949692085	1.0186779789090132
+LS	Reactome::High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	-0.029454479738712097	1.01867653272406
+LS	Reactome::Transcriptional regulation by RUNX1	-0.037052417963764815	1.0186718567254334
+LS	Reactome::Deadenylation of mRNA	-0.011242898961898833	1.0186392040939076
+LS	Reactome::Ribosome-associated quality control	0.025767766784123035	1.0185495482735616
+LS	Reactome::Insulin receptor recycling	0.016927749615399248	1.0185128759984676
+LS	Reactome::mitochondrial fatty acid beta-oxidation of saturated fatty acids	0.011915699419789044	1.0184852016951906
+LS	Reactome::Protein lipoylation	-0.008555928572067054	1.0184695064309746
+LS	Reactome::ATF6 (ATF6-alpha) activates chaperones	-0.03916667024705506	1.0184382518583073
+LS	Reactome::rRNA processing	-0.018682084093018952	1.018426984524503
+LS	Reactome::PI-3K cascade:FGFR1	-0.01516050617557549	1.018422418949952
+LS	Reactome::Signaling by ERBB4	-0.01273523095286303	1.0184192756464612
+LS	Reactome::Regulation of ornithine decarboxylase (ODC)	-0.00037090920818684027	1.018408963489926
+LS	Reactome::Pyruvate metabolism	-0.001993619992267466	1.0183946190001276
+LS	Reactome::Cell-extracellular matrix interactions	-0.009318231091135241	1.0183923303212754
+LS	Reactome::Activation of the phototransduction cascade	-0.02996091467841239	1.0183800251277348
+LS	Hallmark::HALLMARK_MYC_TARGETS_V2	-0.021049043587615012	1.018350394142661
+LS	Reactome::Fatty acyl-CoA biosynthesis	-0.02216934849727491	1.0183217811600715
+LS	Reactome::PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA	0.028361062562954092	1.018315300641218
+LS	Reactome::Major pathway of rRNA processing in the nucleolus and cytosol	-0.018129390965865574	1.0183143475716308
+LS	Reactome::Signaling by FGFR1 in disease	-0.005367428735771795	1.0183020035277044
+LS	Reactome::Negative regulation of FGFR1 signaling	-0.0016913012011854356	1.0182601449069824
+LS	Reactome::Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	0.025107687631679466	1.018248272607589
+LS	Reactome::Digestion	0.025572117948077667	1.0182472225129124
+LS	Reactome::Signaling by NTRK3 (TRKC)	-0.01041629016867543	1.0182309485094048
+LS	Reactome::mRNA Splicing - Minor Pathway	0.03578707948534793	1.0181830978286317
+LS	Reactome::Miscellaneous transport and binding events	-0.010100536942002969	1.018157789894505
+LS	Reactome::Ubiquitin-dependent degradation of Cyclin D	0.006923566656415551	1.0181512363348486
+LS	Reactome::Signaling by WNT in cancer	-0.029726157229122682	1.0181402485231228
+LS	Reactome::Gastrin-CREB signalling pathway via PKC and MAPK	-0.03265783175751896	1.0181318374267176
+LS	Reactome::Aberrant regulation of mitotic exit in cancer due to RB1 defects	0.007153395212710435	1.0180843884006383
+LS	Reactome::Regulation of TP53 Activity through Phosphorylation	-0.012407434396967393	1.0180545859364614
+LS	Reactome::Signaling by cytosolic FGFR1 fusion mutants	0.004073763467459863	1.0180038668699503
+LS	Reactome::Regulation of expression of SLITs and ROBOs	0.034755441691570764	1.0179093641963672
+LS	Hallmark::HALLMARK_MITOTIC_SPINDLE	-0.023573998779309095	1.0179077332451765
+LS	Reactome::Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	-0.009887080511607783	1.0178934919308342
+LS	Reactome::Phenylalanine and tyrosine metabolism	0.021769291097359488	1.0178839992027333
+LS	Reactome::Opioid Signalling	-0.04220920250106399	1.0178838611463819
+LS	Reactome::SARS-CoV-2 modulates host translation machinery	0.024933322909340038	1.0178683566338802
+LS	Reactome::PKA activation in glucagon signalling	-0.011887228229656164	1.0178651757246733
+LS	Reactome::Folding of actin by CCT/TriC	-0.03202515067751703	1.017825306865231
+LS	Reactome::Viral mRNA Translation	0.029007704654806638	1.0178085387825286
+LS	Reactome::RHOA GTPase cycle	-0.01974121148983736	1.0178010503561794
+LS	Reactome::MET promotes cell motility	-0.01580241898206508	1.0177658391074325
+LS	Reactome::Inactivation, recovery and regulation of the phototransduction cascade	-0.017999083279738804	1.0177486975749874
+LS	Reactome::Negative Regulation of DNA Double Strand Break Response	0.009008569062430236	1.0177347920083741
+LS	Reactome::Cohesin Loading onto Chromatin	-0.026533256009054977	1.0177279724393087
+LS	Reactome::Cardiogenesis	-0.01627732539115609	1.0176932215367185
+LS	Reactome::AKT phosphorylates targets in the nucleus	-0.029910625902229527	1.0176681656534654
+LS	Reactome::Developmental Cell Lineages	-0.013810985169904989	1.0176629819574377
+LS	Reactome::TNFR1-induced NF-kappa-B signaling pathway	-0.022414543629459563	1.0176565179512647
+LS	Reactome::Degradation of CDH1	0.0100167373441429	1.0176378165002877
+LS	Reactome::Gastrulation	-0.018037883051463324	1.0176365848871445
+LS	Reactome::Regulation of MECP2 expression and activity	-0.0364452234853578	1.0176157628686984
+LS	Reactome::Proteasome assembly	0.02739993728742436	1.0176125548048802
+LS	Reactome::Carboxyterminal post-translational modifications of tubulin	0.002968611960952701	1.017602543173012
+LS	Reactome::Uptake of dietary cobalamins into enterocytes	0.044631182292591436	1.0175922512023343
+LS	Reactome::Autodegradation of the E3 ubiquitin ligase COP1	0.021703336859510394	1.0175849455633292
+LS	Reactome::RHOC GTPase cycle	-0.031582122745310214	1.0175207972901377
+LS	Reactome::Apoptosis induced DNA fragmentation	-0.021453579573385496	1.0174822757892943
+LS	Reactome::Plasma lipoprotein clearance	0.03408051501728693	1.0174392050108712
+LS	Reactome::Formation of a pool of free 40S subunits	0.03522417609576558	1.0173691127959232
+LS	Reactome::SARS-CoV-1 targets host intracellular signalling and regulatory pathways	-0.02002466300221676	1.0173618782230243
+LS	Reactome::Signaling by Activin	0.02747847196710412	1.0173329100151856
+LS	Reactome::TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	-0.019982234009492908	1.0173144685348692
+LS	Reactome::Signaling by LTK	-0.02715541139518099	1.017261375910486
+LS	Reactome::FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	0.005748313951197572	1.0172539537254897
+LS	Reactome::Negative regulation of FGFR2 signaling	-0.010934788029635444	1.0172375547551435
+LS	Reactome::Regulation of activated PAK-2p34 by proteasome mediated degradation	0.012135052620555893	1.017207622876352
+LS	Reactome::RHOBTB3 ATPase cycle	-0.021043688733275445	1.0171922099259647
+LS	Reactome::RHOQ GTPase cycle	-0.01984439555412488	1.017159906403074
+LS	Reactome::TGFBR3 expression	-0.03391497719714214	1.0171436091115496
+LS	Reactome::Vif-mediated degradation of APOBEC3G	0.028560779525241616	1.0171187494649807
+LS	Reactome::Protein folding	-0.015980587085554217	1.017079862725976
+LS	Reactome::SUMOylation of DNA methylation proteins	0.009156428273815192	1.0170722241133718
+LS	Reactome::Autodegradation of Cdh1 by Cdh1:APC/C	0.021889878430164097	1.0170692469562082
+LS	Reactome::Peptide chain elongation	0.03316440368815099	1.017067679104956
+LS	Reactome::Interleukin-37 signaling	0.03776049673626997	1.017066814386328
+LS	Reactome::Cellular response to hypoxia	0.0053811547233396165	1.0170608618465635
+LS	Reactome::Oncogenic MAPK signaling	-0.022293938437532818	1.017055360019516
+LS	Reactome::Fc epsilon receptor (FCERI) signaling	-0.01421993022797855	1.017046233179203
+LS	Reactome::L13a-mediated translational silencing of Ceruloplasmin expression	0.0345991984787297	1.017044542385806
+LS	Reactome::Centrosome maturation	0.024067376058958485	1.0170415813745965
+LS	Reactome::Recruitment of mitotic centrosome proteins and complexes	0.024067376058958485	1.0170415813745965
+LS	Reactome::Attachment of bacteria to epithelial cells	-0.03696025410524848	1.0169188806607157
+LS	Reactome::Biofilm formation	-0.03696025410524848	1.0169188806607157
+LS	Reactome::Calmodulin induced events	-0.03188890598350699	1.0169174829218375
+LS	Reactome::CaM pathway	-0.03188890598350699	1.0169174829218375
+LS	Reactome::Activated point mutants of FGFR2	0.006600455069816107	1.0169066712024315
+LS	Reactome::Hh mutants are degraded by ERAD	0.007206146988727409	1.0168944298481453
+LS	Reactome::Mitochondrial ribosome-associated quality control	0.029691566924616327	1.01688676668639
+LS	Reactome::Dengue Virus-Host Interactions	0.01936142271820725	1.0167643122654428
+LS	Reactome::Degradation of DVL	0.019592112781380767	1.0167588712370577
+LS	Reactome::Regulation of gene expression in beta cells	-0.022221744600301175	1.0167555496112262
+LS	Reactome::Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	0.01406791527157755	1.0167481392892963
+LS	Reactome::Phospholipase C-mediated cascade: FGFR1	0.02297735452410579	1.0167425536433943
+LS	Reactome::Negative regulation of FGFR3 signaling	-0.014536708919838048	1.016713959906781
+LS	Reactome::Transcriptional regulation of brown and beige adipocyte differentiation	-0.00032197886768378864	1.0167084124550705
+LS	Reactome::Transcriptional regulation of brown and beige adipocyte differentiation by EBF2	-0.00032197886768378864	1.0167084124550705
+LS	Reactome::POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation	-0.008047322505388605	1.0167040265867806
+LS	Reactome::Classical antibody-mediated complement activation	0.029031597383552443	1.0167008413871006
+LS	Hallmark::HALLMARK_WNT_BETA_CATENIN_SIGNALING	-0.022326038178899495	1.0166643836046807
+LS	Reactome::Negative regulation of MET activity	-0.034626887327711	1.0166481362464033
+LS	Reactome::MAPK3 (ERK1) activation	-0.019388896487495543	1.0166429521029627
+LS	Reactome::Signaling by NTRKs	-0.03395656488634873	1.0166343696050923
+LS	Reactome::Asymmetric localization of PCP proteins	0.036002509758707536	1.0166184749544946
+LS	Reactome::GLI3 is processed to GLI3R by the proteasome	0.008088561833510583	1.0166064231276035
+LS	Reactome::Mitochondrial translation initiation	0.03105037004318982	1.0165973432264177
+LS	Reactome::Mitochondrial protein import	0.032558992786386756	1.016571637671839
+LS	Reactome::Defective CFTR causes cystic fibrosis	-0.008687685713628697	1.0165615192462476
+LS	Reactome::Mitochondrial translation elongation	0.029665107634542675	1.016547316663933
+LS	Reactome::Laminin interactions	-0.004694613633821567	1.0165415148466421
+LS	Reactome::COPII-mediated vesicle transport	-0.026809586445882237	1.0165415118459755
+LS	Reactome::MHC class II antigen presentation	-0.009598808872251025	1.016533588276466
+LS	Reactome::PKMTs methylate histone lysines	-0.02504546085136345	1.0165111768037118
+LS	pathway::Keratinocyte_differentiation	-0.004814857970942585	1.016489355395106
+LS	Reactome::Condensation of Prometaphase Chromosomes	-0.022955340167749076	1.0164784633902422
+LS	Reactome::Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	0.014155283508962165	1.016476975960557
+LS	Reactome::Negative regulation of FGFR4 signaling	0.0013808995612163031	1.0164559508779583
+LS	Reactome::Mitochondrial translation	0.03080407663154168	1.0164376638018062
+LS	Reactome::GTP hydrolysis and joining of the 60S ribosomal subunit	0.03433156113635507	1.0164331770188602
+LS	Reactome::PI3K events in ERBB2 signaling	-0.03471708902833523	1.0163875119385297
+LS	Reactome::Germ layer formation at gastrulation	-0.03007238342454862	1.0163869346290189
+LS	Reactome::Activation of SMO	-0.02244670453382116	1.0163645924452145
+NL	signaling_PROGENy::JAK-STAT	0.11351400205263139	5.22882086618218
+NL	regulon_DoRothEA::CEBPA	0.320746737368421	4.0124817428033275
+NL	regulon_DoRothEA::STAT1	0.3072552803947368	3.9679950486970856
+NL	regulon_DoRothEA::FOS	0.1651721006842106	3.3774387643347525
+NL	regulon_DoRothEA::IRF3	0.030144539210526435	3.1452405767007026
+NL	signaling_PROGENy::TGFb	0.3248959309210526	3.101629574297035
+NL	signaling_PROGENy::NFkB	-0.06636175714473683	2.5320410720961775
+NL	regulon_DoRothEA::NFKB1	0.02861696203947377	2.429350051222523
+NL	signaling_PROGENy::TNFa	-0.013563595263157915	2.3313357413513
+NL	regulon_DoRothEA::HIF1A	0.10555130782894742	2.3076203762318657
+NL	signaling_PROGENy::Hypoxia	0.05219521578355263	2.1724607111380445
+NL	signaling_PROGENy::EGFR	-0.18772999635526313	2.1683710446868574
+NL	signaling_PROGENy::PI3K	-0.10516883406578945	2.1340773312365875
+NL	regulon_DoRothEA::SMAD3	0.13672417618421057	2.067907770450254
+NL	regulon_DoRothEA::IRF1	0.10101972493421052	2.0095886238569394
+NL	regulon_DoRothEA::RELA	0.03566778439473687	1.923732237976274
+NL	regulon_DoRothEA::STAT3	-0.011286842921052625	1.9120007053017458
+NL	signaling_PROGENy::p53	-0.1627735244385526	1.7274247336845217
+NL	regulon_DoRothEA::JUN	-0.020974657506578953	1.7176865993573949
+NL	signaling_PROGENy::MAPK	-0.04528135486842105	1.7109458347039967
+NL	signaling_PROGENy::Androgen	0.0980996870131579	1.648893066607268
+NL	regulon_DoRothEA::AHR	0.023486057240789514	1.5720431227312106
+NL	regulon_DoRothEA::CEBPB	0.1001299322368421	1.540108234518821
+NL	signaling_PROGENy::Trail	0.05599679559078946	1.3625492522639853
+NL	signaling_PROGENy::WNT	0.050250351796052625	1.1693410613861874
+NL	signaling_PROGENy::VEGF	0.010628554428947378	1.1573130032912402
+NL	signaling_PROGENy::Estrogen	-0.029166395657894712	1.0587401100912583
+NL	Reactome::tRNA modification in the mitochondrion	-0.008360349147751104	1.0317359321350503
+NL	Reactome::Ion transport by P-type ATPases	0.0022171797710492207	1.0306798923867553
+NL	Reactome::Metallothioneins bind metals	-0.002712021795281468	1.0304428613950742
+NL	Reactome::Response to metal ions	-0.01111775387164625	1.0298104005020146
+NL	Reactome::Hormone ligand-binding receptors	0.003430214297205275	1.0296694227517238
+NL	Reactome::Signaling by NOTCH2	-0.009970874972568218	1.0288208487726624
+NL	Reactome::Protein folding	-0.0018304687448424512	1.0285422963884077
+NL	Reactome::Assembly Of The HIV Virion	-0.001161268138825938	1.0285068127202757
+NL	Reactome::Negative regulation of activity of TFAP2 (AP-2) family transcription factors	-0.020638485395143947	1.0278660850971402
+NL	Reactome::Synthesis And Processing Of GAG, GAGPOL Polyproteins	0.0010236172310907753	1.0278530537102948
+NL	Reactome::Membrane binding and targetting of GAG proteins	0.0010236172310907753	1.0278530537102948
+NL	Reactome::Nephrin family interactions	-0.0057242848678161415	1.0278062879196248
+NL	Reactome::NOTCH3 Activation and Transmission of Signal to the Nucleus	-0.0025202328330230215	1.0277070916241962
+NL	Reactome::Formation of the polybromo-BAF (pBAF) complex	0.01588428439873939	1.0275154215043578
+NL	Reactome::Cargo concentration in the ER	-0.0015222355460539044	1.0273814555988072
+NL	Reactome::Neurotransmitter release cycle	-0.01502000828474962	1.0273494008741637
+NL	Reactome::CD209 (DC-SIGN) signaling	0.011020537861474675	1.0269910524603405
+NL	Reactome::Formation of definitive endoderm	0.013387552220481488	1.026898074930916
+NL	Reactome::Activation of the TFAP2 (AP-2) family of transcription factors	-0.026953084462527522	1.0267322651421367
+NL	Reactome::Infection with Mycobacterium tuberculosis	0.01649971854903714	1.0267071737950157
+NL	Reactome::Formation of HIV elongation complex in the absence of HIV Tat	-0.006497591545467495	1.0267016196912284
+NL	Reactome::Formation of TC-NER Pre-Incision Complex	-0.007112076174365238	1.0266556422985902
+NL	Reactome::Regulation of MITF-M-dependent genes involved in extracellular matrix, focal adhesion and epithelial-to-mesenchymal transition	0.019389745442068132	1.02662692724521
+NL	Reactome::HIV Transcription Elongation	-0.004403405060501689	1.0264898846937418
+NL	Reactome::Formation of HIV-1 elongation complex containing HIV-1 Tat	-0.004403405060501689	1.0264898846937418
+NL	Reactome::Tat-mediated elongation of the HIV-1 transcript	-0.004403405060501689	1.0264898846937418
+NL	Reactome::ATF4 activates genes in response to endoplasmic reticulum  stress	0.01062876056025391	1.0262897434158316
+NL	Reactome::Signaling by TGFB family members	0.011783710988880617	1.026228885653818
+NL	Reactome::Formation of the canonical BAF (cBAF) complex	-0.011564787184882727	1.0262032290340783
+NL	Reactome::Spry regulation of FGF signaling	-0.014398457138885911	1.026119690534967
+NL	Reactome::DNA Damage Recognition in GG-NER	0.0038880127810737458	1.0261158069891292
+NL	Reactome::mTORC1-mediated signalling	-0.023860938139443785	1.026007010330509
+NL	Reactome::RHOB GTPase cycle	0.009494523626849686	1.0259167841962324
+NL	Reactome::Chaperonin-mediated protein folding	-0.008507984557873105	1.0259006305991996
+NL	Reactome::Downstream signal transduction	0.02147125677091539	1.0258544370782336
+NL	Reactome::Mitochondrial RNA degradation	0.022640249741835806	1.0257492943197086
+NL	Reactome::Termination of translesion DNA synthesis	0.004729176902862927	1.0257325800102075
+NL	Reactome::Uptake and function of anthrax toxins	0.008601853738250679	1.0257294832388293
+NL	Reactome::Mitochondrial mRNA modification	0.006891526501256748	1.0257155496823551
+NL	Reactome::DNA Damage Bypass	-0.016520740071463584	1.025690582901379
+NL	Reactome::Pausing and recovery of HIV elongation	0.0033041044614123315	1.0256046697525456
+NL	Reactome::HIV elongation arrest and recovery	0.0033041044614123315	1.0256046697525456
+NL	Reactome::Formation of the non-canonical BAF (ncBAF) complex	0.022193018604037926	1.0255391536884924
+NL	Reactome::Regulation of TP53 Activity through Acetylation	-0.019096531272900216	1.0255074044979304
+NL	Reactome::NFE2L2 regulating anti-oxidant/detoxification enzymes	-0.008929617653799272	1.0254960981320755
+NL	Reactome::Cellular response to starvation	0.0056391994060893905	1.0254517376707772
+NL	Reactome::RHOC GTPase cycle	0.021268444315040793	1.02543592255912
+NL	Reactome::Extra-nuclear estrogen signaling	-0.01702904157865934	1.0253811493918874
+NL	Reactome::Recruitment of NuMA to mitotic centrosomes	-0.019502693268266248	1.0252311275426294
+NL	Reactome::Recruitment of mitotic centrosome proteins and complexes	-0.01637471474422477	1.0252225039679155
+NL	Reactome::Centrosome maturation	-0.01637471474422477	1.0252225039679155
+NL	Reactome::Transcriptional regulation of testis differentiation	0.02181835365092265	1.0251835374896596
+NL	Reactome::NOTCH2 Activation and Transmission of Signal to the Nucleus	0.006693565042202248	1.0251432640391342
+NL	Reactome::Signaling by Nuclear Receptors	-0.01718704771300718	1.0251098580680456
+NL	Reactome::PERK regulates gene expression	-0.0013318817228174086	1.02509386714583
+NL	Reactome::PI-3K cascade:FGFR3	0.02534269951629419	1.025075798743397
+NL	Reactome::Nucleotide Excision Repair	-0.02482898371314182	1.0250595968344047
+NL	Reactome::Transcription-Coupled Nucleotide Excision Repair (TC-NER)	-0.02327469846186748	1.0249692100980248
+NL	Reactome::EPH-Ephrin signaling	0.023686376461040087	1.0249229235260948
+NL	Reactome::ISG15 antiviral mechanism	-0.004457340080341457	1.0248882346804045
+NL	Reactome::Signaling by NTRK1 (TRKA)	-0.00582551617539574	1.024632241753336
+NL	Reactome::Regulation of MITF-M-dependent genes involved in pigmentation	0.0007211667437835651	1.0245575620911442
+NL	Reactome::Transport of Mature Transcript to Cytoplasm	-0.013373070805683875	1.0245307752318458
+NL	Reactome::SARS-CoV-2 targets host intracellular signalling and regulatory pathways	0.025005563823260045	1.0245267702753278
+NL	Reactome::TGFBR3 PTM regulation	0.010736011185551031	1.024518523276998
+NL	Reactome::Signaling by NTRK2 (TRKB)	0.0042219561435683116	1.024498225572739
+NL	Reactome::COPII-mediated vesicle transport	-0.021482620488986946	1.0244039282148216
+NL	Reactome::RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	0.0130569096447574	1.0243946510979567
+NL	Reactome::Signal regulatory protein family interactions	0.02385472643944903	1.024338629434689
+NL	Hallmark::HALLMARK_WNT_BETA_CATENIN_SIGNALING	-0.02806414486251793	1.0243366987764406
+NL	Reactome::Protein methylation	-0.014088963018094305	1.024311139540487
+NL	Reactome::Transcriptional and post-translational regulation of MITF-M expression and activity	-0.018013777740004375	1.0243049400695858
+NL	Reactome::NFE2L2 regulating tumorigenic genes	0.005630783874219977	1.0243020269205674
+NL	Reactome::Post-translational modification: synthesis of GPI-anchored proteins	0.01484633606523169	1.0242984060181923
+NL	pathway::Oxidative_stress	0.00932637025978757	1.024252078193734
+NL	Reactome::Pausing and recovery of Tat-mediated HIV elongation	0.005341251716120347	1.024013327770723
+NL	Reactome::Tat-mediated HIV elongation arrest and recovery	0.005341251716120347	1.024013327770723
+NL	Reactome::Ion channel transport	0.006194052231129616	1.0240054456664645
+NL	Reactome::Gap-filling DNA repair synthesis and ligation in TC-NER	-0.02241609184119278	1.023967807206545
+NL	Reactome::Signaling by FGFR3	0.021530069664741688	1.0239025483919535
+NL	Reactome::Strand-asynchronous mitochondrial DNA replication	0.00927126765225417	1.0238648616562989
+NL	Hallmark::HALLMARK_ANDROGEN_RESPONSE	0.01930341420654985	1.0238339161090917
+NL	Reactome::RAC3 GTPase cycle	0.02997137452137454	1.023647056852897
+NL	Reactome::RHOH GTPase cycle	0.01730744898843412	1.0234840179935798
+NL	Reactome::Signaling by NTRKs	-0.01201974479485207	1.023428488147415
+NL	Reactome::Glycosphingolipid biosynthesis	-0.007060936261081075	1.0234095914654104
+NL	Reactome::RNA Polymerase III Transcription Termination	-0.016259325640494805	1.0233946796748334
+NL	Reactome::Formation of the Early Elongation Complex	0.0031249919115753652	1.0232466921874461
+NL	Reactome::Formation of the HIV-1 Early Elongation Complex	0.0031249919115753652	1.0232466921874461
+NL	Reactome::p75NTR regulates axonogenesis	-0.0012338614000829125	1.0231986036922733
+NL	Reactome::RHOD GTPase cycle	-0.004555193014012005	1.02314903130233
+NL	Reactome::Surfactant metabolism	0.03205837848205071	1.0230975265886515
+NL	Reactome::PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	0.015256536647166441	1.0230140102549579
+NL	Reactome::Negative regulation of the PI3K/AKT network	0.012249958516975155	1.022999457371428
+NL	pathway::WNT_signaling	-0.027918537260055547	1.022984120929354
+NL	Reactome::MicroRNA (miRNA) biogenesis	-0.010534138076020083	1.0228936202623085
+NL	Reactome::Signaling by NOTCH1 HD Domain Mutants in Cancer	-0.01615599699168428	1.0228182383210784
+NL	Reactome::Constitutive Signaling by NOTCH1 HD Domain Mutants	-0.01615599699168428	1.0228182383210784
+NL	Reactome::Ubiquinol biosynthesis	-0.0023218274887514983	1.0228161196048386
+NL	Reactome::Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	-0.007924801978536044	1.0228001657343182
+NL	Reactome::Formation of the ureteric bud	0.00879191453892042	1.022746872057002
+NL	Reactome::Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF)	0.02840040698468134	1.0226553603639785
+NL	Reactome::EPHA-mediated growth cone collapse	-0.013663410430964383	1.0226262068382863
+NL	Reactome::Formation of RNA Pol II elongation complex	-0.021288934858285914	1.022575466698182
+NL	Reactome::RNA Polymerase II Transcription Elongation	-0.021288934858285914	1.022575466698182
+NL	Reactome::Signaling by BMP	0.007371175183456664	1.0225329495554305
+NL	Reactome::Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	-0.010632266110933788	1.0224188421438245
+NL	Reactome::Regulation of gene expression in beta cells	0.015241677644268195	1.0223774610947374
+NL	Reactome::Dual incision in TC-NER	-0.021363510476478224	1.0223603708132192
+NL	Reactome::Global Genome Nucleotide Excision Repair (GG-NER)	-0.02753335233774418	1.0223554204903074
+NL	Reactome::HuR (ELAVL1) binds and stabilizes mRNA	0.03189132674554045	1.0223307182352752
+NL	pathway::Keratinocyte_differentiation	-0.03555900226152613	1.0222453988618903
+NL	Reactome::CD22 mediated BCR regulation	-0.009042707862696123	1.0220211096228353
+NL	Reactome::Regulation of Expression and Function of Type II Classical Cadherins	0.02917568555335704	1.0219143232383707
+NL	Reactome::Mitochondrial calcium ion transport	0.00991294971280853	1.021903457837131
+NL	Reactome::IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	-0.009189059488044478	1.0218712378982402
+NL	Reactome::IRAK1 recruits IKK complex	-0.009189059488044478	1.0218712378982402
+NL	Reactome::Interaction With Cumulus Cells And The Zona Pellucida	0.027823180318815904	1.0218435661406167
+NL	Reactome::Signaling by ALK	-0.005578493880530359	1.0217184803254673
+NL	Reactome::Processing of Capped Intron-Containing Pre-mRNA	0.003793070268665485	1.0217159095420745
+NL	Reactome::Transport of Mature mRNA derived from an Intron-Containing Transcript	-0.016991172452959617	1.0216711424084806
+NL	Reactome::mRNA 3'-end processing	0.02330459671676846	1.0216651842831028
+NL	Reactome::Nuclear RNA decay	-0.0181254807046758	1.021659865274631
+NL	Reactome::Heme degradation	-0.014376267497140341	1.0216543940967706
+NL	Reactome::RHOJ GTPase cycle	-0.010500403046990297	1.0215639908480925
+NL	Reactome::PI-3K cascade:FGFR2	0.02574534431649888	1.0214968241785944
+NL	Reactome::PI-3K cascade:FGFR4	0.03910557721262023	1.0214789133336477
+NL	Reactome::AKT phosphorylates targets in the nucleus	-0.0166078419524181	1.0214120518942607
+NL	Reactome::mRNA Editing	-0.008449216816198491	1.0213614855872322
+NL	Reactome::Myogenesis	0.00977806340607879	1.021324393596543
+NL	Reactome::Diseases of branched-chain amino acid catabolism	0.012114785847921744	1.0212932196164313
+NL	Reactome::Regulation of pyruvate metabolism	-0.01851832599642734	1.0212826448082613
+NL	Reactome::Potential therapeutics for SARS	0.008823873851170975	1.0212355400551798
+NL	Reactome::PI-3K cascade:FGFR1	0.02775467964097226	1.0211772045027396
+NL	Reactome::Signalling to ERKs	0.004677982470144619	1.021172484548367
+NL	Reactome::SUMOylation of transcription cofactors	-0.0004642201460297446	1.0209935211994128
+NL	Reactome::Heme signaling	0.008977594827713884	1.0208958099764263
+NL	Reactome::Amino acids regulate mTORC1	0.019497404828678462	1.020863682504114
+NL	Reactome::RNA Polymerase I Transcription Termination	-0.02213090870470148	1.0208556961341217
+NL	Reactome::HDL remodeling	-0.024617852771276986	1.0208418530338736
+NL	Reactome::O-linked glycosylation of mucins	-0.011436136942788082	1.0206816150363274
+NL	Reactome::Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	-0.013125401867335207	1.0205833256779986
+NL	Reactome::Signaling by Ligand-Responsive EGFR Variants in Cancer	-0.013125401867335207	1.0205833256779986
+NL	Reactome::Signaling by TGFBR3	0.006019517986121231	1.0205635486975486
+NL	Reactome::Signaling by MET	0.016698803886350304	1.0204983807737897
+NL	Reactome::N-glycan antennae elongation in the medial/trans-Golgi	0.026121930789885534	1.0204185632326364
+NL	Reactome::SWI/SNF chromatin remodelers	-0.0001690778585233196	1.0203730626585774
+NL	Reactome::Keratinization	0.022966164334676832	1.0203707635948926
+NL	Reactome::Mitochondrial translation termination	0.002137142704821083	1.020363953444959
+NL	Hallmark::HALLMARK_ESTROGEN_RESPONSE_EARLY	0.016099555334117718	1.0203235015014027
+NL	Reactome::Sensory perception of taste	0.006374548322361273	1.0203001911969327
+NL	Reactome::RHO GTPases Activate WASPs and WAVEs	0.021475656535557268	1.020289681793175
+NL	Hallmark::HALLMARK_PROTEIN_SECRETION	-0.03023522794616682	1.020283281561036
+NL	Reactome::RHOF GTPase cycle	0.008000421763330835	1.020253915602169
+NL	Reactome::MAPK6/MAPK4 signaling	-0.035467916429281404	1.020227143624552
+NL	Reactome::TP53 Regulates Transcription of Death Receptors and Ligands	0.008146429807147457	1.0202188407523844
+NL	Reactome::Mitochondrial tRNA aminoacylation	-0.03187923569276444	1.0201910456811223
+NL	Reactome::Regulation of CDH11 Expression and Function	0.030311394548200934	1.0201781994829195
+NL	Reactome::Mitochondrial protein import	0.006583553461728777	1.0201740741512346
+NL	Reactome::Negative regulators of DDX58/IFIH1 signaling	0.017691515597042885	1.0201156505997773
+NL	Reactome::Processing of SMDT1	0.0015058672451852453	1.0201138295661691
+NL	Reactome::Interaction between L1 and Ankyrins	0.02501917688516604	1.0201061597700585
+NL	Reactome::MITF-M-regulated melanocyte development	-0.0031642232896003644	1.0200621958670506
+NL	Reactome::Maturation of nucleoprotein_9694631	0.03231272358939496	1.020033711790535
+NL	Reactome::Class I peroxisomal membrane protein import	0.012992547028206297	1.020031114225853
+NL	Reactome::L1CAM interactions	0.013827039722848775	1.0199868710700355
+NL	Reactome::Regulation of signaling by CBL	-0.024935451767452963	1.0199738677984698
+NL	Reactome::Signaling by FGFR3 in disease	0.032135320904786095	1.0199073040289655
+NL	Reactome::Constitutive Signaling by EGFRvIII	-0.014294550066723685	1.0198576938355777
+NL	Reactome::Signaling by EGFRvIII in Cancer	-0.014294550066723685	1.0198576938355777
+NL	cell_state::T_cells	0.004762877665789291	1.0198035957888951
+NL	Reactome::Processing of Intronless Pre-mRNAs	0.007583685635631217	1.019793480486798
+NL	Reactome::Signaling by ERBB2 ECD mutants	-0.005996192149171416	1.0197884146710938
+NL	Reactome::G alpha (q) signalling events	0.01562070155970431	1.0197071750652034
+NL	Reactome::Formation of the embryonic stem cell BAF (esBAF) complex	0.03799467386756243	1.0196311358626367
+NL	Reactome::NOTCH4 Activation and Transmission of Signal to the Nucleus	-0.010040552709609978	1.0195862762964836
+NL	Reactome::PIP3 activates AKT signaling	0.005503645829760744	1.0195690465333556
+NL	Reactome::NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	-0.016485280658262207	1.0194711164038186
+NL	Reactome::Prefoldin mediated transfer of substrate  to CCT/TriC	-0.025892447967981014	1.019462606019556
+NL	cell_state::NK_cells	0.03588603604434106	1.0194333402217253
+NL	Reactome::mRNA Polyadenylation	0.02982206429049187	1.019401309558984
+NL	Reactome::Transport to the Golgi and subsequent modification	-0.011228600928888482	1.0193934542150143
+NL	Reactome::Mitochondrial ribosome-associated quality control	0.0024600930920792917	1.0193809505043472
+NL	Reactome::PI3K/AKT Signaling in Cancer	0.016025144355424667	1.0193626364915473
+NL	Reactome::Interleukin-3, Interleukin-5 and GM-CSF signaling	0.017024228889513084	1.0193482917024494
+NL	Reactome::Mitochondrial translation	0.002167365495232859	1.0193220855711078
+NL	Reactome::PINK1-PRKN Mediated Mitophagy	-0.03552326595112908	1.019253820197559
+NL	Reactome::OAS antiviral response	-0.0001820429297707607	1.0192537129456498
+NL	Reactome::Regulation of localization of FOXO transcription factors	-0.018404185457674544	1.0192048714570976
+NL	Reactome::Interleukin-27 signaling	0.0009372276156593688	1.019204591648177
+NL	Reactome::NR1H2 and NR1H3-mediated signaling	0.030746092380439016	1.0191811251437302
+NL	Reactome::Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	-0.023595036118311864	1.0191621771654544
+NL	Reactome::Processing of Capped Intronless Pre-mRNA	-0.015412964958770689	1.0191563489415945
+NL	Reactome::RNA Polymerase II Transcription Termination	-0.015412964958770689	1.0191563489415945
+NL	Reactome::Recognition of DNA damage by PCNA-containing replication complex	-0.029521824511014483	1.0191540140980975
+NL	Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB	0.01940204453747866	1.019100661657108
+NL	Reactome::Mitochondrial translation elongation	0.002007381386262767	1.019073317984215
+NL	Reactome::Recycling of bile acids and salts	-0.03221107804591148	1.0190394059527161
+NL	Reactome::Pregnenolone biosynthesis	-0.007064718821688967	1.0190255112620772
+NL	Reactome::Role of LAT2/NTAL/LAB on calcium mobilization	-0.013625862779178585	1.0190004150610852
+NL	Reactome::Defects in vitamin and cofactor metabolism	0.01691563987057471	1.0189674123425343
+NL	Reactome::PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	0.022912656977125998	1.0188938139688306
+NL	Reactome::Regulation of CDH1 posttranslational processing and trafficking to plasma membrane	-0.00654267534836475	1.0188851870371525
+NL	Reactome::Vitamin B5 (pantothenate) metabolism	0.03083792530771457	1.0188695742171487
+NL	Reactome::p38MAPK events	0.031208451641115437	1.0188573696162575
+NL	Reactome::Signaling by NOTCH1 PEST Domain Mutants in Cancer	-0.0052263020259070165	1.018820798179132
+NL	Reactome::Constitutive Signaling by NOTCH1 PEST Domain Mutants	-0.0052263020259070165	1.018820798179132
+NL	Reactome::Signaling by NOTCH1 in Cancer	-0.0052263020259070165	1.018820798179132
+NL	Reactome::Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	-0.0052263020259070165	1.018820798179132
+NL	Reactome::Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	-0.0052263020259070165	1.018820798179132
+NL	Reactome::Downstream signaling of activated FGFR3	0.0385260722258393	1.0188202809788285
+NL	Reactome::Erythropoietin activates RAS	-0.011858596333118967	1.0188161951797827
+NL	Reactome::eNOS activation	0.02362678530505194	1.0188140058551312
+NL	Reactome::Signaling by ALK in cancer	0.0015372682117274137	1.0188109221225352
+NL	Reactome::Signaling by ALK fusions and activated point mutants	0.0015372682117274137	1.0188109221225352
+NL	Reactome::Prevention of phagosomal-lysosomal fusion	0.02778798769783404	1.018790348948735
+NL	Reactome::Signaling by FGFR4	0.04207747353321288	1.018768861330757
+NL	Reactome::Mitochondrial translation initiation	0.0029791753868118062	1.0187323578344256
+NL	Reactome::TGF-beta receptor signaling activates SMADs	0.009158617604785929	1.0187102777219892
+NL	Reactome::Response of EIF2AK4 (GCN2) to amino acid deficiency	-0.004642729870165114	1.0186935522020168
+NL	Reactome::RNA Polymerase I Transcription Initiation	-0.026157077469916374	1.0186881744373533
+NL	Reactome::Stabilization of p53	-0.012988352218960995	1.0186104249531938
+NL	Reactome::tRNA processing	-0.036714174398080404	1.0185820406843873
+NL	Reactome::Budding and maturation of HIV virion	-0.02599651783221003	1.018575974089654
+NL	Reactome::Influenza Viral RNA Transcription and Replication	-0.02447936912982198	1.018564416630052
+NL	Reactome::Formation of the dystrophin-glycoprotein complex (DGC)	0.007059711641305593	1.0185529762462178
+NL	Reactome::Signaling by SCF-KIT	-0.0023033980434834854	1.0185225725448377
+NL	Reactome::RNA Pol II CTD phosphorylation and interaction with CE during HIV infection	-0.009006856713354577	1.0184736887292052
+NL	Reactome::Signaling by CSF1 (M-CSF) in myeloid cells	0.013616364667238543	1.0184245315529472
+NL	Reactome::Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	-0.01287223563812609	1.0184196485039556
+NL	Reactome::MAPK1/MAPK3 signaling	0.026006560469621794	1.0183911838375228
+NL	Reactome::TNFR2 non-canonical NF-kB pathway	0.014128409889708725	1.0183612048826978
+NL	Reactome::Interleukin-12 signaling	-0.011215530806007262	1.018355765071789
+NL	Reactome::Cardiogenesis	0.020672696393793873	1.018337979292916
+NL	Reactome::Fanconi Anemia Pathway	-0.025525830251407765	1.0182790459206146
+NL	Reactome::Response of Mtb to phagocytosis	-0.016059445446353123	1.0182475289546122
+NL	Reactome::Tryptophan catabolism	0.002339978783905661	1.0181988177475825
+NL	Reactome::Regulation of FZD by ubiquitination	0.01981909279265104	1.018149085990605
+NL	Reactome::Downstream signaling of activated FGFR2	0.03834854057513417	1.0181177897354452
+NL	Reactome::MET activates RAP1 and RAC1	-0.023948955095966108	1.0181144310081212
+NL	Reactome::Purine salvage	-0.02207349106013146	1.0180734714353146
+NL	Reactome::Negative regulation of MAPK pathway	-0.01659031221834704	1.018057772589323
+NL	Reactome::Gap-filling DNA repair synthesis and ligation in GG-NER	-0.031164828760250035	1.0180430749348115
+NL	Reactome::Loss of proteins required for interphase microtubule organization from the centrosome	-0.027393841311098576	1.0180264136468247
+NL	Reactome::Loss of Nlp from mitotic centrosomes	-0.027393841311098576	1.0180264136468247
+NL	Reactome::Co-inhibition by CTLA4	-0.002163056635594677	1.0180167480332403
+NL	Reactome::TRAF6 mediated NF-kB activation	0.02862530326596728	1.0179955524440667
+NL	Reactome::Mitophagy	-0.03618434684134232	1.0179517899001458
+NL	cell_state::Neutrophils	0.025251196934281316	1.017949720870801
+NL	Reactome::Mechanical load activates signaling by PIEZO1 and integrins in osteocytes	0.00038137882355110105	1.017920149410229
+NL	Reactome::Phase 4 - resting membrane potential	-0.03826618025309624	1.0178361594054648
+NL	Reactome::Abortive elongation of HIV-1 transcript in the absence of Tat	0.01563328703712465	1.0177652539866129
+NL	Reactome::FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	0.03462572440066035	1.0177604819021167
+NL	Reactome::Signaling by TGF-beta Receptor Complex	-0.023165514747374154	1.0177336090827682
+NL	Reactome::RAF/MAP kinase cascade	0.02778429915773184	1.0176340722319135
+NL	Reactome::MAP3K8 (TPL2)-dependent MAPK1/3 activation	-0.04145888718814378	1.017602508921971
+NL	Reactome::RAC2 GTPase cycle	0.026200901947198884	1.0176014219659513
+NL	Reactome::Influenza Infection	-0.020147105657205316	1.017532124959626
+NL	Reactome::Specification of primordial germ cells	-0.03838806555362956	1.0175288197807566
+NL	Hallmark::HALLMARK_TGF_BETA_SIGNALING	0.027290647434867	1.0175112943535518
+NL	Reactome::Downstream signaling of activated FGFR1	0.031664421027823464	1.017494735438419
+NL	Reactome::Nuclear signaling by ERBB4	-0.02885517058485926	1.0174562229263755
+NL	Reactome::MAPK targets/ Nuclear events mediated by MAP kinases	0.007312224581549857	1.0173486537908478
+NL	Reactome::Purine ribonucleoside monophosphate biosynthesis	-0.005822641827423598	1.0173447385768863
+NL	Reactome::Signaling by LTK	0.004405799989528802	1.0173326040736135
+NL	Reactome::Eukaryotic Translation Elongation	-0.004781403477540369	1.0173084834932926
+NL	Reactome::Activation of AMPK downstream of NMDARs	-0.004571835160047309	1.0173006264433007
+NL	cell_state::Keratinocyte	0.017578763199010194	1.0172901281389628
+NL	Reactome::Host Interactions of HIV factors	-0.005474305734486728	1.0172838667039126
+NL	Reactome::Uptake of dietary cobalamins into enterocytes	0.02397666513086803	1.01728332531853
+NL	Reactome::Post NMDA receptor activation events	-0.006097172989445817	1.017281955991206
+NL	Reactome::mRNA decay by 5' to 3' exoribonuclease	0.004295231879045986	1.0172274415361153
+NL	Reactome::RHOA GTPase cycle	0.03855043655563708	1.0171970915906732
+NL	Reactome::Signaling by WNT in cancer	-0.013637727393160297	1.0171853308985837
+NL	Reactome::FGFR2b ligand binding and activation	0.040498239226442835	1.0171786689019793
+NL	Reactome::APC/C:Cdc20 mediated degradation of Securin	-0.017151857924284353	1.0171654834025587
+NL	Reactome::Non-integrin membrane-ECM interactions	0.02622769080472905	1.0171597660737928
+NL	Reactome::FCGR3A-mediated phagocytosis	0.006198234233287716	1.0171534937194178
+NL	Reactome::Parasite infection	0.006198234233287716	1.0171534937194178
+NL	Reactome::Leishmania phagocytosis	0.006198234233287716	1.0171534937194178
+NL	Reactome::Downregulation of ERBB2:ERBB3 signaling	-0.005671285735655945	1.0171162711704604
+NL	Reactome::Retrograde neurotrophin signalling	0.018719442986289702	1.0170620553452354
+NL	Reactome::Protein hydroxylation	0.0024677625608919575	1.016949336260607
+NL	Reactome::Dual Incision in GG-NER	-0.017601980001523885	1.0169158356281274
+NL	Reactome::Signaling by FGFR1	0.034799284195914916	1.016908142732927
+NL	Reactome::Nucleotide biosynthesis	-0.013744902663836947	1.0169077028749032
+NL	Reactome::Degradation of CRY and PER proteins	-0.0022428882853327177	1.0168867990813977
+NL	Reactome::C-type lectin receptors (CLRs)	-0.025862734894633824	1.0168761988404484
+NL	Reactome::Signaling by FGFR4 in disease	-0.01641004672773304	1.016861097138051
+NL	Reactome::RNA Pol II CTD phosphorylation and interaction with CE	-0.012433291499335508	1.0168138771579514
+NL	Reactome::mRNA Capping	-0.01272610108717016	1.016811943355403
+NL	Reactome::Signaling by NOTCH	0.008585760422550867	1.016806896775983
+NL	Reactome::Anchoring of the basal body to the plasma membrane	-0.032172106938566494	1.0167119646025948
+NL	Reactome::Polymerase switching on the C-strand of the telomere	-0.03947462662296484	1.0166864444375625
+NL	Reactome::Pyruvate metabolism	0.02797234183922115	1.01666074988016
+NL	Reactome::Macroautophagy	-0.01614688410864709	1.016588973493476
+NL	Reactome::Signaling by ERBB4	-0.025376782334049473	1.0165375826371918
+NL	Reactome::Expression of BMAL (ARNTL), CLOCK, and NPAS2	-0.009855315287299252	1.0165020729627707
+NL	Reactome::HIV Infection	-0.028259087121321788	1.0164888037243132
+NL	Reactome::Signaling by KIT in disease	0.013066969546538777	1.0164627404836508
+NL	Reactome::Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants	0.013066969546538777	1.0164627404836508
+NL	Reactome::Negative regulation of FGFR3 signaling	0.0440979783756282	1.0164436594404205
+NL	Reactome::RHO GTPases activate CIT	-0.026042146569352415	1.0163932840917524
+NL	Reactome::Vitamin D (calciferol) metabolism	0.006874538266595037	1.0163363556813314
+NL	Reactome::Selenoamino acid metabolism	-0.009389138284945186	1.0163324709645998
+NL	Reactome::Activation of the AP-1 family of transcription factors	0.023655608816619184	1.0162730530652606
+NL	Reactome::Interleukin-10 signaling	0.01606302553711577	1.0162719916602476
+NL	Reactome::Activation of SMO	-0.0004943285605253462	1.0162214675626569
+NL	Reactome::Activation of NMDA receptors and postsynaptic events	-0.007769501189577538	1.0162048521070666
+NL	Reactome::Regulation of pyruvate dehydrogenase (PDH) complex	0.03670466357556514	1.0162042535912692
+NL	Reactome::Constitutive Signaling by Aberrant PI3K in Cancer	0.024632198495489862	1.0161930034677416
+NL	Reactome::Autodegradation of Cdh1 by Cdh1:APC/C	-0.011012844031746617	1.0161818899890958
+NL	Reactome::Suppression of phagosomal maturation	-0.004564599600917895	1.016164302344843
+NL	Reactome::Sema4D in semaphorin signaling	0.0283360102447016	1.0161616539906961
+NL	Reactome::p53-Dependent G1 DNA Damage Response	-0.029709914238430484	1.0161196787924556
+NL	Reactome::p53-Dependent G1/S DNA damage checkpoint	-0.029709914238430484	1.0161196787924556
+NL	Reactome::RHOG GTPase cycle	0.02993659165304553	1.0161194367429167
+NL	Reactome::Scavenging by Class A Receptors	0.015245563809510289	1.0160813038176317
+NL	Reactome::Downstream signaling events of B Cell Receptor (BCR)	-0.02173962384009696	1.016054269011382
+NL	Reactome::Creation of C4 and C2 activators	0.018222585845041425	1.016035276875114
+NL	Reactome::Defensins	-0.0018648261217353247	1.0159600125989598
+NL	Hallmark::HALLMARK_MYC_TARGETS_V1	-0.02871379995091562	1.0159455551259213
+NL	Reactome::Keratan sulfate biosynthesis	0.03858977843418886	1.015943838829415
+NL	Reactome::Regulation of actin dynamics for phagocytic cup formation	0.007687199045815519	1.0159198822259177
+NL	Reactome::mRNA Splicing	0.014696893563605352	1.0158962643869245
+NL	Reactome::Resolution of Abasic Sites (AP sites)	-0.014758183799415972	1.0158469170796336
+NL	Reactome::VEGFA-VEGFR2 Pathway	0.04432641951343783	1.0158426976627624
+NL	Reactome::Sensory processing of sound	0.025952805305958653	1.0158303363330672
+NL	Reactome::NS1 Mediated Effects on Host Pathways	-0.03562223809703232	1.015806235488724
+NL	Reactome::Unfolded Protein Response (UPR)	0.016156117490701918	1.0157843059224707
+NL	Reactome::RAC1 GTPase cycle	0.04169214344980712	1.01572997706073
+NL	Reactome::Netrin-1 signaling	0.00968373338623063	1.0157264268744286
+NL	Reactome::Translocation of SLC2A4 (GLUT4) to the plasma membrane	-0.02718393338902962	1.015707458424757
+NL	Reactome::MITF-M-dependent gene expression	-0.005453078964099125	1.0156918963240809
+NL	Reactome::RHOBTB1 GTPase cycle	0.00016076480886293316	1.015658747440089
+NL	Reactome::Transcriptional regulation by RUNX3	0.0010567714940002532	1.0156493605552468
+NL	Reactome::Downstream signaling of activated FGFR4	0.04850010546766738	1.0155405091466116
+NL	Reactome::Insulin processing	-0.021573666542485465	1.0155331373905199
+NL	Reactome::ERK/MAPK targets	0.012523541836079958	1.0155291400688693
+NL	Reactome::STAT5 activation downstream of FLT3 ITD mutants	0.035582418474291146	1.0154930506615307
+NL	Reactome::Dissolution of Fibrin Clot	-0.018913221757593378	1.015492521393321
+NL	pathway::Fibroblast_activation	0.0060182783503974855	1.015481808996403
+NL	Reactome::Transport of Mature mRNAs Derived from Intronless Transcripts	-0.03284580095329801	1.0154619479495641
+NL	Reactome::DCC mediated attractive signaling	0.007219146755608594	1.0154609209408876
+NL	Reactome::Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	0.00597213914861885	1.0154473226945142
+NL	Reactome::SARS-CoV-2-host interactions	-0.008096619473026742	1.0153747401973015
+NL	cell_state::CD8_TRM	0.0047735809827951035	1.0153466716525177
+NL	Reactome::Regulation of beta-cell development	0.019876299887785352	1.0153163426531138
+NL	Reactome::NOTCH4 Intracellular Domain Regulates Transcription	0.02236079101725139	1.015311535948854
+NL	Reactome::Eukaryotic Translation Termination	0.001861813653633234	1.0152992842902122
+NL	Reactome::Lysosphingolipid and LPA receptors	-0.024536121302188248	1.0152772127829481
+NL	Reactome::MTOR signalling	0.003737532216875832	1.0152269458623067
+NL	Reactome::ABC-family protein mediated transport	0.021080606443899332	1.015224351891116
+NL	Reactome::E3 ubiquitin ligases ubiquitinate target proteins	-0.003151149459414225	1.0151858005850354
+NL	Reactome::Metabolism of folate and pterines	0.04063657941341312	1.0151017810664895
+NL	Reactome::Signaling by FGFR1 in disease	0.041476113350202744	1.0150642440573125
+NL	Reactome::Protein ubiquitination	-0.03134437726796518	1.015045377480611
+NL	Reactome::Transmission across Chemical Synapses	0.0012845423661998522	1.0150388502368537
+NL	Reactome::Regulation of cholesterol biosynthesis by SREBP (SREBF)	-0.027309036135114022	1.0150171578923826
+NL	Reactome::tRNA modification in the nucleus and cytosol	-0.03850791156256454	1.0150101310508919
+NL	Reactome::Signaling by PTK6	-0.04043406899070398	1.0149798102535332
+NL	Reactome::Signaling by Non-Receptor Tyrosine Kinases	-0.04043406899070398	1.0149798102535332
+NL	Reactome::mRNA Splicing - Major Pathway	0.014543045041933947	1.0149671127190625
+NL	Reactome::Cdc20:Phospho-APC/C mediated degradation of Cyclin A	-0.03344870913080304	1.0149386345748759
+NL	Reactome::SRC activates STAT3 in a quantitative manner, through Cadherin-11 (CDH11), RAC1 and gp130 (IL6ST)	0.024828733463232486	1.014927387363005
+NL	Reactome::Miscellaneous substrates	-0.032040579314664086	1.0149208979299003
+NL	Reactome::RHO GTPases Activate ROCKs	0.004212060374977874	1.0148811718978314
+NL	Reactome::Aberrant regulation of mitotic exit in cancer due to RB1 defects	-0.03115328628696069	1.0148677116449678
+NL	Reactome::Signaling by Retinoic Acid	0.026227629788974537	1.0148489753922842
+NL	Reactome::Signaling by PDGF	0.03710118465462208	1.0148460263948609
+NL	Reactome::Classical antibody-mediated complement activation	0.012202312205691627	1.0148091621908208
+NL	Reactome::p75NTR recruits signalling complexes	0.004616060552318286	1.014787820718619
+NL	Reactome::Activation of Matrix Metalloproteinases	0.007612446971586971	1.0147856663440467
+NL	pathway::ECM_organization	-0.009901600862751747	1.0147621108462996
+NL	Reactome::Signaling by NTRK3 (TRKC)	0.03857429035479134	1.0147509134385668
+NL	Reactome::mRNA Splicing - Minor Pathway	0.010036457267684575	1.0147228998705726
+NL	Reactome::Cobalamin (Cbl, vitamin B12) transport and metabolism	0.015630253120397907	1.0146145615274327
+NL	Reactome::UCH proteinases	-0.03481023820960231	1.0145924669201996
+NL	Reactome::Stimuli-sensing channels	0.0053396157670786695	1.0145803103986266
+NL	Reactome::AUF1 (hnRNP D0) binds and destabilizes mRNA	-0.007862686130022051	1.0145711809846498
+NL	Reactome::Glycosaminoglycan metabolism	0.029934556950735686	1.014568457814467
+NL	Hallmark::HALLMARK_DNA_REPAIR	-0.0007523914637500836	1.0145407235062267
+NL	Reactome::TP53 Regulates Metabolic Genes	0.03734411302306294	1.014524851310671
+NL	Reactome::Ca2+ pathway	0.03790611020673681	1.014515267705769
+NL	Reactome::ZBP1(DAI) mediated induction of type I IFNs	0.008572508429798184	1.0145100389599113
+NL	Hallmark::HALLMARK_INFLAMMATORY_RESPONSE	0.019498880627740068	1.0145087990470791
+NL	Reactome::SARS-CoV-2 activates/modulates innate and adaptive immune responses	-0.0032705129467121945	1.0144838996366405
+NL	pathway::Type_II_interferon	0.03747506346997046	1.0144787860291737
+NL	Reactome::rRNA processing in the nucleus and cytosol	-0.04022358162672011	1.0144786815999198
+NL	Reactome::WNT5A-dependent internalization of FZD2, FZD5 and ROR2	-0.03078598570262895	1.0144476119231094
+NL	Reactome::Epigenetic regulation of gene expression	0.038472090860862375	1.0143788747793498
+NL	Reactome::Interleukin-35 Signalling	0.02822377634375786	1.0143697424114402
+NL	Reactome::Post-chaperonin tubulin folding pathway	0.0023015666628592476	1.0142883160490272
+NL	Reactome::APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	-0.027320848947414968	1.0142779934566146
+NL	Reactome::Glucocorticoid biosynthesis	0.005328059156492483	1.0142463584307684
+NL	Reactome::Negative regulation of FGFR2 signaling	0.041600642646553644	1.0142388338355095
+NL	Reactome::Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	-0.0006966042915891634	1.014214773912729
+NL	Hallmark::HALLMARK_COMPLEMENT	0.024875325132841426	1.0142012407343663
+NL	Reactome::Activation of gene expression by SREBF (SREBP)	-0.013431883491690453	1.0141879821626354
+NL	Reactome::tRNA processing in the nucleus	-0.03644954374268235	1.01416693985308
+NL	Reactome::ALK mutants bind TKIs	-0.033582947614192275	1.014148445447143
+NL	Reactome::Synthesis of Leukotrienes (LT) and Eoxins (EX)	0.006554690323425404	1.0141190213645332
+NL	Reactome::Metal ion SLC transporters	-0.049082679497992936	1.0140690153319123
+NL	Reactome::TP53 Regulates Transcription of DNA Repair Genes	-0.025813254902131853	1.014048667811758
+NL	Reactome::Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.04228325491028364	1.0140125297189826
+NL	Reactome::Cell junction organization	-0.005552311754798762	1.013989037266297
+NL	Reactome::Serine metabolism	-0.043122702056101504	1.013970898168458
+NL	Reactome::Nuclear Events (kinase and transcription factor activation)	-0.026298504500152885	1.0139497928249481
+NL	Reactome::NGF-stimulated transcription	-0.03816013240224183	1.0139263833793306
+NL	Reactome::Beta defensins	-0.015205966628276136	1.0138951400864635
+NL	Reactome::RHO GTPases activate PAKs	-0.010590558441183201	1.013876245683358
+NL	Reactome::Oncogenic MAPK signaling	0.04076356157154571	1.0138758990587178
+NL	Reactome::EGR2 and SOX10-mediated initiation of Schwann cell myelination	-0.03050723307701773	1.0138395026415323
+NL	Reactome::FOXO-mediated transcription of cell death genes	-0.005723302338664839	1.0138282234925862
+NL	Reactome::Interleukin-6 family signaling	0.017841599655143286	1.0138117701872915
+NL	Reactome::Chemokine receptors bind chemokines	0.023530923216248906	1.0138074870619391
+NL	Reactome::RUNX3 regulates NOTCH signaling	0.017356588003619732	1.0137635834686916
+NL	Reactome::IRS-related events triggered by IGF1R	0.045562334542796276	1.0137553019388268
+NL	cell_state::NK_cell	0.04927162597631657	1.0137273539465332
+NL	Reactome::Metabolism of steroid hormones	-0.03984838900914957	1.0137238003619513
+NL	Reactome::Presynaptic depolarization and calcium channel opening	0.021499971365461976	1.0137095303032368
+NL	Reactome::Formation of a pool of free 40S subunits	0.0004144180266206732	1.013693719616498
+NL	Reactome::Transport of Mature mRNA Derived from an Intronless Transcript	-0.032186614228478454	1.0136106539589478
+BLD	signaling_PROGENy::JAK-STAT	0.07764905784210537	6.122200223122481
+BLD	regulon_DoRothEA::STAT1	0.3745482733815789	3.862317853987614
+BLD	regulon_DoRothEA::CEBPA	0.376703127	3.595395555398005
+BLD	regulon_DoRothEA::IRF1	0.10676623172368419	2.377748151223594
+BLD	regulon_DoRothEA::FOS	0.23140262044736845	2.2331876878152377
+BLD	regulon_DoRothEA::STAT3	0.12188297256578946	2.174019731958755
+BLD	signaling_PROGENy::NFkB	0.19409966631578945	2.0999420158281468
+BLD	regulon_DoRothEA::NFKB1	0.15932380799999998	1.9727905958775007
+BLD	regulon_DoRothEA::IRF3	-0.1058317732763158	1.9118579122516721
+BLD	regulon_DoRothEA::CEBPB	0.11431547486842107	1.784078185252149
+BLD	regulon_DoRothEA::HIF1A	0.17882384068421053	1.7499081154238458
+BLD	signaling_PROGENy::TNFa	0.1778234952236842	1.7290488982197767
+BLD	regulon_DoRothEA::RELA	0.16501344418421052	1.6850935110299161
+BLD	signaling_PROGENy::EGFR	-0.12899218036842106	1.6710546544389504
+BLD	regulon_DoRothEA::SMAD3	0.11651463073684218	1.5040946100036483
+BLD	regulon_DoRothEA::JUN	0.11826759232368418	1.4947246636338771
+BLD	regulon_DoRothEA::AHR	0.11854850289592107	1.4005918182608565
+BLD	signaling_PROGENy::Hypoxia	0.06691323220394735	1.3746834930169312
+BLD	signaling_PROGENy::PI3K	0.07221894039473681	1.3522530867463618
+BLD	signaling_PROGENy::Trail	0.015717525513157898	1.2001821376111785
+BLD	signaling_PROGENy::VEGF	0.03466087961842101	1.1504739066288365
+BLD	signaling_PROGENy::MAPK	0.0012870133947368461	1.1267344046478853
+BLD	signaling_PROGENy::TGFb	0.03986461657894737	1.1007181474876315
+BLD	signaling_PROGENy::Androgen	0.06926516611578946	1.067750682136684
+BLD	Reactome::Enterobacterial factors antagonize host defense	0.008806807726999844	1.0294729050887914
+BLD	Reactome::RHO GTPases Activate NADPH Oxidases	-0.013156858977746743	1.0293748461670713
+BLD	Reactome::Meiotic synapsis	-0.008288262815476878	1.0291559816807554
+BLD	Reactome::PIWI-interacting RNA (piRNA) biogenesis	0.014373622843853595	1.0291270147019869
+BLD	Reactome::SARS-CoV-2 modulates autophagy	-0.0029080361706214524	1.0290360715380655
+BLD	Reactome::Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	0.0071955660725247506	1.0289167942402935
+BLD	Reactome::Global Genome Nucleotide Excision Repair (GG-NER)	-6.036583936152409e-05	1.0288655692035649
+BLD	Reactome::rRNA modification in the mitochondrion	-0.015624737295416004	1.0287998049106668
+BLD	Reactome::Receptor-type tyrosine-protein phosphatases	-0.0065555581833164145	1.0287892922849469
+BLD	Reactome::Macroautophagy	0.007345262431035038	1.0286197493934788
+BLD	Reactome::Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	0.009376339179283806	1.0285701540033323
+BLD	Reactome::Nucleotide Excision Repair	-0.0011937298713709053	1.0284921739817188
+BLD	Reactome::Signaling by CSF3 (G-CSF)	-0.006410090862095943	1.0282095803467477
+BLD	Reactome::Transcriptional regulation of granulopoiesis	0.006319449740075206	1.0279805574299046
+BLD	Reactome::DNA Damage/Telomere Stress Induced Senescence	-0.0005927261122126218	1.027959394996397
+BLD	Reactome::rRNA processing in the mitochondrion	0.005901877535368489	1.0277090736801746
+BLD	Reactome::Transcriptional activation of mitochondrial biogenesis	0.009128088592366591	1.0276813541154843
+BLD	Reactome::Autophagy	0.012987858405956237	1.0276177187307254
+BLD	Reactome::FRS-mediated FGFR3 signaling	-0.012461643441080477	1.0275592727377156
+BLD	Reactome::Regulation of NF-kappa B signaling	0.0013636522551185699	1.0273957223297603
+BLD	Reactome::ROS and RNS production in phagocytes	-0.007094146612189538	1.0270492943306277
+BLD	Reactome::Cobalamin (Cbl, vitamin B12) transport and metabolism	0.007558312219463924	1.0270482736772286
+BLD	Reactome::Signaling by WNT in cancer	0.011795986995657913	1.0269236800064294
+BLD	Reactome::Induction of Cell-Cell Fusion	0.013408842792690005	1.026875572556894
+BLD	Reactome::CD28 dependent PI3K/Akt signaling	0.0028143667396317786	1.0267681069709116
+BLD	Reactome::Lysosome Vesicle Biogenesis	0.012237575975070502	1.0267474755624817
+BLD	Reactome::DNA Damage Recognition in GG-NER	-0.008409393873798432	1.0264917212173246
+BLD	Reactome::SRC activates STAT3 in a quantitative manner, through Cadherin-11 (CDH11), RAC1 and gp130 (IL6ST)	-0.0007338177527091865	1.0264897971558764
+BLD	Reactome::Defects in cobalamin (B12) metabolism	0.01674836141123499	1.026451071862022
+BLD	Reactome::Synthesis of substrates in N-glycan biosythesis	0.008464065562568986	1.0264449183706899
+BLD	Reactome::Protein methylation	0.018285597775287855	1.0262457520106825
+BLD	Reactome::Sensory perception of sweet, bitter, and umami (glutamate) taste	0.01176682751436411	1.0261616918776377
+BLD	Reactome::FGFR2 alternative splicing	-0.015147194527713436	1.0261522081349639
+BLD	Reactome::Resolution of AP sites via the multiple-nucleotide patch replacement pathway	-0.003059187932882901	1.0261270882926254
+BLD	Reactome::Formation of the polybromo-BAF (pBAF) complex	0.0035105711291159407	1.0260998496285518
+BLD	Reactome::Acyl chain remodelling of PS	-0.0006958931129827781	1.0260178156514348
+BLD	Reactome::Hedgehog 'off' state	-0.019817491509046	1.0258788970388097
+BLD	Reactome::Non-canonical inflammasome activation	0.017233645472552156	1.0258482403182252
+BLD	Reactome::Metalloprotease DUBs	0.014607322837969864	1.0258478149413999
+BLD	Reactome::Formation of the beta-catenin:TCF transactivating complex	-0.01754982222898122	1.025834759850524
+BLD	Reactome::Bicarbonate transporters	-0.0045912929490483	1.0257499720130538
+BLD	Reactome::Protein folding	0.0008467996036840769	1.0257376260064697
+BLD	Reactome::Modulation by Mtb of host immune system	-0.0027368312511574615	1.025676469334332
+BLD	Reactome::RNA Polymerase III Transcription	-0.006361515898761699	1.0256747214157864
+BLD	Reactome::RNA Polymerase III Abortive And Retractive Initiation	-0.006361515898761699	1.0256747214157864
+BLD	Reactome::FRS-mediated FGFR4 signaling	-0.004506812423235956	1.0256364945830165
+BLD	Reactome::Gap-filling DNA repair synthesis and ligation in GG-NER	-0.00999216379568256	1.0256361208138867
+BLD	Reactome::Dissolution of Fibrin Clot	-0.004515269568645672	1.025455460997824
+BLD	Reactome::Acetylcholine regulates insulin secretion	0.012477606900172453	1.0253795666405794
+BLD	Reactome::Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	-0.023053313541723165	1.0251457380904792
+BLD	Hallmark::HALLMARK_INFLAMMATORY_RESPONSE	0.006338538106674468	1.0251345832605654
+BLD	Reactome::NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	0.005175660924674505	1.0251282881676693
+BLD	Reactome::Deactivation of the beta-catenin transactivating complex	0.004948755418065229	1.0250759925135635
+BLD	Reactome::Downregulation of TGF-beta receptor signaling	0.0018872297928579334	1.0250481136530063
+BLD	Reactome::Signaling by WNT	0.02098484956588146	1.024930822470832
+BLD	Reactome::Maturation of TCA enzymes and regulation of TCA cycle	-0.006834450729093745	1.024917873786267
+BLD	Reactome::Cytosolic iron-sulfur cluster assembly	0.025294258524468233	1.0248342096418332
+BLD	Reactome::Type I hemidesmosome assembly	-0.017542833745185206	1.0248185336564417
+BLD	Reactome::Formation of WDR5-containing histone-modifying complexes	-0.01935134759490756	1.0248090671487964
+BLD	Reactome::Gap-filling DNA repair synthesis and ligation in TC-NER	0.01232360932342053	1.0246965598848041
+BLD	Reactome::RAF activation	0.010484205960015763	1.024694454004202
+BLD	Reactome::APOBEC3G mediated resistance to HIV-1 infection	0.008326313798550575	1.024620355531056
+BLD	Reactome::Selective autophagy	-0.013247904952878984	1.0245630868808493
+BLD	Reactome::Metabolism of nitric oxide: NOS3 activation and regulation	-0.00645862112858213	1.024449737417918
+BLD	Reactome::PKR-mediated signaling	-0.025745682618762988	1.024436138291628
+BLD	Reactome::Co-stimulation by CD28	0.028394287891702123	1.0244348104601058
+BLD	Reactome::Metal ion SLC transporters	0.0006473674658073455	1.024417798707162
+BLD	Reactome::NOTCH4 Activation and Transmission of Signal to the Nucleus	0.025120501897953427	1.0243979176250775
+BLD	Reactome::DNA methylation	0.004620958122055244	1.0243743497223456
+BLD	Reactome::Dual Incision in GG-NER	0.005803911062513408	1.0243651371261584
+BLD	Reactome::Regulation of FZD by ubiquitination	0.0027331437459370803	1.0242921877964535
+BLD	Reactome::Signaling by FGFR2 in disease	-0.010402355131578018	1.024277763759669
+BLD	cell_state::NK_cell	0.007160168453491395	1.0242632820133482
+BLD	Reactome::Hyaluronan degradation	0.013524055517243816	1.024076630074323
+BLD	Reactome::Disorders of Developmental Biology	-0.0075019196099072065	1.024041637723652
+BLD	Reactome::Transcription of the HIV genome	0.01040785951693715	1.0240085128899783
+BLD	Reactome::Mitochondrial iron-sulfur cluster biogenesis	-0.010125104596105536	1.0239778101155206
+BLD	Reactome::GPVI-mediated activation cascade	-0.030440349132418682	1.0239777634119613
+BLD	Reactome::Association of TriC/CCT with target proteins during biosynthesis	0.01095325316491818	1.0238906479021548
+BLD	Reactome::SUMOylation of transcription factors	0.016082608128519617	1.0238238037301726
+BLD	Reactome::Keratan sulfate/keratin metabolism	0.02152448163775721	1.0238218202585305
+BLD	Reactome::Signaling by SCF-KIT	0.012579419720760383	1.0237821548434474
+BLD	Reactome::Thromboxane signalling through TP receptor	0.01576818608896932	1.0236945196446945
+BLD	Reactome::G1 Phase	0.0028764349695543177	1.0236855883428395
+BLD	Reactome::Cyclin D associated events in G1	0.0028764349695543177	1.0236855883428395
+BLD	Reactome::Signaling by FGFR2	-0.002837368750314545	1.0236679294741107
+BLD	Reactome::Glycerophospholipid biosynthesis	0.014607565646707963	1.023603455599002
+BLD	Hallmark::HALLMARK_ESTROGEN_RESPONSE_LATE	-0.0011962662254525528	1.023587669078288
+BLD	Reactome::FRS-mediated FGFR1 signaling	0.008672670434163629	1.0235740889647404
+BLD	Hallmark::HALLMARK_IL6_JAK_STAT3_SIGNALING	-0.0020654482079278703	1.0235649798545656
+BLD	Reactome::PRC2 methylates histones and DNA	-0.010187278107879697	1.023455369962561
+BLD	Reactome::eNOS activation	-0.008899345969833822	1.0234512094783579
+BLD	Reactome::PCNA-Dependent Long Patch Base Excision Repair	-0.004653306774778905	1.023443209328885
+BLD	Reactome::Transcription-Coupled Nucleotide Excision Repair (TC-NER)	0.007159562629770868	1.023334514496289
+BLD	Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB	0.008465922782810449	1.0232112968679854
+BLD	Reactome::Keratan sulfate biosynthesis	0.02733868385342846	1.0230162303488164
+BLD	Reactome::Negative regulation of MAPK pathway	0.024821005643341176	1.0229565521897275
+BLD	Reactome::Ephrin signaling	0.005945842898390453	1.0229563604413572
+BLD	Reactome::Activated NTRK2 signals through FRS2 and FRS3	-0.020020125631332646	1.0229485380991705
+BLD	Reactome::Interaction of NuRD complexes with transcription factors	-0.02434140568369386	1.0229475869414755
+BLD	Reactome::Pentose phosphate pathway	-0.0017684272336950218	1.0229451375086012
+BLD	Reactome::NuRD complex assembly	-0.022759381403179336	1.0229228360785536
+BLD	Reactome::Interleukin-6 family signaling	0.0035208024987366453	1.0228645371806662
+BLD	Reactome::Glucocorticoid biosynthesis	-0.0002866981718684534	1.022862064960323
+BLD	Reactome::Synthesis of PIPs at the late endosome membrane	-0.015925242224135692	1.0228295980350561
+BLD	Reactome::Toll Like Receptor 9 (TLR9) Cascade	-0.002362121118545284	1.0228209277023252
+BLD	Reactome::Entry of Influenza Virion into Host Cell via Endocytosis	-0.006166138871324436	1.0227805699957186
+BLD	Reactome::MyD88 dependent cascade initiated on endosome	0.0015639673990441845	1.0227362057497436
+BLD	Reactome::Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	0.004865989315665778	1.0227003973155413
+BLD	Reactome::RHOBTB2 GTPase cycle	-0.006055728243110879	1.0226728224146107
+BLD	Reactome::WNT5A-dependent internalization of FZD2, FZD5 and ROR2	0.022647892990772824	1.022630382601563
+BLD	Reactome::Resolution of Abasic Sites (AP sites)	0.020283449502019386	1.0225681680131762
+BLD	Reactome::Establishment of Sister Chromatid Cohesion	-0.009737371601893214	1.0225608157494916
+BLD	Reactome::Josephin domain DUBs	0.0031127002401004646	1.022437868519881
+BLD	Reactome::Cargo concentration in the ER	0.017183630806714166	1.0223238514097226
+BLD	Reactome::Transcriptional regulation by small RNAs	0.004743882591299798	1.0222874908080222
+BLD	Hallmark::HALLMARK_MYC_TARGETS_V2	-0.014471615627048726	1.0222543499349241
+BLD	Reactome::Activation of RAC1	-0.007786182624752109	1.0222120551736436
+BLD	Reactome::Toll Like Receptor 7/8 (TLR7/8) Cascade	-0.00024561265361793786	1.0221537780493422
+BLD	Reactome::ABC transporters in lipid homeostasis	-0.024468656603056388	1.0220555209305837
+BLD	Reactome::Formation of Incision Complex in GG-NER	-0.0004628157373291095	1.0220083063039263
+BLD	Reactome::Apoptotic execution phase	0.005353898837054323	1.022002590991281
+BLD	Reactome::Downstream signaling of activated FGFR2	-0.01620965752439789	1.0218940188576873
+BLD	Reactome::Maternal to zygotic transition (MZT)	-0.011143971004208867	1.0218909005625436
+BLD	Reactome::Activation of anterior HOX genes in hindbrain development during early embryogenesis	0.004931942547612822	1.0218451948637453
+BLD	Reactome::Activation of HOX genes during differentiation	0.004931942547612822	1.0218451948637453
+BLD	Reactome::RHO GTPases activate PKNs	0.00759535975409763	1.0218023279063722
+BLD	Reactome::TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	0.026570841268037368	1.0217900711267192
+BLD	Reactome::Formation of the anterior neural plate	-0.015426728007111817	1.021764719687896
+BLD	Reactome::EPHB-mediated forward signaling	0.018176881258164145	1.021729383945433
+BLD	Reactome::Beta-catenin independent WNT signaling	-0.017518871985324272	1.0216123247666689
+BLD	Reactome::tRNA modification in the mitochondrion	0.025935042498015766	1.021524431724266
+BLD	Reactome::RNA Polymerase III Transcription Termination	-0.0030065092359674015	1.0215220836719379
+BLD	Reactome::TRAF6 mediated NF-kB activation	0.019452076994458434	1.0215152293043548
+BLD	Reactome::p75NTR signals via NF-kB	0.008023900174513144	1.0214119134748014
+BLD	Reactome::Regulation of gene expression by Hypoxia-inducible Factor	-0.031230349406813514	1.0213414240972638
+BLD	Reactome::JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	-0.0029146239130659	1.0212904185847163
+BLD	Reactome::Defective pyroptosis	-0.005806129834359461	1.0212719196231197
+BLD	Reactome::Diseases associated with N-glycosylation of proteins	0.01841601754081444	1.0212673270475825
+BLD	Reactome::Sensory perception of taste	-0.004694488878817594	1.0212392156986312
+BLD	Reactome::CHD3, CHD4, CHD5 subfamily	-0.025096782475365776	1.0212329155240745
+BLD	Hallmark::HALLMARK_KRAS_SIGNALING_UP	0.008457130863092127	1.0212259519162636
+BLD	Reactome::MAP3K8 (TPL2)-dependent MAPK1/3 activation	0.0076276909110937425	1.0211622562524654
+BLD	Reactome::Interleukin-2 signaling	0.006924603199804463	1.0211614155089235
+BLD	Reactome::TAK1-dependent IKK and NF-kappa-B activation	-0.006280482144755192	1.0210923910009642
+BLD	cell_state::T_cells	-0.02444255377684164	1.021085858226862
+BLD	Reactome::Lewis blood group biosynthesis	0.007507886436776219	1.021053445433221
+BLD	Reactome::Negative regulation of NMDA receptor-mediated neuronal transmission	0.031219519352762647	1.021046624266634
+BLD	Reactome::Interleukin-10 signaling	0.021218705634637212	1.0210369218159534
+BLD	Reactome::Synthesis of PE	-0.013397823965539022	1.0209701091695873
+BLD	Reactome::The activation of arylsulfatases	-0.006890429665346563	1.0209617607433836
+BLD	Reactome::TNFs bind their physiological receptors	0.009699592914483062	1.0209405296301535
+BLD	Reactome::Tat-mediated HIV elongation arrest and recovery	0.0007885845196569243	1.0209364015577997
+BLD	Reactome::Pausing and recovery of Tat-mediated HIV elongation	0.0007885845196569243	1.0209364015577997
+BLD	Reactome::CS/DS degradation	-0.013374750029931586	1.0209261203747637
+BLD	Reactome::InlA-mediated entry of Listeria monocytogenes into host cells	-0.019428793777029114	1.0208987386734465
+BLD	Reactome::Base Excision Repair	0.023854193938440085	1.0208549903147683
+BLD	Reactome::Transferrin endocytosis and recycling	-0.010290712099049812	1.0208157762553332
+BLD	Reactome::RAS processing	0.01953088469474288	1.0208064633524632
+BLD	Reactome::Prostacyclin signalling through prostacyclin receptor	-0.0007463242137164502	1.0207788023329567
+BLD	Reactome::Chaperonin-mediated protein folding	0.0025562336835245367	1.0207165684793058
+BLD	Reactome::Negative regulation of FGFR2 signaling	0.0027686592755629736	1.0206476467463896
+BLD	Reactome::CTNNB1 T41 mutants aren't phosphorylated	0.028571695240541782	1.0205959835000775
+BLD	Reactome::CTNNB1 S33 mutants aren't phosphorylated	0.028571695240541782	1.0205959835000775
+BLD	Reactome::Signaling by CTNNB1 phospho-site mutants	0.028571695240541782	1.0205959835000775
+BLD	Reactome::Signaling by GSK3beta mutants	0.028571695240541782	1.0205959835000775
+BLD	Reactome::CTNNB1 S37 mutants aren't phosphorylated	0.028571695240541782	1.0205959835000775
+BLD	Reactome::CTNNB1 S45 mutants aren't phosphorylated	0.028571695240541782	1.0205959835000775
+BLD	pathway::Complement	-0.01246820156822377	1.0205934049216019
+BLD	Reactome::Packaging Of Telomere Ends	0.010235958979317927	1.0205740972835955
+BLD	Reactome::Mitochondrial tRNA aminoacylation	-0.021770022041677616	1.0205532124919638
+BLD	Reactome::Suppression of apoptosis	0.023381771230447147	1.0205142587330822
+BLD	Reactome::Metabolism of nucleotides	-0.002222338032560208	1.020469375572486
+BLD	Reactome::Laminin interactions	-0.0232445956908697	1.0204641375191288
+BLD	Reactome::SHC-mediated cascade:FGFR3	0.013099290570457375	1.020402101746039
+BLD	Reactome::Signal attenuation	-0.028241298496884903	1.0203817639729829
+BLD	Reactome::Interleukin-2 family signaling	-0.025170810723180007	1.0203218234667513
+BLD	Reactome::TP53 Regulates Transcription of DNA Repair Genes	0.01834923908846747	1.0203060165214284
+BLD	Reactome::Recognition of DNA damage by PCNA-containing replication complex	-0.013278396102808706	1.0202909599952805
+BLD	Reactome::Diseases associated with O-glycosylation of proteins	0.02264264828861561	1.0202203371581955
+BLD	Reactome::Intraflagellar transport	0.0010518322909678956	1.0202121709076326
+BLD	Reactome::Citric acid cycle (TCA cycle)	-0.00937097732116867	1.0201392967955014
+BLD	Reactome::Formation of Senescence-Associated Heterochromatin Foci (SAHF)	0.012625237493267927	1.0201335698386658
+BLD	Reactome::p75NTR recruits signalling complexes	0.007121714467869659	1.0201185785684526
+BLD	Reactome::alpha-linolenic acid (ALA) metabolism	0.008788911551652368	1.0201099653282641
+BLD	Reactome::alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	0.008788911551652368	1.0201099653282641
+BLD	Reactome::HIV elongation arrest and recovery	-0.0037949384502391297	1.020099253663953
+BLD	Reactome::Pausing and recovery of HIV elongation	-0.0037949384502391297	1.020099253663953
+BLD	cell_state::Th17_like	-0.002961648253822429	1.020097119995179
+BLD	Reactome::Regulation of KIT signaling	0.02080618209710003	1.0200826265811553
+BLD	Reactome::Selenocysteine synthesis	-0.02888112997029636	1.02003701778642
+BLD	Reactome::Eukaryotic Translation Elongation	-0.028923771406187654	1.0200180402985697
+BLD	Reactome::Signaling by Leptin	-0.0097133836307038	1.0200121172697902
+BLD	Reactome::Aspartate and asparagine metabolism	0.0022978961699265197	1.0199566429298794
+BLD	Reactome::SARS-CoV-2 targets host intracellular signalling and regulatory pathways	0.03469520347616911	1.0199445429624057
+BLD	Reactome::Inhibition of DNA recombination at telomere	0.005714581927338781	1.0199175042626927
+BLD	Hallmark::HALLMARK_FATTY_ACID_METABOLISM	0.005274172405949427	1.0199122581543252
+BLD	Reactome::Gastrin-CREB signalling pathway via PKC and MAPK	0.03000175661762202	1.019900307491943
+BLD	Reactome::Glycosaminoglycan metabolism	0.02101805831866369	1.0198928306821482
+BLD	Reactome::HIV Infection	-0.0279261376816901	1.019855386201226
+BLD	Reactome::Signaling by KIT in disease	0.006714777972801411	1.0198070902617307
+BLD	Reactome::Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants	0.006714777972801411	1.0198070902617307
+BLD	Reactome::Degradation of cysteine and homocysteine	0.026801484710168716	1.0198019280337074
+BLD	Reactome::Phosphorylation and nuclear translocation of the CRY:PER:kinase complex	0.00900028718639525	1.0197664068582608
+BLD	Reactome::Purine salvage	0.03635197772019685	1.0197469853170764
+BLD	Reactome::Chromatin modifications during the maternal to zygotic transition (MZT)	0.01023238993621573	1.0197185831788642
+BLD	Reactome::Early Phase of HIV Life Cycle	0.016197944991055674	1.0197182753118286
+BLD	Reactome::Formation of the embryonic stem cell BAF (esBAF) complex	0.014673826500678748	1.019688622287736
+BLD	Reactome::Prefoldin mediated transfer of substrate  to CCT/TriC	-0.026968447608849207	1.0196396881539613
+BLD	Reactome::Amyloid fiber formation	0.007246781178531526	1.0196149797035712
+BLD	Reactome::SHC1 events in ERBB4 signaling	0.027119885287108965	1.0196012171351405
+BLD	Reactome::ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA	-0.02975889554260161	1.0195714382523895
+BLD	Reactome::Acyl chain remodelling of PE	-0.004306501104430666	1.0195590209004657
+BLD	Reactome::Zinc influx into cells by the SLC39 gene family	0.019423272399323146	1.0195451081854214
+BLD	Reactome::Acyl chain remodelling of PC	0.01853660840647525	1.01954439226499
+BLD	Reactome::TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	0.022389337083245815	1.01954026470296
+BLD	Reactome::Downregulation of ERBB2 signaling	0.036414744185227145	1.0195173201081253
+BLD	Reactome::Glutamate and glutamine metabolism	0.011233530235378758	1.0195172578138574
+BLD	Reactome::Defects in vitamin and cofactor metabolism	0.015873717043199273	1.0194972718333601
+BLD	Reactome::Synthesis of pyrophosphates in the cytosol	0.02724693886014836	1.0194167742208855
+BLD	Reactome::Termination of O-glycan biosynthesis	0.018058882933991795	1.019407458897191
+BLD	Reactome::Signaling by activated point mutants of FGFR1	0.029028061946574743	1.0193980599670052
+BLD	Reactome::Negative regulation of FGFR3 signaling	0.020249136945925415	1.0193973265672187
+BLD	Reactome::Diseases of carbohydrate metabolism	0.019609597396699364	1.0193756450188618
+BLD	Reactome::Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex	-0.01340757422294287	1.0193297073269492
+BLD	Reactome::Regulation of PTEN gene transcription	0.006241942329324764	1.0193054012452099
+BLD	Reactome::Cellular response to starvation	-0.025517144602904416	1.0192931917010892
+BLD	Reactome::Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)	-0.006624813368890793	1.0192892778710037
+BLD	pathway::Hypoxia	0.011182900058481942	1.01926131254374
+BLD	Reactome::Glucose metabolism	-0.0007064837553824578	1.0192372656543667
+BLD	Reactome::WNT5A-dependent internalization of FZD4	0.014432431707301189	1.0192250352086636
+BLD	Reactome::Replacement of protamines by nucleosomes in the male pronucleus	0.008668046074329135	1.0191988393218154
+BLD	Reactome::L13a-mediated translational silencing of Ceruloplasmin expression	-0.03054108343682983	1.0191957843836996
+BLD	Reactome::Fatty acyl-CoA biosynthesis	-0.015189387659204306	1.0191893984934919
+BLD	Reactome::Dengue Virus Attachment and Entry	0.020249576117456022	1.0191746422610592
+BLD	Reactome::Unfolded Protein Response (UPR)	-0.01373876953230938	1.019169696399368
+BLD	Reactome::Peptide chain elongation	-0.03034915265554088	1.019136258157278
+BLD	Reactome::Formation of a pool of free 40S subunits	-0.030491211770181496	1.0191235219016779
+BLD	Reactome::Intrinsic Pathway for Apoptosis	0.01338043589669324	1.0191093248442389
+BLD	Reactome::Mitochondrial mRNA modification	-0.025120798070197226	1.0190820325475891
+BLD	Reactome::Circadian clock	-0.014177060882813392	1.019077506894828
+BLD	Reactome::Eukaryotic Translation Termination	-0.03022853074485383	1.0190471352752115
+BLD	Reactome::Dectin-2 family	0.02397005074358995	1.0190197632103277
+BLD	Reactome::Branched-chain amino acid catabolism	0.01046753198308756	1.0190149423456394
+BLD	Reactome::Bacterial Infection Pathways	0.03507356781474505	1.0190104348936426
+BLD	Reactome::PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA	-0.03020878432208418	1.0189772628883471
+BLD	Reactome::GTP hydrolysis and joining of the 60S ribosomal subunit	-0.03089309795674557	1.018966871939361
+BLD	Reactome::Sulfur amino acid metabolism	-0.005503989560804825	1.0189554032728627
+BLD	Reactome::Synthesis of IP2, IP, and Ins in the cytosol	-0.01784822408119899	1.0189220579014424
+BLD	Reactome::MAPK3 (ERK1) activation	-0.00986738663270375	1.0189204813365358
+BLD	Reactome::Viral mRNA Translation	-0.030594009802117784	1.0188948627561705
+BLD	Reactome::Formation of the ureteric bud	-0.0037262208867955273	1.0188944788007523
+BLD	Reactome::RND2 GTPase cycle	-0.012357442748534444	1.0188695544500743
+BLD	Reactome::Protein localization	-0.004256800939150818	1.01886251201278
+BLD	Reactome::Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	-0.03038127847284896	1.0188472754422204
+BLD	Reactome::The canonical retinoid cycle in rods (twilight vision)	0.0037931873329933394	1.0188451709769462
+BLD	Reactome::GABA receptor activation	0.014563625707337234	1.018819869171035
+BLD	Reactome::RNA Polymerase II Pre-transcription Events	0.00418951566483224	1.0187963452139277
+BLD	Reactome::Mitotic Telophase/Cytokinesis	-0.015348748795938677	1.0187547931984005
+BLD	Reactome::ChAHP complex assembly	0.0036634190713163953	1.018710755886458
+BLD	Reactome::Calcitonin-like ligand receptors	0.036371368784404334	1.0187082046886038
+BLD	Reactome::Formation of the posterior neural plate	0.03726272689513249	1.0187051968093666
+BLD	Reactome::TP53 Regulates Transcription of Cell Death Genes	0.01835785592532471	1.0186906331988432
+BLD	cell_state::Fibroblast	0.04039699678000276	1.0185798638100914
+BLD	Reactome::Beta-oxidation of very long chain fatty acids	-0.0036689597582315677	1.0185442449065127
+BLD	Reactome::Influenza Viral RNA Transcription and Replication	-0.032517932825811134	1.018519726083725
+BLD	Reactome::Nonsense-Mediated Decay (NMD)	-0.029580455377507576	1.0185008424782722
+BLD	Reactome::Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	-0.029580455377507576	1.0185008424782722
+BLD	Reactome::VEGFR2 mediated vascular permeability	0.015221129432006354	1.0185005903700175
+BLD	Reactome::Meiosis	-0.024423637607757846	1.0184786919242879
+BLD	Reactome::Senescence-Associated Secretory Phenotype (SASP)	-0.0015718359530196657	1.0184575734949899
+BLD	Reactome::Purine ribonucleoside monophosphate biosynthesis	-0.028304005614265406	1.0184400265810072
+BLD	Reactome::Formation of the non-canonical BAF (ncBAF) complex	-0.007620107300718305	1.0184382772660128
+BLD	Reactome::RNA Polymerase I Promoter Opening	0.010545427330584348	1.018389033064078
+BLD	Reactome::Cargo recognition for clathrin-mediated endocytosis	0.026422380938808068	1.018364656721565
+BLD	Reactome::Signaling by Hedgehog	-0.0064842750617710165	1.018338944779931
+BLD	Reactome::G-protein activation	-0.003761048863346225	1.0183131890375916
+BLD	Reactome::Metabolism of carbohydrates and carbohydrate derivatives	0.022825335234927906	1.018242373499351
+BLD	Reactome::Maturation of hRSV A proteins	-0.005155730098176857	1.0182132118750193
+BLD	cell_state::CD8_TRM	0.007425217679777137	1.018170967132057
+BLD	Reactome::Netrin-1 signaling	0.024721186724538217	1.0181671637684608
+BLD	Reactome::Nuclear RNA decay	-0.03559624622547546	1.0181531417267107
+BLD	Reactome::IL-6-type cytokine receptor ligand interactions	0.0038569220850821857	1.018144536045337
+BLD	Reactome::ERK/MAPK targets	0.030900016184290117	1.0181409744208538
+BLD	Reactome::Cellular Senescence	-0.01054755268223909	1.0181250079637862
+BLD	Reactome::Recognition and association of DNA glycosylase with site containing an affected pyrimidine	0.01782925745193389	1.018116621529022
+BLD	Reactome::Depyrimidination	0.01782925745193389	1.018116621529022
+BLD	Reactome::Cleavage of the damaged pyrimidine	0.01782925745193389	1.018116621529022
+BLD	Reactome::Insulin receptor signalling cascade	-0.015013426316728123	1.0180891508207248
+BLD	Reactome::Signaling by Insulin receptor	-0.01585170976165305	1.018081296629254
+BLD	Reactome::tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis	0.01169012447183181	1.0180556010587294
+BLD	Reactome::Eukaryotic Translation Initiation	-0.031177141447804643	1.0180261503733898
+BLD	Reactome::Cap-dependent Translation Initiation	-0.031177141447804643	1.0180261503733898
+BLD	Reactome::Strand-asynchronous mitochondrial DNA replication	0.023963674726491916	1.017969362338758
+BLD	Reactome::Signaling by NOTCH	0.010672925010702567	1.0179070365343204
+BLD	Reactome::Zinc transporters	0.01760218076522505	1.0178672642663262
+BLD	Reactome::HCMV Infection	-0.015890028332770593	1.0177926371040957
+BLD	Reactome::Dual incision in TC-NER	-0.0008932351042991244	1.0177848266710303
+BLD	Reactome::IRE1alpha activates chaperones	0.003926065241111259	1.017778254724061
+BLD	Reactome::Sialic acid metabolism	0.014297229463511663	1.017773662632938
+BLD	Reactome::Response of EIF2AK4 (GCN2) to amino acid deficiency	-0.029702965661728482	1.017758332867936
+BLD	Reactome::MTOR signalling	0.010684793576712717	1.017672131865365
+BLD	Reactome::AXIN missense mutants destabilize the destruction complex	0.03558060592338935	1.0176627826504543
+BLD	Reactome::Signaling by AMER1 mutants	0.03558060592338935	1.0176627826504543
+BLD	Reactome::APC truncation mutants have impaired AXIN binding	0.03558060592338935	1.0176627826504543
+BLD	Reactome::Signaling by APC mutants	0.03558060592338935	1.0176627826504543
+BLD	Reactome::Truncations of AMER1 destabilize the destruction complex	0.03558060592338935	1.0176627826504543
+BLD	Reactome::Signaling by AXIN mutants	0.03558060592338935	1.0176627826504543
+BLD	Reactome::Glycosphingolipid biosynthesis	0.00710988350182193	1.0176484719375707
+BLD	Reactome::CHD6, CHD7, CHD8, CHD9 subfamily	-8.678595316420843e-05	1.017642695316327
+BLD	Reactome::HDACs deacetylate histones	-0.007510960493903866	1.0176414000194667
+BLD	cell_state::Monocytes_macrophages	0.029117249976704285	1.0176399270754735
+BLD	Reactome::Protein-protein interactions at synapses	0.036002972954563395	1.0176258724484273
+BLD	Reactome::TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	0.007473466982712714	1.017593341885869
+BLD	Reactome::Toll-like Receptor Cascades	0.007905429092455415	1.0175264190214552
+BLD	cell_state::T17_Th17	-0.007238892431211841	1.0174978504669165
+BLD	Reactome::Hyaluronan metabolism	0.02135105457168078	1.0174943785012063
+BLD	Reactome::EGR2 and SOX10-mediated initiation of Schwann cell myelination	-0.028206205900989295	1.0174478461369167
+BLD	Reactome::XBP1(S) activates chaperone genes	0.007993372687382814	1.017431780111482
+BLD	Reactome::Folding of actin by CCT/TriC	-0.01972758501259452	1.0174106818243662
+BLD	Reactome::Toll Like Receptor TLR6:TLR2 Cascade	0.010285374081716878	1.0173767352468521
+BLD	Reactome::Toll Like Receptor TLR1:TLR2 Cascade	0.010285374081716878	1.0173767352468521
+BLD	Reactome::Toll Like Receptor 2 (TLR2) Cascade	0.010285374081716878	1.0173767352468521
+BLD	Reactome::MyD88:MAL(TIRAP) cascade initiated on plasma membrane	0.010285374081716878	1.0173767352468521
+BLD	Reactome::Ethanol oxidation	-0.012609324380036492	1.0173760078259813
+BLD	Reactome::NOTCH2 Activation and Transmission of Signal to the Nucleus	0.018813378521509543	1.0173673420019809
+BLD	Reactome::Respiratory syncytial virus (RSV) genome replication, transcription and translation	-0.010288450144569892	1.0173343879898582
+BLD	Reactome::Class I peroxisomal membrane protein import	-0.012226886245223839	1.0173311027857128
+BLD	Reactome::Phosphorylation of CLOCK, acetylation of BMAL1 (ARNTL) at target gene promoters	-0.03206659746374056	1.0173050715254075
+BLD	Reactome::Negative regulation of TCF-dependent signaling by WNT ligand antagonists	0.012521070171146393	1.0172644504364086
+BLD	Reactome::Keratan sulfate degradation	-0.014543503686752583	1.0172507813295666
+BLD	Reactome::Azathioprine ADME	0.005020746481086706	1.0172244203164684
+BLD	Reactome::Regulation of expression of SLITs and ROBOs	-0.03131910403719884	1.0172164930963135
+BLD	Reactome::Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	-0.02556393499095591	1.0171736147033124
+BLD	Reactome::Signaling by ROBO receptors	-0.034164798935639236	1.017139495866707
+BLD	Reactome::AKT phosphorylates targets in the cytosol	0.02839914489739092	1.017130235601404
+BLD	Reactome::Chemokine receptors bind chemokines	0.026840280664328538	1.0171074332432788
+BLD	Reactome::Translation initiation complex formation	-0.025606587876354964	1.0170988235817366
+BLD	Reactome::Regulation of signaling by CBL	-0.006125092353640406	1.0170866970609649
+BLD	Reactome::Nucleosome assembly	-0.016680690732532966	1.0170703865435442
+BLD	Reactome::Deposition of new CENPA-containing nucleosomes at the centromere	-0.016680690732532966	1.0170703865435442
+BLD	pathway::Endothelial_activation	0.030032877739331464	1.0170483610812453
+BLD	cell_state::Endothelial	0.030032877739331464	1.0170483610812453
+BLD	Reactome::Caspase activation via extrinsic apoptotic signalling pathway	0.0069003313414382015	1.0170459997355226
+BLD	Reactome::Binding and entry of HIV virion	-0.016336461787521624	1.0170450946735512
+BLD	Reactome::Signaling by activated point mutants of FGFR3	0.01649353712455115	1.0170381591748652
+BLD	Reactome::FGFR3 mutant receptor activation	0.01649353712455115	1.0170381591748652
+BLD	Reactome::DS-GAG biosynthesis	0.027948351497673513	1.017035791455805
+BLD	Reactome::Ribosomal scanning and start codon recognition	-0.025782366521644198	1.0170258078015038
+BLD	Reactome::TRIF (TICAM1)-mediated TLR4 signaling	0.009459385198677705	1.0170216264502467
+BLD	Reactome::MyD88-independent TLR4 cascade	0.009459385198677705	1.0170216264502467
+BLD	Reactome::Vitamin B5 (pantothenate) metabolism	0.0014895370870151843	1.017007995648065
+BLD	Reactome::Defective GALNT3 causes HFTC	0.012137465366362328	1.017003226032791
+BLD	Reactome::Ribosome-associated quality control	-0.031014338771673554	1.0169967195713254
+BLD	Reactome::Selenoamino acid metabolism	-0.03219948357999547	1.0169879658585708
+BLD	Reactome::Disassembly of the destruction complex and recruitment of AXIN to the membrane	0.040298513794348144	1.016955705995967
+BLD	Reactome::Phospholipase C-mediated cascade; FGFR3	0.014600422093928516	1.0168540799535384
+BLD	Reactome::Inositol phosphate metabolism	-0.0038042074635906706	1.016845424901956
+BLD	Reactome::Neurotransmitter clearance	-0.007802761171426791	1.016841970405558
+BLD	Reactome::Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	-0.02385904733881265	1.0168186617310315
+BLD	Reactome::G protein gated Potassium channels	-0.02385904733881265	1.0168186617310315
+BLD	Reactome::Activation of G protein gated Potassium channels	-0.02385904733881265	1.0168186617310315
+BLD	Reactome::MASTL Facilitates Mitotic Progression	0.009790661015585865	1.0167875658501224
+BLD	Reactome::Caspase-mediated cleavage of cytoskeletal proteins	-0.006538827702185098	1.0167754030081777
+BLD	Reactome::Phosphorylated BMAL1:CLOCK (ARNTL:CLOCK) activates expression of core clock genes	0.000890412654188069	1.016747465946884
+BLD	Reactome::Regulation of MITF-M-dependent genes involved in extracellular matrix, focal adhesion and epithelial-to-mesenchymal transition	-0.012256421366262532	1.016725815607794
+BLD	Reactome::Carnitine shuttle	0.0036183119069578885	1.0167235105667916
+BLD	pathway::JAK_STAT	-0.040598354919699105	1.0167213237577735
+BLD	Hallmark::HALLMARK_PROTEIN_SECRETION	-0.01986865849690658	1.0166692312504495
+BLD	Reactome::Meiotic recombination	-0.012600151657660642	1.0166284010643163
+BLD	Reactome::Transport of Mature mRNA Derived from an Intronless Transcript	-0.02451062540755616	1.0166049535322557
+BLD	Reactome::Transcriptional regulation of testis differentiation	-0.007114426451955851	1.0165950199823852
+BLD	Reactome::MicroRNA (miRNA) biogenesis	-0.021100406886881543	1.0165602138952152
+BLD	Hallmark::HALLMARK_XENOBIOTIC_METABOLISM	0.027939752508569348	1.016472141423617
+BLD	Reactome::SARS-CoV-1 modulates host translation machinery	-0.024877435477670577	1.0164325805749737
+BLD	Reactome::HIV Life Cycle	-0.010258991291957327	1.0164181860333472
+BLD	Reactome::G beta:gamma signalling through BTK	-0.0016818811990179606	1.0163660238612742
+BLD	Reactome::Ion transport by P-type ATPases	0.018197548157375936	1.0163574839944958
+BLD	Reactome::Formation of the ternary complex, and subsequently, the 43S complex	-0.0258254694836819	1.0163465488117727
+BLD	Reactome::Mitochondrial protein degradation	-0.02553249146908697	1.0163034746659094
+BLD	Reactome::Toll Like Receptor 3 (TLR3) Cascade	0.015713981530675613	1.0162926211007266
+BLD	Reactome::Regulation of TP53 Activity through Acetylation	-0.02983709110511002	1.0162662292274174
+BLD	Reactome::Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	-0.028105655682084375	1.016261740685909
+BLD	Reactome::CASP4 inflammasome assembly	-0.008252227934029816	1.0162575044220474
+BLD	Reactome::Butyrophilin (BTN) family interactions	-0.035526264531278266	1.016195842031594
+BLD	Reactome::STAT5 activation downstream of FLT3 ITD mutants	0.015444917207820357	1.0161884721277088
+BLD	Reactome::TCF dependent signaling in response to WNT	-0.00044712718907007575	1.0161311061834195
+BLD	Reactome::Formation of the nephric duct	0.020227108561071176	1.0161256820653592
+BLD	Hallmark::HALLMARK_HYPOXIA	0.039423979128924286	1.0161253858460977
+BLD	Reactome::ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression	-0.016295619165263158	1.0160792583048812
+BLD	Reactome::Inactivation of CSF3 (G-CSF) signaling	-0.015100236432320746	1.016073087180972
+BLD	Reactome::Lysine catabolism	0.0005374299940793117	1.0160629433404837
+BLD	Reactome::Influenza Infection	-0.036878042648646955	1.0160410102691981
+BLD	Reactome::NoRC negatively regulates rRNA expression	0.019409853393654298	1.0159512007201301
+BLD	Reactome::Infection with Mycobacterium tuberculosis	0.040482677490813766	1.0159157323008199
+BLD	Reactome::Platelet sensitization by LDL	0.01295865396709502	1.0158914337554894
+BLD	Reactome::Cellular hexose transport	0.03830399327920641	1.0158541490578532
+BLD	Reactome::Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	0.0062641772065273925	1.0158450000665875
+BLD	Reactome::Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide	-0.03446283585251374	1.0158013337857204
+BLD	Reactome::TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	0.034166823182535305	1.0157891117142888
+BLD	Hallmark::HALLMARK_IL2_STAT5_SIGNALING	0.02027017850950014	1.0157824829937796
+BLD	Reactome::O-linked glycosylation of mucins	0.030064061292184932	1.01577923863803
+BLD	Reactome::FRS-mediated FGFR2 signaling	-0.02433495189412944	1.015756784122154
+BLD	Reactome::M-decay: degradation of maternal mRNAs by maternally stored factors	-0.033618816717971865	1.0157342721442795
+BLD	Reactome::Mismatch Repair	0.0002925268673288876	1.015668478108034
+BLD	Reactome::POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation	-0.01642246157798722	1.0156247752383833
+BLD	Reactome::Toll Like Receptor 4 (TLR4) Cascade	0.011894978748663422	1.0155943229147422
+BLD	Reactome::Infection with Enterobacteria	-0.027143925925790097	1.0155234681060838
+BLD	Reactome::RHOBTB GTPase Cycle	-0.020041024535504933	1.015515830886763
+BLD	Reactome::Transport of vitamins, nucleosides, and related molecules	-0.009642886670038101	1.0154425116562347
+BLD	Reactome::rRNA modification in the nucleus and cytosol	-0.03529160261137092	1.0154382231248178
+BLD	Reactome::Kidney development	0.009501330860646924	1.0154057909740735
+BLD	Reactome::Negative regulation of FGFR4 signaling	0.026789076565333626	1.015376245544528
+BLD	Reactome::tRNA modification in the nucleus and cytosol	-0.02897712241530705	1.0153656246910068
+BLD	Reactome::SRP-dependent cotranslational protein targeting to membrane	-0.03426596635677058	1.015353398260885
+BLD	Reactome::Gene Silencing by RNA	-0.01336551461889447	1.0153317795568921
+BLD	Reactome::Transport of Mature mRNAs Derived from Intronless Transcripts	-0.024704872493306225	1.015316692653236
+BLD	Reactome::The NLRP3 inflammasome	0.01404749137254632	1.0152885544833161
+BLD	Reactome::Repression of WNT target genes	-0.02646590984197855	1.0152655254154546
+BLD	Reactome::FGFR3 ligand binding and activation	0.02403002495481362	1.0152631210803658
+BLD	Reactome::FGFR3c ligand binding and activation	0.02403002495481362	1.0152631210803658
+BLD	Reactome::Scavenging by Class B Receptors	-0.0297962904152278	1.015212187305317
+BLD	Reactome::RMTs methylate histone arginines	0.008935508902957212	1.0151785099473314
+BLD	Reactome::PI3K events in ERBB4 signaling	0.025155826958812622	1.0151762792041858
+BLD	Reactome::Neurexins and neuroligins	0.04337065418682992	1.0151571253078893
+BLD	Reactome::Synthesis of PIPs at the early endosome membrane	-0.004585236079790693	1.0150767739442421

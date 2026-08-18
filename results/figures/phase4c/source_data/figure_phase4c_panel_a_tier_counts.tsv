@@ -1,0 +1,17 @@
+outcome_display	tier_display	n_genes
+CAD	Tier A	8
+CAD	Tier B1	7
+CAD	Tier B2	4
+CAD	Tier C	7
+PsA	Tier A	12
+PsA	Tier B1	11
+PsA	Tier B2	0
+PsA	Tier C	0
+Crohn	Tier A	7
+Crohn	Tier B1	14
+Crohn	Tier B2	0
+Crohn	Tier C	0
+UC	Tier A	6
+UC	Tier B1	12
+UC	Tier B2	1
+UC	Tier C	2

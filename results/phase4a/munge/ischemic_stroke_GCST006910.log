@@ -1,0 +1,53 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./munge_sumstats.py \
+--sumstats data/genetics/phase4a_raw/ischemic_stroke_GCST006910/MEGASTROKE.4.CES.EUR.out \
+--N-cas 7193.0 \
+--N-con 355468.0 \
+--out results/phase4a/munge/ischemic_stroke_GCST006910 \
+--merge-alleles data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/w_hm3.snplist \
+--snp MarkerName \
+--a1 Allele1 \
+--a2 Allele2 \
+--p P-value \
+--frq Freq1 \
+--signed-sumstats Effect,0 
+
+Interpreting column names as follows:
+MarkerName:	Variant ID (e.g., rs number)
+Allele1:	Allele 1, interpreted as ref allele for signed sumstat.
+Allele2:	Allele 2, interpreted as non-ref allele for signed sumstat.
+Freq1:	Allele frequency
+Effect:	Directional summary statistic as specified by --signed-sumstats.
+P-value:	p-Value
+
+Reading list of SNPs for allele merge from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/w_hm3.snplist
+Read 1217311 SNPs for allele merge.
+Reading sumstats from data/genetics/phase4a_raw/ischemic_stroke_GCST006910/MEGASTROKE.4.CES.EUR.out into memory 5000000 SNPs at a time.
+Read 8306090 SNPs from --sumstats file.
+Removed 7117328 SNPs not in --merge-alleles.
+Removed 0 SNPs with missing values.
+Removed 0 SNPs with INFO <= 0.9.
+Removed 0 SNPs with MAF <= 0.01.
+Removed 0 SNPs with out-of-bounds p-values.
+Removed 0 variants that were not SNPs or were strand-ambiguous.
+1188762 SNPs remain.
+Removed 0 SNPs with duplicated rs numbers (1188762 SNPs remain).
+Median value of SIGNED_SUMSTATS was 0.0003, which seems sensible.
+Removed 0 SNPs whose alleles did not match --merge-alleles (1188762 SNPs remain).
+Writing summary statistics for 1217311 SNPs (1188762 with nonmissing beta) to results/phase4a/munge/ischemic_stroke_GCST006910.sumstats.gz.
+
+Metadata:
+Mean chi^2 = 1.12
+Lambda GC = 1.108
+Max chi^2 = 180.974
+51 Genome-wide significant SNPs (some may have been removed by filtering).
+
+Conversion finished at Thu Aug 13 08:17:49 2026
+Total time elapsed: 45.34s

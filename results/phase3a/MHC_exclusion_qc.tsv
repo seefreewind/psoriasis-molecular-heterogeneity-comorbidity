@@ -1,0 +1,8 @@
+metric	value
+MHC_definition	chr6:25000000-34000000_GRCh37
+mapped_snp_total	10432339
+mapped_snp_kept	10355232
+mapped_snp_excluded	77107
+gene_loc_total	19427
+gene_loc_kept	19161
+gene_loc_excluded	266

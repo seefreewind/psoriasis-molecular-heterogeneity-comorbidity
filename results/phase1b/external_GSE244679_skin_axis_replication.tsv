@@ -1,0 +1,17 @@
+dataset	axis	view	n_pairs	n_common_axis_features	loading_vs_paired_lesional_minus_adjacent_spearman	external_effect_definition
+GSE244679	F1	LS	24	424	-0.6883982319031207	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F1	NL	24	423	-0.04582738294816645	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F2	LS	24	424	0.08311480074669071	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F2	NL	24	423	-0.5182294539339017	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F3	LS	24	424	0.011093544541486951	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F3	NL	24	423	-0.3562221193678217	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F4	LS	24	424	0.07483035928292187	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F4	NL	24	423	-0.15245347581305932	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F5	LS	24	424	-0.3553196991039475	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F5	NL	24	423	-0.08343018378351474	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F6	LS	24	424	0.3752915899687147	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F6	NL	24	423	0.18444339652219927	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F7	LS	24	424	0.11997940814960263	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F7	NL	24	423	0.20390539225492638	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F8	LS	24	424	-0.12870166257938903	mean paired score difference: lesional psoriatic skin minus adjacent normal skin
+GSE244679	F8	NL	24	423	-0.1967300095894532	mean paired score difference: lesional psoriatic skin minus adjacent normal skin

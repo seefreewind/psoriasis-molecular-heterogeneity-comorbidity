@@ -1,0 +1,22 @@
+PLINK v2.0.0-a.7.3 M1 (8 Aug 2026)
+Options in effect:
+  --bfile data/genetics/reference/ld/g1000_eur/g1000_eur
+  --extract results/phase4c_smr/gwas_ma/phase4c_smr0_all_rsids.txt
+  --make-just-bim
+  --out results/phase4c_smr/smoke/plink_ld_read_test
+
+Hostname: zhangyudeMacBook-Air.local
+Working directory: /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity
+Start time: Sat Aug 15 20:11:46 2026
+
+Random number seed: 1786795906
+16384 MiB RAM detected; reserving 8192 MiB for main workspace.
+Using up to 10 threads (change this with --threads).
+22665064 variants loaded from
+data/genetics/reference/ld/g1000_eur/g1000_eur.bim.
+Note: No phenotype data present.
+--extract: 146297 variants remaining.
+146297 variants remaining after main filters.
+Writing results/phase4c_smr/smoke/plink_ld_read_test.bim ... done.
+
+End time: Sat Aug 15 20:11:47 2026

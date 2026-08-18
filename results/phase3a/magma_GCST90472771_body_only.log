@@ -1,0 +1,32 @@
+Welcome to MAGMA v1.10 (custom)
+Using flags:
+	--bfile data/genetics/reference/magma/g1000_eur/g1000_eur
+	--pval results/phase3a/GCST90472771.magma_pvals.p_floor1e-300.tsv ncol=N
+	--gene-annot results/phase3a/magma_GRCh37_body_only.genes.annot
+	--out results/phase3a/magma_GCST90472771_body_only
+
+Start time is 22:33:54, Tuesday 11 Aug 2026
+
+Loading PLINK-format data...
+Reading file data/genetics/reference/magma/g1000_eur/g1000_eur.fam... 503 individuals read
+Reading file data/genetics/reference/magma/g1000_eur/g1000_eur.bim... 22665064 SNPs read
+Preparing file data/genetics/reference/magma/g1000_eur/g1000_eur.bed... 
+
+Reading SNP synonyms from file data/genetics/reference/magma/g1000_eur/g1000_eur.synonyms (auto-detected)
+	read 6016767 mapped synonyms from file, mapping to 3921040 SNPs in the data
+	WARNING: detected 133 synonymous SNP pairs in the data
+	         skipped all synonym entries involved, synonymous SNPs are kept in analysis
+	         writing list of detected synonyms in data to supplementary log file
+Reading SNP p-values from file results/phase3a/GCST90472771.magma_pvals.p_floor1e-300.tsv... 
+	detected 3 variables in file
+	using variable: SNP (SNP id)
+	using variable: P (p-value)
+	using variable: N (sample size; discarding SNPs with N < 50)
+	read 10432340 lines from file, containing valid SNP p-values for 10432339 SNPs in data (100% of lines, 46.03% of SNPs in data)
+Loading gene annotation from file results/phase3a/magma_GRCh37_body_only.genes.annot... 
+	19248 gene definitions read from file
+	found 18262 genes containing valid SNPs in genotype data
+
+
+Starting gene analysis... 
+	using model: SNPwise-mean

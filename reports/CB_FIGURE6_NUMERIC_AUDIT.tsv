@@ -1,0 +1,24 @@
+panel	metric	unit	displayed_value	source_file	source_identifier	verified
+a	FDR-supported local-rg locus-trait pairs	locus-trait pairs	122	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	sum(fdr05_all_tests) across CAD/PsA/Crohn/UC	yes
+a	SMR/HEIDI-prioritized outcome-gene pairs	outcome-gene pairs	91	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs	yes
+a	Highest-tier gene-level candidates	outcome-gene pairs	33	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs with A_local_Tier1_recurrent_SMR2; 30 unique genes	yes
+a	Restricted colocalization	outcome-gene-tissue pairs	15	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	unique outcome-gene-tissue pairs in restricted coloc set	yes
+a	PP4-supported	outcome-gene-tissue pairs	5	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	interpretation_tier == coloc_supported_PP4_ge_0p8	yes
+a	Suggestive	outcome-gene-tissue pairs	10	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	interpretation_tier == suggestive_PP4_0p5_to_0p8	yes
+b	Colocalization PP4	posterior probability under coloc model	0.754	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	CAD|113|UBQLN4|Skin_Sun_Exposed_Lower_leg	yes
+b	Colocalization PP4	posterior probability under coloc model	0.746	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	CAD|113|UBQLN4|Skin_Not_Sun_Exposed_Suprapubic	yes
+b	Colocalization PP4	posterior probability under coloc model	0.597	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	CAD|113|MEX3A|Skin_Sun_Exposed_Lower_leg	yes
+b	Colocalization PP4	posterior probability under coloc model	0.595	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	CAD|113|MEX3A|Skin_Not_Sun_Exposed_Suprapubic	yes
+b	Colocalization PP4	posterior probability under coloc model	0.639	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	Crohn|887|SLC22A5|Colon_Sigmoid	yes
+b	Colocalization PP4	posterior probability under coloc model	0.565	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	Crohn|10|PARK7|Whole_Blood	yes
+b	Colocalization PP4	posterior probability under coloc model	0.971	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|887|SLC22A5|Spleen	yes
+b	Colocalization PP4	posterior probability under coloc model	0.945	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|1793|RP11-977G19.11|Cells_EBV-transformed_lymphocytes	yes
+b	Colocalization PP4	posterior probability under coloc model	0.934	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|887|SLC22A5|Cells_EBV-transformed_lymphocytes	yes
+b	Colocalization PP4	posterior probability under coloc model	0.783	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|1793|RP11-977G19.11|Skin_Not_Sun_Exposed_Suprapubic	yes
+b	Colocalization PP4	posterior probability under coloc model	0.773	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|1793|RP11-977G19.11|Whole_Blood	yes
+b	Colocalization PP4	posterior probability under coloc model	0.762	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|887|SLC22A5|Skin_Sun_Exposed_Lower_leg	yes
+b	Colocalization PP4	posterior probability under coloc model	0.749	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PsA|1793|RP11-977G19.11|Skin_Sun_Exposed_Lower_leg	yes
+b	Colocalization PP4	posterior probability under coloc model	0.960	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	UC|2251|RP11-973H7.1|Colon_Transverse	yes
+b	Colocalization PP4	posterior probability under coloc model	0.960	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	UC|2251|RP11-973H7.1|Colon_Sigmoid	yes
+c	Axis-specific genetic anchoring was not robustly supported	evidence statement	Axis-specific genetic anchoring: not robustly supported	results/phase3a/Table_axis_genetic_anchoring.tsv	TIER D - NO DETECTABLE GENETIC ANCHORING	yes
+c	No direct gene-membership overlap detected between regulatory candidates and molecular programs	evidence statement	No direct gene-membership overlap detected	results/phase4e_contextualization/phase4e_coloc_candidate_axis_program_overlap.tsv	no_overlap_with_F1_F2_F6_F7_programs	yes

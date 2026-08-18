@@ -1,0 +1,6 @@
+Wrote /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_preparation/phase4c_gtex_v8_smr_besd_audit.tsv
+phase4c_relevant  zip_status  smr_usable
+False             BAD_ZIP     False          1
+                  PASS        True          35
+True              BAD_ZIP     False          1
+                  PASS        True          11

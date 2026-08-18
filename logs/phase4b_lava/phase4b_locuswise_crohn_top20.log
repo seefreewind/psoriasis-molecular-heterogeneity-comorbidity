@@ -1,0 +1,33 @@
+Reading input for psoriasis vs crohn
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'crohn')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1131549 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+Shared SNPs: 1131549
+Retained loci: 20 with threshold 1e-05
+Outcome crohn locus 1/20 (57): OK
+Outcome crohn locus 2/20 (908): OK
+Outcome crohn locus 3/20 (887): OK
+Outcome crohn locus 4/20 (2318): OK
+Outcome crohn locus 5/20 (1559): OK
+Outcome crohn locus 6/20 (2251): OK
+Outcome crohn locus 7/20 (809): OK
+Outcome crohn locus 8/20 (899): OK
+Outcome crohn locus 9/20 (2205): OK
+Outcome crohn locus 10/20 (1351): OK
+Outcome crohn locus 11/20 (2115): OK
+Outcome crohn locus 12/20 (1037): OK
+Outcome crohn locus 13/20 (159): OK
+Outcome crohn locus 14/20 (410): OK
+Outcome crohn locus 15/20 (1492): OK
+Outcome crohn locus 16/20 (151): OK
+Outcome crohn locus 17/20 (585): OK
+Outcome crohn locus 18/20 (2307): OK
+Outcome crohn locus 19/20 (2453): OK
+Outcome crohn locus 20/20 (1453): OK
+Locuswise runner complete for crohn

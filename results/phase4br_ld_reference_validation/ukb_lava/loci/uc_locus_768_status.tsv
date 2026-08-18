@@ -1,0 +1,2 @@
+locus	chr	start	stop	outcome	status
+768	4	184338585	185483262	uc	ERROR: required phenotype unavailable after local variance filtering

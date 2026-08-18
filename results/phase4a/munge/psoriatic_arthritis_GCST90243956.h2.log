@@ -1,0 +1,32 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out results/phase4a/munge/psoriatic_arthritis_GCST90243956.h2 \
+--h2 results/phase4a/munge/psoriatic_arthritis_GCST90243956.sumstats.gz \
+--ref-ld-chr data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/ \
+--w-ld-chr data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/ 
+
+Beginning analysis at Thu Aug 13 08:22:46 2026
+Reading summary statistics from results/phase4a/munge/psoriatic_arthritis_GCST90243956.sumstats.gz ...
+Read summary statistics for 1182068 SNPs.
+Reading reference panel LD Score from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1290028 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1290028 SNPs.
+After merging with reference panel LD, 1175490 SNPs remain.
+After merging with regression SNP LD, 1175490 SNPs remain.
+Using two-step estimator with cutoff at 30.
+Total Observed scale h2: 0.1519 (0.0276)
+Lambda GC: 1.0833
+Mean Chi^2: 1.1069
+Intercept: 1.0278 (0.0075)
+Ratio: 0.2602 (0.0706)
+Analysis finished at Thu Aug 13 08:22:54 2026
+Total time elapsed: 7.81s

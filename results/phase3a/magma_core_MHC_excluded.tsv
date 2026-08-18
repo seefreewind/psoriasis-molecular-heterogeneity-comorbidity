@@ -1,0 +1,5 @@
+axis	program_type	N_frozen_genes	N_tested_genes	beta	SE	P	FDR	direction	interpretation
+F1	CORE	see_axis_gene_mapping_coverage	252	-0.053787	0.061254	0.81005	0.81005	negative	not_significant
+F2	CORE	see_axis_gene_mapping_coverage	674	0.05185	0.039191	0.092923	0.371692	positive	not_significant
+F6	CORE	see_axis_gene_mapping_coverage	128	0.042266	0.081005	0.30092	0.4012266666666667	positive	not_significant
+F7	CORE	see_axis_gene_mapping_coverage	203	0.04433	0.06921	0.26092	0.4012266666666667	positive	not_significant

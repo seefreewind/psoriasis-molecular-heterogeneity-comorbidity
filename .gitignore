@@ -1,0 +1,60 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.gz
+*.zip
+*.tar
+*.tbi
+*.besd
+*.esi
+*.bed
+*.bim
+*.fam
+*.bcor
+*.ma
+
+# Local environments and caches
+environment/phase1b_venv/
+.venv/
+venv/
+*.egg-info/
+
+# Raw and restricted data are described by accession/source manifests, not redistributed
+data/raw/
+data/external/
+data/genetics/
+data/interim/
+tools/phase3a_magma/downloads/
+tools/phase3a_magma/bin/
+tools/phase4b_lava/
+
+# Large intermediate outputs
+results/phase4a/munge_inputs/
+results/phase2br/GSE228421_cell_axis_scores.tsv
+results/phase3a/*.magma_pvals*.tsv
+results/phase3a/*.genes.annot
+
+# Rendered QA and local Office scratch files
+manuscript/rendered_main_*/
+manuscript/figure_package/rendered_*/
+manuscript/figure_package/review_composites/*.pdf
+manuscript/figure_package/review_composites/*.tiff
+manuscript/Communications_Biology_main_manuscript_v1*
+manuscript/Communications_Biology_main_manuscript_v3*
+manuscript/Communications_Biology_main_manuscript_v4*
+manuscript/Communications_Biology_main_manuscript_v5*
+manuscript/Communications_Biology_main_manuscript_v6*
+~$*
+
+# Large submission raster exports can be regenerated from SVG/source data
+results/figures/communications_biology_final/*.tiff
+results/figures/phase4c/*.tiff
+
+# Large derived matrices and GWAS helper files can be regenerated
+results/phase1b/external_*_gene_expression.tsv
+results/phase1b/external_*_logCPM.tsv
+results/phase3a/*.raw
+results/phase3a/*.sets.annot
+results/phase4c_smr/gwas_ma_probe2mb/

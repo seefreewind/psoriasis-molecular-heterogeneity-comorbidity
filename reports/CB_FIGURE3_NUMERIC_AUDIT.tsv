@@ -1,0 +1,45 @@
+panel	dataset	program	cell_type_or_sample	metric	displayed_value	source_file	source_identifier	verified
+a	GSE228421	F1	keratinocyte	mean donor-level LS-NL effect	0.035396	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE keratinocyte	yes
+a	GSE228421	F1	fibroblast	mean donor-level LS-NL effect	-0.016263	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE fibroblast	yes
+a	GSE228421	F1	T_cell	mean donor-level LS-NL effect	0.008815	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE T_cell	yes
+a	GSE228421	F1	NK_cell	mean donor-level LS-NL effect	-0.010379	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE NK_cell	yes
+a	GSE228421	F1	B_cell	mean donor-level LS-NL effect	-0.032863	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE B_cell	yes
+a	GSE228421	F1	dendritic	mean donor-level LS-NL effect	-0.021987	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE dendritic	yes
+a	GSE228421	F1	endothelial	mean donor-level LS-NL effect	-0.009346	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F1 CORE endothelial	yes
+a	GSE228421	F2	keratinocyte	mean donor-level LS-NL effect	0.015207	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE keratinocyte	yes
+a	GSE228421	F2	fibroblast	mean donor-level LS-NL effect	-0.003258	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE fibroblast	yes
+a	GSE228421	F2	T_cell	mean donor-level LS-NL effect	0.006153	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE T_cell	yes
+a	GSE228421	F2	NK_cell	mean donor-level LS-NL effect	0.014833	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE NK_cell	yes
+a	GSE228421	F2	B_cell	mean donor-level LS-NL effect	-0.017423	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE B_cell	yes
+a	GSE228421	F2	dendritic	mean donor-level LS-NL effect	-0.009533	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE dendritic	yes
+a	GSE228421	F2	endothelial	mean donor-level LS-NL effect	0.002475	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F2 CORE endothelial	yes
+a	GSE228421	F6	keratinocyte	mean donor-level LS-NL effect	0.049342	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE keratinocyte	yes
+a	GSE228421	F6	fibroblast	mean donor-level LS-NL effect	-0.006472	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE fibroblast	yes
+a	GSE228421	F6	T_cell	mean donor-level LS-NL effect	0.017710	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE T_cell	yes
+a	GSE228421	F6	NK_cell	mean donor-level LS-NL effect	0.048426	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE NK_cell	yes
+a	GSE228421	F6	B_cell	mean donor-level LS-NL effect	-0.002386	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE B_cell	yes
+a	GSE228421	F6	dendritic	mean donor-level LS-NL effect	-0.028230	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE dendritic	yes
+a	GSE228421	F6	endothelial	mean donor-level LS-NL effect	-0.001944	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F6 CORE endothelial	yes
+a	GSE228421	F7	keratinocyte	mean donor-level LS-NL effect	-0.008874	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE keratinocyte	yes
+a	GSE228421	F7	fibroblast	mean donor-level LS-NL effect	-0.096919	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE fibroblast	yes
+a	GSE228421	F7	T_cell	mean donor-level LS-NL effect	-0.079056	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE T_cell	yes
+a	GSE228421	F7	NK_cell	mean donor-level LS-NL effect	0.120505	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE NK_cell	yes
+a	GSE228421	F7	B_cell	mean donor-level LS-NL effect	0.108511	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE B_cell	yes
+a	GSE228421	F7	dendritic	mean donor-level LS-NL effect	-0.010113	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE dendritic	yes
+a	GSE228421	F7	endothelial	mean donor-level LS-NL effect	-0.104702	results/phase2b/GSE228421_baseline_LS_vs_NL_donor_statistics.tsv	F7 CORE endothelial	yes
+b	GSE228421	F1	keratinocyte	donor effect with 95% bootstrap CI	0.035396; 0.024561; 0.046230	results/phase2b/Table_phase2b_axis_cell_localization.tsv	F1	yes
+b	GSE228421	F2	keratinocyte	donor effect with 95% bootstrap CI	0.015207; 0.010134; 0.020280	results/phase2b/Table_phase2b_axis_cell_localization.tsv	F2	yes
+b	GSE228421	F6	keratinocyte	donor effect with 95% bootstrap CI	0.049342; 0.038612; 0.062008	results/phase2b/Table_phase2b_axis_cell_localization.tsv	F6	yes
+b	GSE228421	F7	NK_cell	donor effect with 95% bootstrap CI	0.120505; 0.008851; 0.259251	results/phase2b/Table_phase2b_axis_cell_localization.tsv	F7	yes
+c	GSE225475	F1	0.5023091804132536	median spot-level program-marker Spearman rho	0.502309	results/phase2c/GSE225475_spatial_axis_localization.tsv	F1	yes
+c	GSE202011	F1	0.4894746551524133	median spot-level program-marker Spearman rho	0.489475	results/phase2c/GSE202011_spatial_axis_localization.tsv	F1	yes
+c	GSE225475	F2	0.5060327012745283	median spot-level program-marker Spearman rho	0.506033	results/phase2c/GSE225475_spatial_axis_localization.tsv	F2	yes
+c	GSE202011	F2	0.4907732828080209	median spot-level program-marker Spearman rho	0.490773	results/phase2c/GSE202011_spatial_axis_localization.tsv	F2	yes
+c	GSE225475	F6	0.5457899639646722	median spot-level program-marker Spearman rho	0.545790	results/phase2c/GSE225475_spatial_axis_localization.tsv	F6	yes
+c	GSE202011	F6	0.4961148623199959	median spot-level program-marker Spearman rho	0.496115	results/phase2c/GSE202011_spatial_axis_localization.tsv	F6	yes
+c	GSE225475	F7	0.504905586345315	median spot-level program-marker Spearman rho	0.504906	results/phase2c/GSE225475_spatial_axis_localization.tsv	F7	yes
+c	GSE202011	F7	0.4847144138620564	median spot-level program-marker Spearman rho	0.484714	results/phase2c/GSE202011_spatial_axis_localization.tsv	F7	yes
+d	GSE225475	KRT stress	PP1	display range 5th-95th percentile	0.000000; 0.982325	results/phase2c/GSE225475_spot_axis_scores.tsv.gz + data/external/geo/GSE225475_visium/*/spatial/tissue_positions_list.csv	PP1 marker_keratinocyte_stress_hypoxia	yes
+d	GSE225475	F1	PP1	display range 5th-95th percentile	0.201447; 0.502722	results/phase2c/GSE225475_spot_axis_scores.tsv.gz + data/external/geo/GSE225475_visium/*/spatial/tissue_positions_list.csv	PP1 F1_CORE	yes
+d	GSE225475	F2	PP1	display range 5th-95th percentile	0.082135; 0.319400	results/phase2c/GSE225475_spot_axis_scores.tsv.gz + data/external/geo/GSE225475_visium/*/spatial/tissue_positions_list.csv	PP1 F2_CORE	yes
+d	GSE225475	F6	PP1	display range 5th-95th percentile	0.179332; 0.679024	results/phase2c/GSE225475_spot_axis_scores.tsv.gz + data/external/geo/GSE225475_visium/*/spatial/tissue_positions_list.csv	PP1 F6_CORE	yes

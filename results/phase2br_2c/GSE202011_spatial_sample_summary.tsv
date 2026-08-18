@@ -1,0 +1,6 @@
+disease_group	tissue_state	n_samples
+Healthy	healthy	7
+PSA	lesional	7
+PSA	nonlesional	4
+PSO	lesional	7
+PSO	nonlesional	5

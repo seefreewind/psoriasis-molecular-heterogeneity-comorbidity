@@ -1,0 +1,25 @@
+Welcome to MAGMA v1.10 (custom)
+Using flags:
+	--gene-results results/phase3a/magma_GCST90472771_body_only_MHC_excluded.genes.raw
+	--set-annot results/phase3a/core_MHC_excluded.sets.annot
+	--model condition=F1_CORE_MHC_EXCLUDED,F2_CORE_MHC_EXCLUDED,F6_CORE_MHC_EXCLUDED,F7_CORE_MHC_EXCLUDED
+	--out results/phase3a/magma_axis_conditional_raw
+
+Start time is 23:11:46, Tuesday 11 Aug 2026
+
+Reading file results/phase3a/magma_GCST90472771_body_only_MHC_excluded.genes.raw... 
+	18005 genes read from file
+Loading gene-set annotation...
+Reading file results/phase3a/core_MHC_excluded.sets.annot... 
+	4 gene-set definitions read from file
+	found 4 gene sets containing genes defined in genotype data (containing a total of 1059 unique genes)
+Preparing variables for analysis...
+	truncating Z-scores 3 points below zero or 6 standard deviations above the mean
+	truncating covariate values more than 5 standard deviations from the mean
+	total variables available for analysis: 4 gene sets
+
+Parsing model specifications...
+
+ERROR - running gene-level regression: no variables available for analysis with the specified model settings
+
+Terminating program.

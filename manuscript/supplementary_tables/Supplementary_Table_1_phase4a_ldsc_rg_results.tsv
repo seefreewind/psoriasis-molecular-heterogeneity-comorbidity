@@ -1,0 +1,7 @@
+Outcome	system	rg	SE	Z	P	FDR	h2_psoriasis	h2_psoriasis_SE	h2_outcome	h2_outcome_SE	outcome_intercept	cross_trait_intercept	QC_status
+Psoriatic arthritis	musculoskeletal_autoimmune	1.1715	0.0751	15.6049	6.7461e-55	4.04766e-54	0.2093	0.0197	0.1519	0.0276	1.0278	0.3142	CROSS_TRAIT_INTERCEPT_ELEVATED;NEAR_NEIGHBOR_PHENOTYPE
+Crohn disease	intestinal_autoimmune	-0.2717	0.0449	-6.0516	1.434e-09	2.868e-09	0.2093	0.0197	0.4184	0.0443	1.1144	-0.0636	ELEVATED_H2_INTERCEPT;CROSS_TRAIT_INTERCEPT_ELEVATED
+Ulcerative colitis	intestinal_autoimmune	-0.2233	0.0409	-5.4578	4.8195e-08	7.22925e-08	0.2093	0.0197	0.245	0.0227	1.0933	-0.0625	ELEVATED_H2_INTERCEPT;CROSS_TRAIT_INTERCEPT_ELEVATED
+Coronary artery disease	cardiometabolic_vascular	0.1732	0.0274	6.3271	2.4979e-10	7.4937e-10	0.2093	0.0197	0.0583	0.0033	0.9952	0.0189	PASS
+Ischemic stroke	cardiometabolic_vascular	0.0255	0.0589	0.4334	0.6647	0.7912	0.2093	0.0197	0.0086	0.0016	1.0569	0.0156	PASS
+Chronic kidney disease	renal	0.0118	0.0445	0.2648	0.7912	0.7912	0.2093	0.0197	0.0136	0.0019	1.0753	0.0102	PASS

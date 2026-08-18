@@ -1,0 +1,28 @@
+Processing pair: psoriasis vs psa
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'psa')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1162496 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+[1] "...Removing 1 SNPs which could not be aligned, 1162495 remaining"
+Pair psa: shared SNPs = 1162495
+Pair psa: candidate local-h2 threshold 1e-05 retained 40 loci
+Pair psa: chunk 1 loci 1-20 / 40
+Pair psa: chunk 2 loci 21-40 / 40
+Processing pair: psoriasis vs crohn
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'crohn')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1131549 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+Pair crohn: shared SNPs = 1131549
+Pair crohn: candidate local-h2 threshold 1e-05 retained 131 loci
+Pair crohn: chunk 1 loci 1-20 / 131

@@ -1,0 +1,60 @@
+/Users/zy/.codex/tools/ldsc/munge_sumstats.py:660: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  merge_alleles = pd.read_csv(args.merge_alleles, compression=compression, header=0,
+/Users/zy/.codex/tools/ldsc/munge_sumstats.py:680: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  dat_gen = pd.read_csv(args.sumstats, delim_whitespace=True, header=0,
+/Users/zy/.codex/tools/ldsc/munge_sumstats.py:434: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[True True True ... True True True]' has dtype incompatible with bool, please explicitly cast to a compatible dtype first.
+  jj[ii] = match
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./munge_sumstats.py \
+--sumstats data/genetics/phase4a_raw/psoriatic_arthritis_GCST90243956/GCST90243956.tsv \
+--N-cas 5065.0 \
+--N-con 21286.0 \
+--out results/phase4a/munge/psoriatic_arthritis_GCST90243956 \
+--merge-alleles data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/w_hm3.snplist \
+--snp rs_id \
+--a1 effect_allele \
+--a2 other_allele \
+--p p_value \
+--frq effect_allele_frequency \
+--signed-sumstats beta,0 
+
+Interpreting column names as follows:
+effect_allele:	Allele 1, interpreted as ref allele for signed sumstat.
+other_allele:	Allele 2, interpreted as non-ref allele for signed sumstat.
+beta:	Directional summary statistic as specified by --signed-sumstats.
+effect_allele_frequency:	Allele frequency
+p_value:	p-Value
+rs_id:	Variant ID (e.g., rs number)
+
+Reading list of SNPs for allele merge from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/w_hm3.snplist
+Read 1217311 SNPs for allele merge.
+Reading sumstats from data/genetics/phase4a_raw/psoriatic_arthritis_GCST90243956/GCST90243956.tsv into memory 5000000 SNPs at a time.
+.. done
+Read 8553715 SNPs from --sumstats file.
+Removed 7371166 SNPs not in --merge-alleles.
+Removed 0 SNPs with missing values.
+Removed 0 SNPs with INFO <= 0.9.
+Removed 1 SNPs with MAF <= 0.01.
+Removed 0 SNPs with out-of-bounds p-values.
+Removed 244 variants that were not SNPs or were strand-ambiguous.
+1182304 SNPs remain.
+Removed 0 SNPs with duplicated rs numbers (1182304 SNPs remain).
+Median value of SIGNED_SUMSTATS was -1.600012800138135e-05, which seems sensible.
+Removed 236 SNPs whose alleles did not match --merge-alleles (1182068 SNPs remain).
+Writing summary statistics for 1217311 SNPs (1182068 with nonmissing beta) to results/phase4a/munge/psoriatic_arthritis_GCST90243956.sumstats.gz.
+
+Metadata:
+Mean chi^2 = 1.129
+Lambda GC = 1.084
+Max chi^2 = 540.987
+481 Genome-wide significant SNPs (some may have been removed by filtering).
+
+Conversion finished at Thu Aug 13 08:17:51 2026
+Total time elapsed: 47.07s

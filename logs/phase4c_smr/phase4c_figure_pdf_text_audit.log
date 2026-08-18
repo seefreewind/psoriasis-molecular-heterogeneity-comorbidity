@@ -1,0 +1,1216 @@
+{
+  "pdf": "results/figures/phase4c/Figure_Phase4C_shared_locus_eqtl_prioritization.pdf",
+  "auditable": true,
+  "minimum_required_pt": 5.0,
+  "minimum_found_pt": 1.0,
+  "text_run_count": 241,
+  "below_minimum_count": 241,
+  "below_minimum": [
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-2-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-7-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-8-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-1",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-9-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-10-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-11-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-10-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-7-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-12-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-12-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-13-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-2-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-7-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-14-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-15-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-14-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-15-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-14-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-2-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-7-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-17-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-17-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-17-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-17-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-16-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-19-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-18-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-4-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-6-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-5-0",
+      "size_pt": 1.0
+    }
+  ],
+  "warnings": []
+}

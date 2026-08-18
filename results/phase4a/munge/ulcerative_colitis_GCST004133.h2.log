@@ -1,0 +1,32 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out results/phase4a/munge/ulcerative_colitis_GCST004133.h2 \
+--h2 results/phase4a/munge/ulcerative_colitis_GCST004133.sumstats.gz \
+--ref-ld-chr data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/ \
+--w-ld-chr data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/ 
+
+Beginning analysis at Thu Aug 13 08:23:39 2026
+Reading summary statistics from results/phase4a/munge/ulcerative_colitis_GCST004133.sumstats.gz ...
+Read summary statistics for 1144294 SNPs.
+Reading reference panel LD Score from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1290028 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1290028 SNPs.
+After merging with reference panel LD, 1144294 SNPs remain.
+After merging with regression SNP LD, 1144294 SNPs remain.
+Using two-step estimator with cutoff at 30.
+Total Observed scale h2: 0.245 (0.0227)
+Lambda GC: 1.2038
+Mean Chi^2: 1.3117
+Intercept: 1.0933 (0.0089)
+Ratio: 0.2994 (0.0286)
+Analysis finished at Thu Aug 13 08:23:46 2026
+Total time elapsed: 7.36s

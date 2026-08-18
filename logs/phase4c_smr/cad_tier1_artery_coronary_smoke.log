@@ -1,0 +1,20 @@
+*******************************************************************
+* SMR (Summary-data-based Mendelian Randomization)
+* Version 1.4.2 MacOS
+* (C) 2015-present, Yang Lab, Westlake University
+* Please report bugs to Jian Yang jian.yang@westlake.edu.cn
+* MIT License
+*******************************************************************
+Analysis started at 20:11:11 CST on Sat Aug 15 2026. 
+Hostname: zhangyudeMacBook-Air.local
+
+Options:
+--bfile data/genetics/reference/ld/g1000_eur/g1000_eur
+--gwas-summary results/phase4c_smr/gwas_ma/cad.phase4c_loci.ma
+--beqtl-summary data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary
+--extract-probe results/phase4c_smr/smoke/cad_tier1_artery_coronary_probe_ids.txt
+--out results/phase4c_smr/smoke/cad_tier1_artery_coronary
+--thread-num 4
+--peqtl-smr   5.00e-08
+--heidi-min-m 3
+

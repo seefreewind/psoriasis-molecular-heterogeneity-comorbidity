@@ -1,0 +1,43 @@
+Comment[ArrayExpressAccession]	E-MTAB-14509
+MAGE-TAB Version	1.1
+Comment[Submitted Name]	RNA-Seq study of skin and blood samples from prospectively-recruited, deeply-phenotyped discovery and refinement psoriasis cohorts, during targeted treatment with adalimumab or ustekinumab				
+Investigation Title	RNA-Seq study of skin and blood samples from prospectively-recruited, deeply-phenotyped discovery and refinement psoriasis cohorts, during targeted treatment with adalimumab or ustekinumab
+Experiment Description	The Psoriasis Stratification to Optimise Relevant Therapy (PSORT) consortium, prospectively recruited deeply-phenotyped discovery and refinement psoriasis patient cohorts, during the early phase of treatment with two distinct biologics, adalimumab (TNF inhibitor) and ustekinumab (IL-12/23 inhibitor).  Utilising this large multi-dimensional dataset, we aimed to identify transcripts associated with specific disease endotypes, defined by clinical and phenotypic features before commencing treatment (baseline); and disease severity endotypes, defined by Psoriasis Area and Severity Index (PASI)-associated gene expression profiles
+Experimental Design	disease state design	time series design
+Experimental Design Term Source REF	EFO	EFO
+Experimental Design Term Accession Number	EFO:0001756	EFO:0001779
+Experimental Factor Name	time
+Experimental Factor Type	time
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	EFO_0000721
+Person Last Name	Barnes	Reynolds
+Person First Name	Michael	Nick
+Person Mid Initials	R
+Person Email	m.r.barnes@qmul.ac.uk	nick.reynolds@newcastle.ac.uk
+Person Phone
+Person Fax
+Person Address	William Harvey Research Institute Charterhouse Square	Translational and Clinical Research Institute (Dermatology) 2rd Floor, William Leech Building Medical School Newcastle University NE2 4HH
+Person Affiliation	Queen Mary University of London	Newcastle University
+Person Roles	consortium member;investigator;submitter	consortium member;investigator
+Date of Experiment	2024-01-01
+Public Release Date	2026-01-01
+PubMed ID	26569580
+Publication DOI	10.1038/jid.2015.286
+Publication Author List	Christopher E M Griffiths, Michael R Barnes, A David Burden, Frank O Nestle, Nick J Reynolds, Catherine H Smith, Richard B Warren, Jonathan N W N Barker, On Behalf Of The Psort Consortium
+Publication Title	Establishing an Academic-Industrial Stratified Medicine Consortium: Psoriasis Stratification to Optimize Relevant Therapy
+Publication Status	published
+Publication Status Term Source REF	EFO
+Publication Status Term Accession Number	EFO_0001796
+Protocol Name	P-MTAB-147631	P-MTAB-147632	P-MTAB-147633	P-MTAB-147634	P-MTAB-147635
+Protocol Type	sample collection protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	normalization data transformation protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0005518	EFO_0002944	EFO_0004184	EFO_0004170	EFO_0003816
+Protocol Description	Samples including lesional and non-lesional skin samples, were taken at each participant visit. Skin biopsies (6mm punch biopsies) were taken from lesional (edge of a plaque) and adjacent (minimum distance of 2cm) non-lesional skin from photoprotected sites on the lower back or upper buttock at each visit. Repeat biopsies were taken at a minimum distance of 2cm and biopsy sites were recorded. 	mRNA was extracted from skin biopsies and whole blood using Qiagen Rneasy mini kits	Libraries were prepared with the TruSeq Stranded Total RNA Sample Preparation Kits. The first step involved removal of ribosomal RNA (rRNA), conducted using biotinylated Ribo-Zero rRNA removal beads. For RNA extracted from skin, the Ribo-Zero Gold kit was used to deplete samples of cytoplasmic and mitochondrial rRNA. 	sequencing of mRNA extracted from skin samples was performed at GSK Medicines Research Centre, Stevenage, UK using the Illumina HiSeq 2500 platform	Following RNA-seqencing of all samples, reads were pseudo-aligned using kallisto (Bray et al., 2016). Our reference genome was GRCh38.p10, Ensembl version 91. Transcript-level reads were aggregated to gene-level using the tximport package (Soneson et al., 2015). We provide the raw count matrix and normalised matrix. We merged counts with gene-level annotation data and remove probes with less than one count per million (CPM) in at least 20 libraries. This ensures that every probe is expressed in at least 5% of all samples. Counts are then TMM normalised prior to modelling (Robinson & Oshlack, 2010).
+Protocol Hardware				Illumina HiSeq 2500
+Protocol Software
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/
+Term Source Version
+Comment[AEExperimentType]	RNA-seq of coding RNA
+Comment[TemplateType]	Human - High-throughput sequencing
+SDRF File	E-MTAB-14509.sdrf.txt

@@ -1,0 +1,9 @@
+axis	program_type	dominant_refined_state	dominant_parent_cell_type	dominant_mean_score	n_refined_states_observed
+F1	CORE	melanocyte_unresolved	melanocyte	0.43963560139421454	25
+F1	EXTENDED	melanocyte_unresolved	melanocyte	0.3359873671495722	25
+F2	CORE	melanocyte_unresolved	melanocyte	0.21840922187540243	25
+F2	EXTENDED	fibroblast_homeostatic_matrix	fibroblast	0.23907671105586217	25
+F6	CORE	melanocyte_unresolved	melanocyte	0.5182507855537715	25
+F6	EXTENDED	keratinocyte_proliferative	keratinocyte	0.4708653882050529	25
+F7	CORE	keratinocyte_basal	keratinocyte	1.4843454861801162	25
+F7	EXTENDED	keratinocyte_basal	keratinocyte	0.8450470972360928	25

@@ -1,0 +1,6 @@
+ psoriasis psa crohn uc cad
+psoriasis 1 0.3142 -0.0636 -0.0625 0.0189
+psa 0.3142 1 0 0 0
+crohn -0.0636 0 1 0 0
+uc -0.0625 0 0 1 0
+cad 0.0189 0 0 0 1

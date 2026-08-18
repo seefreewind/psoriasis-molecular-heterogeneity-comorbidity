@@ -1,0 +1,5 @@
+factor	core_gene_count	extended_gene_count	core_program_large_enough	housekeeping_dominance_risk	likely_scoreable_in_scRNAseq	expected_cell_type_or_state	biologically_falsifiable	single_cell_ready	phase2b_entry
+F1	304	809	True	review	True	keratinocyte/stress or epidermal metabolic state to be tested	True	True	yes
+F2	725	1184	True	low_to_moderate	True	fibroblast/endothelial/repair or nonlesional stromal state to be tested	True	True	yes
+F6	134	544	True	review	True	keratinocyte hypoxia/stress or epithelial response state to be tested	True	True	yes
+F7	232	507	True	low_to_moderate	True	myeloid/monocyte/neutrophil/IFN-response systemic immune state to be tested	True	True	yes

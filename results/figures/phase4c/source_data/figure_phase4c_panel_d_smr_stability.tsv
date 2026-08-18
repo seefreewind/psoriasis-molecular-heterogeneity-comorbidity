@@ -1,0 +1,5 @@
+source	unit	n	source_x
+SMR1	Outcome + tissue + gene	176	1
+SMR2	Outcome + tissue + gene	174	2
+SMR1	Outcome + gene	91	1
+SMR2	Outcome + gene	91	2

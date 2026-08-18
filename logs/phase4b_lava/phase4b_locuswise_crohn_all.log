@@ -1,0 +1,124 @@
+Reading input for psoriasis vs crohn
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'crohn')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1131549 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+Shared SNPs: 1131549
+Retained loci: 131 with threshold 1e-05
+Outcome crohn locus 21/131 (907): OK
+Outcome crohn locus 22/131 (1749): OK
+Outcome crohn locus 23/131 (854): OK
+Outcome crohn locus 24/131 (53): OK
+Outcome crohn locus 25/131 (1082): OK
+Outcome crohn locus 26/131 (130): OK
+Outcome crohn locus 27/131 (113): OK
+Outcome crohn locus 28/131 (10): OK
+Outcome crohn locus 29/131 (2432): OK
+Outcome crohn locus 30/131 (926): OK
+Outcome crohn locus 31/131 (898): OK
+Outcome crohn locus 32/131 (1061): OK
+Outcome crohn locus 33/131 (110): OK
+Outcome crohn locus 34/131 (1063): OK
+Outcome crohn locus 35/131 (2182): OK
+Outcome crohn locus 36/131 (2167): OK
+Outcome crohn locus 37/131 (1462): OK
+Outcome crohn locus 38/131 (2481): OK
+Outcome crohn locus 39/131 (2471): OK
+Outcome crohn locus 40/131 (603): OK
+Outcome crohn locus 41/131 (927): OK
+Outcome crohn locus 42/131 (652): OK
+Outcome crohn locus 43/131 (117): OK
+Outcome crohn locus 44/131 (268): OK
+Outcome crohn locus 45/131 (1746): OK
+Outcome crohn locus 46/131 (945): OK
+Outcome crohn locus 47/131 (1493): OK
+Outcome crohn locus 48/131 (2072): OK
+Outcome crohn locus 49/131 (2412): OK
+Outcome crohn locus 50/131 (2026): OK
+Outcome crohn locus 51/131 (2203): OK
+Outcome crohn locus 52/131 (893): OK
+Outcome crohn locus 53/131 (1913): OK
+Outcome crohn locus 54/131 (58): OK
+Outcome crohn locus 55/131 (2422): OK
+Outcome crohn locus 56/131 (2098): OK
+Outcome crohn locus 57/131 (2159): OK
+Outcome crohn locus 58/131 (299): OK
+Outcome crohn locus 59/131 (2466): OK
+Outcome crohn locus 60/131 (906): OK
+Outcome crohn locus 61/131 (928): OK
+Outcome crohn locus 62/131 (155): OK
+Outcome crohn locus 63/131 (1569): OK
+Outcome crohn locus 64/131 (1090): OK
+Outcome crohn locus 65/131 (271): OK
+Outcome crohn locus 66/131 (2194): OK
+Outcome crohn locus 67/131 (305): OK
+Outcome crohn locus 68/131 (2449): OK
+Outcome crohn locus 69/131 (1733): OK
+Outcome crohn locus 70/131 (228): OK
+Outcome crohn locus 71/131 (26): OK
+Outcome crohn locus 72/131 (864): OK
+Outcome crohn locus 73/131 (1852): OK
+Outcome crohn locus 74/131 (948): OK
+Outcome crohn locus 75/131 (781): OK
+Outcome crohn locus 76/131 (2162): OK
+Outcome crohn locus 77/131 (1146): OK
+Outcome crohn locus 78/131 (2094): OK
+Outcome crohn locus 79/131 (944): OK
+Outcome crohn locus 80/131 (692): OK
+Outcome crohn locus 81/131 (1191): OK
+Outcome crohn locus 82/131 (1352): OK
+Outcome crohn locus 83/131 (2048): OK
+Outcome crohn locus 84/131 (407): OK
+Outcome crohn locus 85/131 (580): OK
+Outcome crohn locus 86/131 (2124): OK
+Outcome crohn locus 87/131 (638): OK
+Outcome crohn locus 88/131 (897): OK
+Outcome crohn locus 89/131 (1222): OK
+Outcome crohn locus 90/131 (196): OK
+Outcome crohn locus 91/131 (1940): OK
+Outcome crohn locus 92/131 (112): OK
+Outcome crohn locus 93/131 (2195): OK
+Outcome crohn locus 94/131 (1965): OK
+Outcome crohn locus 95/131 (1966): OK
+Outcome crohn locus 96/131 (439): OK
+Outcome crohn locus 97/131 (2242): OK
+Outcome crohn locus 98/131 (886): OK
+Outcome crohn locus 99/131 (1545): OK
+Outcome crohn locus 100/131 (2356): OK
+Outcome crohn locus 101/131 (1554): OK
+Outcome crohn locus 102/131 (2095): OK
+Outcome crohn locus 103/131 (1674): OK
+Outcome crohn locus 104/131 (888): OK
+Outcome crohn locus 105/131 (771): OK
+Outcome crohn locus 106/131 (1073): OK
+Outcome crohn locus 107/131 (251): OK
+Outcome crohn locus 108/131 (163): OK
+Outcome crohn locus 109/131 (1396): OK
+Outcome crohn locus 110/131 (2021): OK
+Outcome crohn locus 111/131 (2133): OK
+Outcome crohn locus 112/131 (2046): OK
+Outcome crohn locus 113/131 (2039): OK
+Outcome crohn locus 114/131 (2298): OK
+Outcome crohn locus 115/131 (2022): OK
+Outcome crohn locus 116/131 (1134): OK
+Outcome crohn locus 117/131 (221): OK
+Outcome crohn locus 118/131 (98): OK
+Outcome crohn locus 119/131 (2274): OK
+Outcome crohn locus 120/131 (1353): OK
+Outcome crohn locus 121/131 (1267): OK
+Outcome crohn locus 122/131 (101): OK
+Outcome crohn locus 123/131 (1495): OK
+Outcome crohn locus 124/131 (1673): OK
+Outcome crohn locus 125/131 (184): OK
+Outcome crohn locus 126/131 (2370): OK
+Outcome crohn locus 127/131 (2469): OK
+Outcome crohn locus 128/131 (14): OK
+Outcome crohn locus 129/131 (1099): OK
+Outcome crohn locus 130/131 (835): OK
+Outcome crohn locus 131/131 (1119): OK
+Locuswise runner complete for crohn

@@ -1,0 +1,2 @@
+phen1	phen2	rho	rho.lower	rho.upper	r2	r2.lower	r2.upper	p	locus	chr	start	stop	outcome	univ_p_psoriasis	univ_p_outcome	h2_psoriasis	h2_outcome	z_approx	se_approx
+crohn	psoriasis	-0.534925	NA	NA	0.286145	NA	NA	8.18747e-23	57	1	66778016	67761890	crohn	2.52945e-81	3.31129e-199	0.00521621	0.0276692	9.83212249754863	0.0544058518527784

@@ -1,0 +1,13 @@
+panel	metric	value	source
+a	baseline psoriasis patients	146	manuscript/tables/Table1_public_datasets_and_roles.tsv
+a	discovery complete three-view patients	76	results/phase1/phase1_smoke_summary.tsv
+a	replication paired-skin patients	57	results/phase1/phase1_smoke_summary.tsv
+b	discovery lesional skin availability	82	results/phase1/phase1_smoke_summary.tsv
+b	discovery non-lesional skin availability	82	results/phase1/phase1_smoke_summary.tsv
+b	discovery complete LS/NL/blood modeling set	76	results/phase1/phase1_smoke_summary.tsv
+b	replication lesional skin availability	57	results/phase1/phase1_smoke_summary.tsv
+b	replication non-lesional skin availability	57	results/phase1/phase1_smoke_summary.tsv
+b	replication blood availability	0	results/phase1/phase1_smoke_summary.tsv
+c	k=2 minimum bootstrap Jaccard	0.562	reports/PHASE1_ENDOTYPE_GO_NOGO_REPORT.md
+c	prespecified stability threshold	0.75	reports/PHASE1_ENDOTYPE_GO_NOGO_REPORT.md
+d	retained downstream molecular programs	F1;F2;F6;F7	results/phase2a/Table_axis_prioritization_master.tsv

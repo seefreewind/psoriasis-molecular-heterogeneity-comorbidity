@@ -1,0 +1,7 @@
+key	value
+input_info	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b_lava/input.info.tsv
+sample_overlap	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b_lava/sample.overlap.tsv
+sumstats_dir	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b_lava/sumstats
+locus_file	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4b_lava/blocks_s2500_m25_f1_w200.GRCh37_hg19.locfile
+plink_reference_prefix	/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/magma/g1000_eur/g1000_eur
+reference_limitation	1000G_EUR_PLINK_used; LAVA_0.1.5_recommends_UKB_binary_reference_for_final_EUR_analysis

@@ -1,0 +1,37 @@
+metric	value
+dataset_id	psoriasis_GCST90472771
+gwas_catalog_accession	GCST90472771
+official_md5	00dcc6096819d85ea856ffc8b14fb442
+local_md5	00dcc6096819d85ea856ffc8b14fb442
+md5_match	True
+local_sha256	4fb534184d7290b4a918d7b64adbff5a4e45229497ee3f87cd952cc07263dd62
+total_variants	11808957
+expected_variants_from_rest	11808957
+missing_p_values	0
+invalid_p_values	0
+zero_p_values	2050
+min_p	0
+max_p	1
+duplicate_variant_chr_pos_alleles	7045
+duplicated_rsids	not_available_no_rsid_column
+duplicated_positions	65682
+multiallelic_positions	55701
+non_autosomal_variants	0
+allele_missing	0
+allele_non_acgt	1169294
+allele_non_snp	0
+ambiguous_at_cg_snps	1648532
+missing_beta	0
+invalid_beta	0
+extreme_abs_beta_gt_5	0
+extreme_abs_beta_gt_10	0
+missing_standard_error	0
+invalid_standard_error	0
+negative_standard_error	0
+zero_standard_error	0
+missing_cum_eff_sample_size	0
+invalid_cum_eff_sample_size	0
+eaf_column	not_available
+info_column	not_available
+coordinate_consistency	GRCh37_1_based_from_official_metadata; positions numeric checked
+genome_build_consistency	GRCh37 from GWAS Catalog SSF metadata and publication methods

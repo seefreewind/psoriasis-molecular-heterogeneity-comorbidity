@@ -1,0 +1,9 @@
+outcome	phase4c_role	phase4br_tier	local_direction_group	n_loci	n_genes	n_recurrent_genes	min_p_smr	min_fdr_smr
+cad	primary_systemic_cardiovascular	Tier 1	positive_local_rg	4	15	8	7.346519e-11	6.9363383558333335e-09
+cad	primary_systemic_cardiovascular	Tier 2	positive_local_rg	3	11	4	3.50551e-05	0.00038913391
+crohn	ibd_direction_heterogeneity	Tier 1	negative_local_rg	4	15	5	2.046578e-10	1.6562663385714286e-08
+crohn	ibd_direction_heterogeneity	Tier 1	positive_local_rg	4	6	2	2.914638e-05	0.000343988005625
+psa	positive_control_near_neighbor	Tier 1	positive_local_rg	6	23	12	1.805542e-14	5.114197715e-12
+uc	ibd_direction_heterogeneity	Tier 1	negative_local_rg	5	17	6	1.518386e-11	2.1504141725000004e-09
+uc	ibd_direction_heterogeneity	Tier 1	positive_local_rg	1	1	0	0.009307987	0.0446862257245762
+uc	ibd_direction_heterogeneity	Tier 2	positive_local_rg	1	3	1	0.0002053945	0.0018180622539062

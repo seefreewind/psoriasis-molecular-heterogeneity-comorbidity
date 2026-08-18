@@ -1,0 +1,18 @@
+claim_id	claim	value	source	status
+N001	Discrete k=2 endotype min bootstrap Jaccard	0.562	reports/PHASE1_ENDOTYPE_GO_NOGO_REPORT.md	locked
+N002	MOFA complete baseline discovery patients	76	reports/PHASE1B_MOLECULAR_AXIS_REPORT.md	locked
+N003	Stable MOFA factors across seeds	8 factors across 5 random seeds	reports/PHASE1B_MOLECULAR_AXIS_REPORT.md	locked
+N004	F1 GSE244679 paired-skin support	|rho|=0.688	reports/PHASE1B_MOLECULAR_AXIS_REPORT.md	locked
+N005	F2 GSE244679 paired-skin support	|rho|=0.518	reports/PHASE1B_MOLECULAR_AXIS_REPORT.md	locked
+N006	F6 GSE244679 paired-skin support	|rho|=0.375	reports/PHASE2A_AXIS_MECHANISM_PRIORITIZATION.md	locked
+N007	F1 spatial correlations	GSE225475 rho=0.502309; GSE202011 rho=0.489475	MECHANISM_FREEZE_V2.md	locked
+N008	F2 spatial correlations	GSE225475 rho=0.506033; GSE202011 rho=0.490773	MECHANISM_FREEZE_V2.md	locked
+N009	F6 spatial correlations	GSE225475 rho=0.545790; GSE202011 rho=0.496115	MECHANISM_FREEZE_V2.md	locked
+N010	F7 spatial correlations	GSE225475 rho=0.504906; GSE202011 rho=0.484714	MECHANISM_FREEZE_V2.md	locked
+N011	F1/F2/F6/F7 genetic anchoring tier	all Tier D	reports/PHASE3A_PSORIASIS_GENETIC_ANCHORING.md	locked
+N012	CAD LDSC genetic correlation	rg=0.1732; SE=0.0274; P=2.4979e-10; FDR=7.4937e-10	results/phase4a/phase4a_ldsc_rg_results.tsv	locked
+N013	PsA LDSC genetic correlation	rg=1.1715; SE=0.0751; P=6.7461e-55; FDR=4.04766e-54	results/phase4a/phase4a_ldsc_rg_results.tsv	locked
+N014	Crohn disease LDSC genetic correlation	rg=-0.2717; SE=0.0449; P=1.434e-09; FDR=2.868e-09	results/phase4a/phase4a_ldsc_rg_results.tsv	locked
+N015	Ulcerative colitis LDSC genetic correlation	rg=-0.2233; SE=0.0409; P=4.8195e-08; FDR=7.22925e-08	results/phase4a/phase4a_ldsc_rg_results.tsv	locked
+N016	Phase4D coloc supported/suggestive candidates	15 manuscript candidates	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	locked
+N017	Phase4E coloc-axis overlap	no supported/suggestive coloc gene overlapped F1/F2/F6/F7 programs	results/phase4e_contextualization/phase4e_coloc_axis_overlap_summary.tsv	locked

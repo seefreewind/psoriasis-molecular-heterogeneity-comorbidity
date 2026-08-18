@@ -1,0 +1,5 @@
+axis	N_tested_genes	beta	SE	P	conditional_signal
+F1	252	-0.088228	0.064785	0.91337	not_significant
+F2	674	0.062041	0.040897	0.064642	not_significant
+F6	128	0.04735	0.083792	0.28601	not_significant
+F7	203	0.040835	0.069269	0.27776	not_significant

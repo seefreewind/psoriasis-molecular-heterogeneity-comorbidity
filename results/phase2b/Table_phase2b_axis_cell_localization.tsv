@@ -1,0 +1,5 @@
+axis	dominant_cell	secondary_cell	LS_NL_context	donor_effect	bootstrap_ci_low	bootstrap_ci_high	fdr	core_extended_spearman	replication	final_name	confidence	phase2b_status
+F1	keratinocyte	T_cell	skin baseline paired LS-vs-NL	0.0353959104685868	0.0245614500059623	0.0462303709312114	0.3636363636363636	0.9553004332008016	yes	F1	LOW	directional_not_fdr_significant
+F2	keratinocyte	NK_cell	skin baseline paired LS-vs-NL	0.0152068552025566	0.0101339144881021	0.0202797959170111	0.3636363636363636	0.972925178141847	yes	F2	LOW	directional_not_fdr_significant
+F6	keratinocyte	NK_cell	skin baseline paired LS-vs-NL	0.0493424829787933	0.0386122224375777	0.0620076557120946	0.3636363636363636	0.9464985598013392	yes	F6	LOW	directional_not_fdr_significant
+F7	NK_cell	B_cell	skin immune localization; systemic support remains from bulk blood	0.1205051573391503	0.0088509530179001	0.2592505884157169	0.4242424242424242	0.976219147566726	support	F7	LOW	directional_not_fdr_significant

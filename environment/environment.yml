@@ -1,0 +1,24 @@
+name: psoriasis-endotype-comorbidity
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - pytest
+  - snakemake-minimal
+  - r-base
+  - bioconductor-limma
+  - bioconductor-edger
+  - bioconductor-gsva
+  - bioconductor-mofa2
+  - r-tidyverse
+  - r-consensusclusterplus
+

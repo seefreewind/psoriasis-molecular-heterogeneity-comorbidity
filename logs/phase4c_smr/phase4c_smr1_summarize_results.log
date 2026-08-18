@@ -1,0 +1,29 @@
+outcome                            tissue  n_results  n_global_fdr  n_global_fdr_heidi    min_p_smr  min_fdr_global
+    cad        Skin_Sun_Exposed_Lower_leg         93            11                  11 7.346519e-11    6.789408e-09
+    cad   Skin_Not_Sun_Exposed_Suprapubic         83            10                   7 5.061803e-09    2.159054e-07
+    cad                     Artery_Tibial         76            10                   9 7.390800e-08    2.410705e-06
+    cad                      Artery_Aorta         58             9                   6 3.246199e-07    8.780572e-06
+    cad                       Whole_Blood         97            11                  10 7.687751e-07    1.764473e-05
+    cad                   Artery_Coronary         14             3                   3 2.211949e-05    2.920299e-04
+  crohn        Skin_Sun_Exposed_Lower_leg         42            15                  10 8.315393e-19    9.221771e-16
+  crohn   Skin_Not_Sun_Exposed_Suprapubic         35            11                   7 4.597637e-17    2.549390e-14
+  crohn                       Whole_Blood         43            14                   6 4.921599e-16    1.819351e-13
+  crohn                            Spleen         26             8                   4 7.389810e-13    1.365883e-10
+  crohn                  Colon_Transverse         30             9                   6 2.789930e-10    1.933770e-08
+  crohn                     Colon_Sigmoid         28            10                   5 3.845005e-10    2.368950e-08
+  crohn Cells_EBV-transformed_lymphocytes          5             2                   0 5.056067e-07    1.274359e-05
+    psa   Skin_Not_Sun_Exposed_Suprapubic         71            19                  14 1.805542e-14    5.005865e-12
+    psa        Skin_Sun_Exposed_Lower_leg         80            14                  12 3.113118e-11    3.836053e-09
+    psa                            Spleen         50             9                   7 3.882572e-11    4.305772e-09
+    psa                       Whole_Blood         89            18                  12 9.460391e-10    4.561554e-08
+    psa Cells_EBV-transformed_lymphocytes         22             5                   5 5.535697e-08    1.918465e-06
+     uc                       Whole_Blood         35            14                  10 3.550683e-12    5.625296e-10
+     uc                            Spleen         24             9                   6 5.476116e-11    5.520921e-09
+     uc Cells_EBV-transformed_lymphocytes          9             2                   2 3.437696e-10    2.242591e-08
+     uc                  Colon_Transverse         19             6                   5 1.921433e-09    8.523477e-08
+     uc                     Colon_Sigmoid         18             6                   5 1.007496e-07    3.103647e-06
+     uc        Skin_Sun_Exposed_Lower_leg         32            13                   9 9.977002e-07    2.087641e-05
+     uc   Skin_Not_Sun_Exposed_Suprapubic         30            10                   5 4.824645e-05    5.090064e-04
+Wrote /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/phase4c_smr1_all_results.tsv
+Wrote /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/phase4c_smr1_top_results.tsv
+Wrote /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/phase4c_smr1_summary.tsv

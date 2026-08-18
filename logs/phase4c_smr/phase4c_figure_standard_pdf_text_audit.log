@@ -1,0 +1,10 @@
+{
+  "pdf": "results/figures/phase4c/Figure_Phase4C_shared_locus_eqtl_prioritization_standard.pdf",
+  "auditable": false,
+  "minimum_required_pt": 5.0,
+  "minimum_found_pt": null,
+  "text_run_count": 0,
+  "below_minimum_count": 0,
+  "below_minimum": [],
+  "warnings": []
+}

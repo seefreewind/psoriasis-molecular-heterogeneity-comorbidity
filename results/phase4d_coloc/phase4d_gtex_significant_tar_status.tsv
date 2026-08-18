@@ -1,0 +1,2 @@
+resource	path	exists	size_bytes	tar_member_count	contains_only_adipose_subcutaneous_members	interpretation
+GTEx_Analysis_v8_eQTL.tar	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_eqtl_significant/raw/GTEx_Analysis_v8_eQTL.tar	True	1562828800	2	True	Partial/incomplete for Phase 4D. Current tar contains only Adipose_Subcutaneous eGenes and significant variant-gene pairs; it does not cover priority tissues and does not contain complete all-variant association files.

@@ -1,0 +1,5 @@
+axis	dominant_spatial_program	median_spot_spearman	mean	count
+F1	keratinocyte_stress_hypoxia	0.5023091804132536	0.5146921664760404	6
+F2	keratinocyte_stress_hypoxia	0.5060327012745283	0.49958142736633615	6
+F6	keratinocyte_stress_hypoxia	0.5457899639646722	0.555454011061601	6
+F7	keratinocyte_basal	0.504905586345315	0.5442170454936365	6

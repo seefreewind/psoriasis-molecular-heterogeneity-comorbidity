@@ -1,0 +1,8 @@
+metric	value
+total_gwas_variants	11808957
+mapped_to_g1000_eur_rsids	10432339
+non_snp_or_non_acgt_skipped	1169294
+no_reference_position	206306
+allele_mismatch	1018
+duplicate_reference_snp_match_skipped	0
+mapping_rate_percent	88.343

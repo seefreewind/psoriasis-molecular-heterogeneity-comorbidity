@@ -1,0 +1,8 @@
+Outcome	Locus	Gene	Representative tissue	PP4	Evidence level	Sensitivity note
+PsA	887	SLC22A5	Spleen	0.971	Supported	Standard coloc input
+PsA	1793	RP11-977G19.11	EBV-transformed lymphocytes	0.945	Supported	Standard coloc input
+UC	2251	RP11-973H7.1	Transverse and sigmoid colon	0.960 in both	Supported	eQTL MAF proxy
+CAD	113	UBQLN4	Sun-exposed and non-sun-exposed skin	0.754; 0.746	Suggestive	Standard coloc input
+CAD	113	MEX3A	Sun-exposed and non-sun-exposed skin	0.597; 0.595	Suggestive	Standard coloc input
+Crohn disease	887	SLC22A5	Sigmoid colon	0.639	Suggestive	eQTL MAF proxy
+Crohn disease	10	PARK7	Whole blood	0.565	Suggestive	eQTL MAF proxy

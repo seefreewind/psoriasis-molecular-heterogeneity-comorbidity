@@ -1,0 +1,6 @@
+liftover_status	n	trait	input_rows	output_file
+PASS	161761	psoriasis	161787	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4d_coloc/gwas_loci_hg38/psoriasis_phase4c_locus_raw.hg38.tsv.gz
+NO_HIT	26	psoriasis	161787	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4d_coloc/gwas_loci_hg38/psoriasis_phase4c_locus_raw.hg38.tsv.gz
+PASS	44398	crohn	44401	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4d_coloc/gwas_loci_hg38/crohn_phase4c_locus_raw.hg38.tsv.gz
+NO_HIT	3	crohn	44401	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4d_coloc/gwas_loci_hg38/crohn_phase4c_locus_raw.hg38.tsv.gz
+PASS	40209	uc	40209	/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4d_coloc/gwas_loci_hg38/uc_phase4c_locus_raw.hg38.tsv.gz

@@ -1,0 +1,2 @@
+phen1	phen2	rho	rho.lower	rho.upper	r2	r2.lower	r2.upper	p	locus	chr	start	stop	outcome	univ_p_psoriasis	univ_p_outcome	h2_psoriasis	h2_outcome	z_approx	se_approx
+uc	psoriasis	-0.714215	NA	NA	0.510104	NA	NA	0.000161012	2274	18	45718493	46558306	uc	4.0751e-06	1.82225e-07	0.00097441	0.00254425	3.77343993103778	0.189274246590054

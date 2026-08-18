@@ -1,0 +1,3 @@
+phen	h2.obs	h2.latent	ascertained	p	locus	chr	start	stop	outcome
+psoriasis	0.00116333	0.00406943	FALSE	5.17762e-08	2422	20	56951774	57924037	crohn
+crohn	0.0034021	0.00589142	FALSE	1.06023e-09	2422	20	56951774	57924037	crohn

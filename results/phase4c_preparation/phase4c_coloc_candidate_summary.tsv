@@ -1,0 +1,10 @@
+outcome	phase4br_tier	local_direction_group	coloc_priority	n_loci
+cad	Tier 1	positive_local_rg	primary_coloc	5
+cad	Tier 2	positive_local_rg	sensitivity_coloc	7
+crohn	Tier 1	negative_local_rg	primary_coloc	7
+crohn	Tier 1	positive_local_rg	primary_coloc	4
+crohn	Tier 2	negative_local_rg	sensitivity_coloc	1
+psa	Tier 1	positive_local_rg	primary_coloc	10
+uc	Tier 1	negative_local_rg	primary_coloc	7
+uc	Tier 1	positive_local_rg	primary_coloc	2
+uc	Tier 2	positive_local_rg	sensitivity_coloc	1

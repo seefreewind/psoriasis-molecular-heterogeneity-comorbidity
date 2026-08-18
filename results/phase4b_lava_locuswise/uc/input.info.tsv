@@ -1,0 +1,3 @@
+phenotype	cases	controls	filename
+psoriasis	36466	458078	psoriasis_GCST90472771.sumstats.gz
+uc	12366	33609	ulcerative_colitis_GCST004133.sumstats.gz

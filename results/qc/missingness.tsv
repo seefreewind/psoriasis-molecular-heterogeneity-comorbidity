@@ -1,0 +1,13 @@
+field	discovery	replication
+age	0	0
+sex	0	0
+tissue	0	0
+drug	0	0
+pasi	0	0
+bmi	4	0
+hla_c0602_carrier	12	4
+disease_onset_type	10	0
+age_of_onset	10	0
+biologic_naive	0	0
+anti_tnf_naive	0	0
+psoriatic_arthritis	0	0

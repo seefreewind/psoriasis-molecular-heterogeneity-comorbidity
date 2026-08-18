@@ -1,0 +1,13 @@
+Processing pair: psoriasis vs cad
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'cad')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1165174 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+[1] "...Removing 1 SNPs which could not be aligned, 1165173 remaining"
+Pair cad: shared SNPs = 1165173
+Pair cad: chunk 1 loci 1-100 / 2495

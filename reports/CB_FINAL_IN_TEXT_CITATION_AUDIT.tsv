@@ -1,0 +1,10 @@
+section	claim	current citation	supports exact claim?	action
+Introduction	psoriasis overview/systemic disease	[1]	yes	retain
+Introduction	transcriptomic/endotype heterogeneity	[2-4]	yes	retain
+Introduction	single-cell/spatial tissue organization	[5,6]	yes	retain
+Introduction	psoriasis GWAS and comorbidity genetics	[7-10]	yes	retain
+Discussion	cross-disease inflammation atlas as conceptual context	[17]	yes, conceptual only	retain bounded wording
+Discussion	CAD shared genetics	[8,18]	yes	retain
+Discussion	external positive IBD genetics	[19] plus [10]	yes	retain discrepancy framing
+Discussion	disease-context eQTL limitation	[20]	yes	retain as limitation
+Methods	LDSC/MOFA/MAGMA/LAVA/SMR/GTEx/coloc	[21-23], [13-16]	yes	retain

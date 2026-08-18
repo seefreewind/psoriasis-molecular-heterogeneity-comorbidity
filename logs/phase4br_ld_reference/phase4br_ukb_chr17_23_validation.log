@@ -1,0 +1,55 @@
+Using UKB reference prefix: /Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/lava_ukb_v1.1/extracted/lava-ukb-v1.1
+Processing UKB validation input: psoriasis vs cad
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'cad')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 1126939 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+[1] "...Removing 39 SNPs which could not be aligned, 1126900 remaining"
+Shared SNPs for cad: 1126900
+[1] "Warning: Negative variance estimate for phenotype(s) 'cad' in locus 2471; Dropping these as they cannot be analysed"
+UKB cad locus 1/3 (2471): ERROR: required phenotype unavailable after local variance filtering
+UKB cad locus 2/3 (2412): OK
+UKB cad locus 3/3 (2318): OK
+Processing UKB validation input: psoriasis vs psa
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'psa')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 1126629 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+[1] "...Removing 17 SNPs which could not be aligned, 1126612 remaining"
+Shared SNPs for psa: 1126612
+UKB psa locus 1/2 (2318): OK
+UKB psa locus 2/2 (2195): OK
+Processing UKB validation input: psoriasis vs crohn
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'crohn')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 1093486 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+Shared SNPs for crohn: 1093486
+UKB crohn locus 1/4 (2251): OK
+UKB crohn locus 2/4 (2453): OK
+UKB crohn locus 3/4 (2274): OK
+UKB crohn locus 4/4 (2194): OK
+Processing UKB validation input: psoriasis vs uc
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'uc')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 1093444 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+Shared SNPs for uc: 1093444
+UKB uc locus 1/5 (2251): OK
+UKB uc locus 2/5 (2274): OK
+UKB uc locus 3/5 (2453): OK
+UKB uc locus 4/5 (2203): OK
+UKB uc locus 5/5 (2412): OK
+Phase 4B-R UKB reference validation complete

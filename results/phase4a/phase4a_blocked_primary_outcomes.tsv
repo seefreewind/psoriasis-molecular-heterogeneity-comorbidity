@@ -1,0 +1,5 @@
+Outcome	system	status	reason
+Type 2 diabetes	cardiometabolic_metabolic	DOWNLOAD_OR_ARCHIVE_FAIL	Frozen primary DIAMANTE EUR zip request returned a non-extractable/incomplete archive; backup not substituted.
+MASLD	hepatometabolic	PRIMARY_FILE_UNRESOLVED	Frozen primary Ghodsian2021/GCST90091033 source remained contradictory or inaccessible; Namjou GCST008471 remains rejected as primary.
+Major depressive disorder	neuropsychiatric	ACCESS_BLOCKED_403	Frozen primary PGC MDD2 noUKBB/no23andMe Figshare/API access returned 403 or license gating.
+Uveitis	ocular_inflammatory	ACCESS_BLOCKED_FORM_REQUIRED	Frozen primary FinnGen/anterior uveitis source requires access form/email; no backup substituted.

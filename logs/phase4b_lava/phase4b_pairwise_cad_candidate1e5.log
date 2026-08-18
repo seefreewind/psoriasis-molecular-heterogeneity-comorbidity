@@ -1,0 +1,20 @@
+Processing pair: psoriasis vs cad
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'cad')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+|--------------------------------------------------|
+|==================================================|
+[1] "...Extracting common SNPs"
+[1] "... 1165174 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+[1] "...Removing 1 SNPs which could not be aligned, 1165173 remaining"
+Pair cad: shared SNPs = 1165173
+Pair cad: candidate local-h2 threshold 1e-05 retained 118 loci
+Pair cad: chunk 1 loci 1-20 / 118
+Pair cad: chunk 2 loci 21-40 / 118
+Pair cad: chunk 3 loci 41-60 / 118
+Pair cad: chunk 4 loci 61-80 / 118
+Pair cad: chunk 5 loci 81-100 / 118
+Pair cad: chunk 6 loci 101-118 / 118
+Pairwise restricted LAVA complete

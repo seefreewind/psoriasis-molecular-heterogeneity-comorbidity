@@ -1,0 +1,9 @@
+dataset	axis	view	n_psoriasis	n_control	n_common_axis_features	loading_vs_psoriasis_minus_control_spearman	external_effect_definition
+GSE147339	F1	BLD	10	10	424	-0.048472989183018185	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F2	BLD	10	10	424	0.0013232836925495715	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F3	BLD	10	10	424	-0.051710393960079565	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F4	BLD	10	10	424	-0.1733514231695403	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F5	BLD	10	10	424	-0.15045312882877113	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F6	BLD	10	10	424	0.081722981331164	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F7	BLD	10	10	424	0.07670314624453792	mean score difference: psoriasis whole blood minus control whole blood
+GSE147339	F8	BLD	10	10	424	0.037413955270635846	mean score difference: psoriasis whole blood minus control whole blood

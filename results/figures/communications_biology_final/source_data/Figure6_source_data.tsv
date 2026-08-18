@@ -1,0 +1,27 @@
+step	n	unit	source	identifier	panel	outcome	outcome_label	gene	tissue	tissue_display	locus	PP.H3.abf	PP.H4.abf	support_category	maf_proxy_flag	maf_source	interpretation_tier	statement	source_file	source_identifier	display_text
+"FDR-supported local-rg
+locus-trait pairs"	122.0	locus-trait pairs	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	sum(fdr05_all_tests) across CAD/PsA/Crohn/UC	a																
+"SMR/HEIDI-prioritized
+outcome-gene pairs"	91.0	outcome-gene pairs	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs	a																
+"Highest-tier
+gene-level candidates"	33.0	outcome-gene pairs	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs with A_local_Tier1_recurrent_SMR2; 30 unique genes	a																
+Restricted colocalization	15.0	outcome-gene-tissue pairs	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	unique outcome-gene-tissue pairs in restricted coloc set	a																
+PP4-supported	5.0	outcome-gene-tissue pairs	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	interpretation_tier == coloc_supported_PP4_ge_0p8	a																
+Suggestive	10.0	outcome-gene-tissue pairs	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	interpretation_tier == suggestive_PP4_0p5_to_0p8	a																
+					b	cad	CAD	UBQLN4	Skin_Sun_Exposed_Lower_leg	Sun-exposed skin	113.0	0.02929446430132	0.75434121107419	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	cad	CAD	UBQLN4	Skin_Not_Sun_Exposed_Suprapubic	Non-sun-exposed skin	113.0	0.0303301189440337	0.745851100006251	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	cad	CAD	MEX3A	Skin_Sun_Exposed_Lower_leg	Sun-exposed skin	113.0	0.0481834232910978	0.596904430146344	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	cad	CAD	MEX3A	Skin_Not_Sun_Exposed_Suprapubic	Non-sun-exposed skin	113.0	0.048395675996408	0.595072302373462	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	crohn	Crohn	SLC22A5	Colon_Sigmoid	Sigmoid colon	887.0	0.357879860348626	0.638935381600202	Suggestive	True	eqtl_maf_proxy	suggestive_PP4_0p5_to_0p8				
+					b	crohn	Crohn	PARK7	Whole_Blood	Whole blood	10.0	0.434408249876068	0.564517151019125	Suggestive	True	eqtl_maf_proxy	suggestive_PP4_0p5_to_0p8				
+					b	psa	PsA	SLC22A5	Spleen	Spleen	887.0	0.0291038785930535	0.970896121406947	PP4-supported	False		coloc_supported_PP4_ge_0p8				
+					b	psa	PsA	RP11-977G19.11	Cells_EBV-transformed_lymphocytes	LCL	1793.0	0.0545235091515641	0.945450346716023	PP4-supported	False		coloc_supported_PP4_ge_0p8				
+					b	psa	PsA	SLC22A5	Cells_EBV-transformed_lymphocytes	LCL	887.0	0.0649665869569736	0.934370802757502	PP4-supported	False		coloc_supported_PP4_ge_0p8				
+					b	psa	PsA	RP11-977G19.11	Skin_Not_Sun_Exposed_Suprapubic	Non-sun-exposed skin	1793.0	0.216616863881474	0.783383136118531	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	psa	PsA	RP11-977G19.11	Whole_Blood	Whole blood	1793.0	0.225689510140892	0.772827776987664	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	psa	PsA	SLC22A5	Skin_Sun_Exposed_Lower_leg	Sun-exposed skin	887.0	0.237594011068886	0.762405988931102	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	psa	PsA	RP11-977G19.11	Skin_Sun_Exposed_Lower_leg	Sun-exposed skin	1793.0	0.250735904751089	0.749264095248911	Suggestive	False		suggestive_PP4_0p5_to_0p8				
+					b	uc	UC	RP11-973H7.1	Colon_Transverse	Transverse colon	2251.0	0.0377693002614035	0.959989603131851	PP4-supported	True	eqtl_maf_proxy	coloc_supported_PP4_ge_0p8				
+					b	uc	UC	RP11-973H7.1	Colon_Sigmoid	Sigmoid colon	2251.0	0.0379377919972519	0.959811371820983	PP4-supported	True	eqtl_maf_proxy	coloc_supported_PP4_ge_0p8				
+					c													Axis-specific genetic anchoring was not robustly supported	results/phase3a/Table_axis_genetic_anchoring.tsv	TIER D - NO DETECTABLE GENETIC ANCHORING	Axis-specific genetic anchoring: not robustly supported
+					c													No direct gene-membership overlap detected between regulatory candidates and molecular programs	results/phase4e_contextualization/phase4e_coloc_candidate_axis_program_overlap.tsv	no_overlap_with_F1_F2_F6_F7_programs	No direct gene-membership overlap detected

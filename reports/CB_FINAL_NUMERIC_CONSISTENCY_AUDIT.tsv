@@ -1,0 +1,25 @@
+value	context	main_text_status	source_data_or_report	severity	action
+146	E-MTAB-14509 baseline patients	consistent	Table1_source_data.tsv	MINOR	none
+82	not repeated in v7 main text	not applicable	not a displayed main-text value	OPTIONAL	retain in source-level provenance if needed
+76	complete discovery patients	consistent	Abstract/Results/Table1	MINOR	none
+57	paired-skin replication patients	consistent	Table1	MINOR	none
+0.562	minimum bootstrap Jaccard	consistent	Abstract/Results/Figure1 source data	MINOR	none
+0.75	stability threshold	consistent	Results/Figure1 source data	MINOR	none
+F1 abs(rho)=0.688	GSE244679 support	consistent	Table2/Figure2 source data	MINOR	none
+F2 abs(rho)=0.518	GSE244679 support	consistent	Table2/Figure2 source data	MINOR	none
+F6 abs(rho)=0.375	GSE244679 support	consistent	Table2/Figure2 source data	MINOR	none
+F7 rho=0.577; abs(rho)=0.455	internal/systemic support	consistent	Table2	MINOR	none
+F1 spatial 0.502/0.489	spatial support	consistent	Results/Table2	MINOR	none
+F2 spatial 0.506/0.491	spatial support	consistent	Results/Table2	MINOR	none
+F6 spatial 0.546/0.496	spatial support	consistent	Results/Table2	MINOR	none
+F7 spatial 0.505/0.485	spatial support	consistent	Results	MINOR	none
+CAD rg=0.1732	LDSC	consistent	Supplementary_Table_1	MINOR	none
+PsA rg=1.1715	LDSC; near-neighbor/QC caution retained	consistent	Supplementary_Table_1	MINOR	none
+Crohn rg=-0.2717	LDSC; QC-sensitive	consistent	Supplementary_Table_1	MINOR	none
+UC rg=-0.2233	LDSC; QC-sensitive	consistent	Supplementary_Table_1	MINOR	none
+CAD 118/23/21/10	LAVA bivariate/FDR/positive/negative counts	consistent	Results/Figure5 source data	MINOR	none
+PsA 40/31/36/0	LAVA bivariate/FDR/positive/negative counts	consistent	Results/Figure5 source data	MINOR	none
+Crohn 131/49/9/51	LAVA bivariate/FDR/positive/negative counts	consistent	Results/Figure5 source data	MINOR	none
+UC 98/19/7/18	LAVA bivariate/FDR/positive/negative counts	consistent	Results/Figure5 source data	MINOR	none
+91; 33	SMR/HEIDI outcome-gene rows; highest tier genes	consistent	Supplementary_Data_Table_regulatory_prioritization_full_91.tsv	MINOR	none
+0.971; 0.945; 0.960; 0.754; 0.746; 0.597; 0.595; 0.639; 0.565	Table 3 PP4 values	consistent	Table3_source_data.tsv and full coloc supplementary table	MINOR	none

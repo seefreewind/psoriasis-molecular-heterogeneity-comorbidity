@@ -1,0 +1,73 @@
+project:
+  dataset_id: E-MTAB-14509
+  seed: 20260810
+
+paths:
+  sdrf: data/metadata/E-MTAB-14509.sdrf.txt
+  sample_metadata: data/metadata/EMTAB14509_sample_metadata.tsv
+  qc_dir: results/qc
+  phase1_dir: results/phase1
+  reports_dir: reports
+
+inclusion:
+  disease: psoriasis
+  baseline_time: 0
+  allowed_tissues:
+    - Lesional Skin
+    - Nonlesional Skin
+    - Whole Blood
+  discovery_cohort: discovery
+  replication_cohort: replication
+
+qc:
+  min_detected_genes: 5000
+  min_total_counts: 1000000
+  outlier_sd_threshold: 4
+  exclusion_requires_decision_log: true
+
+features:
+  pathway_sets:
+    - Hallmark
+    - Reactome
+    - KEGG
+    - curated_psoriasis_inflammation
+  pathway_method_primary: singscore
+  regulon_method_primary: decoupleR_progeny_dorothea
+  cell_state_primary: marker_score
+  cell_state_sensitivity: cibersortx_or_equivalent_if_available
+
+integration:
+  primary_method: MOFA2
+  fallback_method: tissue_weighted_pca_on_biological_features
+  views:
+    - Lesional Skin
+    - Nonlesional Skin
+    - Whole Blood
+  max_factors: 10
+
+clustering:
+  candidate_k: [2, 3, 4, 5, 6]
+  method: consensus_clustering
+  bootstrap_iterations: 200
+  min_cluster_size: 10
+  target_cluster_jaccard: 0.75
+  seeds: [20260810, 20260811, 20260812, 20260813, 20260814]
+
+replication:
+  assignment_primary: nearest_centroid
+  refit_clustering: false
+  require_frozen_scaler: true
+
+negative_controls:
+  label_permutations: 200
+  random_feature_sets: 200
+
+sensitivity:
+  - different_k
+  - pathway_regulon_only
+  - lesional_skin_only
+  - blood_only
+  - complete_case
+  - different_clustering_seed
+  - exclude_extreme_bmi_pasi
+

@@ -1,0 +1,9 @@
+outcome_display	direction_display	recurrent	n_genes
+Crohn	Negative local rg	Recurrent	5
+Crohn	Negative local rg	Single tissue	10
+Crohn	Positive local rg	Recurrent	2
+Crohn	Positive local rg	Single tissue	4
+UC	Negative local rg	Recurrent	6
+UC	Negative local rg	Single tissue	11
+UC	Positive local rg	Recurrent	1
+UC	Positive local rg	Single tissue	3

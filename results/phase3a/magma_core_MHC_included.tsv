@@ -1,0 +1,5 @@
+axis	N_frozen_genes	N_tested_genes	beta	SE	P	FDR	direction	MHC_dependence	interpretation
+F1	see_axis_gene_mapping_coverage	NA	NA	NA	NA	NA	NA	not_estimable	MHC-included MAGMA gene-level analysis was attempted but was computationally dominated by the MHC region and stopped; primary MHC-excluded analysis is reported.
+F2	see_axis_gene_mapping_coverage	NA	NA	NA	NA	NA	NA	not_estimable	MHC-included MAGMA gene-level analysis was attempted but was computationally dominated by the MHC region and stopped; primary MHC-excluded analysis is reported.
+F6	see_axis_gene_mapping_coverage	NA	NA	NA	NA	NA	NA	not_estimable	MHC-included MAGMA gene-level analysis was attempted but was computationally dominated by the MHC region and stopped; primary MHC-excluded analysis is reported.
+F7	see_axis_gene_mapping_coverage	NA	NA	NA	NA	NA	NA	not_estimable	MHC-included MAGMA gene-level analysis was attempted but was computationally dominated by the MHC region and stopped; primary MHC-excluded analysis is reported.

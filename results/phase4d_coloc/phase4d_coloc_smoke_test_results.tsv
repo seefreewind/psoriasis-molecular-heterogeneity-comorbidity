@@ -1,0 +1,2 @@
+outcome	tissue	gene	gene_id	locus	region	status	n_eqtl_variants	n_gwas_variants	n_matched_variants	nsnps	PP.H0.abf	PP.H1.abf	PP.H2.abf	PP.H3.abf	PP.H4.abf	note
+cad	Skin_Sun_Exposed_Lower_leg	SMARCA4	ENSG00000127616	2318	19:10028841-11681978	PASS	5089	4445	3660	3660	3.46466759003906e-56	2.27720809647183e-26	1.5214540978521e-30	1	6.1687817346504e-20	Restricted coloc smoke test using rsID matching, allele harmonization, and binary GWAS N/case fraction from Phase 4B LAVA metadata.

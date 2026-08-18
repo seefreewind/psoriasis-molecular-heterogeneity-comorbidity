@@ -1,0 +1,8 @@
+metric	value
+input_file	results/phase3a/GCST90472771.magma_pvals.tsv
+output_file	results/phase3a/GCST90472771.magma_pvals.p_floor1e-300.tsv
+total_mapped_snps	10432339
+p_floor	1e-300
+p_values_below_floor_or_zero	2076
+p_values_equal_zero_before_floor	1836
+invalid_p_values_for_python_float	0

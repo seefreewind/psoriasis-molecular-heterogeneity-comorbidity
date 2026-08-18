@@ -1,0 +1,20 @@
+Using UKB reference prefix: /Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/lava_ukb_v1.1/extracted/lava-ukb-v1.1
+Processing UKB validation input: psoriasis vs cad
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('psoriasis', 'cad')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 657659 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+[1] "...Removing 27 SNPs which could not be aligned, 657632 remaining"
+Shared SNPs for cad: 657632
+UKB cad locus 1/2 (1215): ERROR: local h2 not reliable in both traits under UKB reference
+UKB cad locus 2/2 (1353): OK
+No priority loci for psa under current chromosome filter; skipping
+No priority loci for crohn under current chromosome filter; skipping
+No priority loci for uc under current chromosome filter; skipping
+Warning message:
+In check.reference(ref.prefix) :
+  missing LD reference files with prefix '/Users/zy/Documents/ChatGPT/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/lava_ukb_v1.1/extracted/lava-ukb-v1.1' for chromosome(s) 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+Phase 4B-R UKB reference validation complete

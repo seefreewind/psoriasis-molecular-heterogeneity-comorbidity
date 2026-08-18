@@ -1,0 +1,2 @@
+figure	width_mm	height_mm	backend	n_ldsc_outcomes	n_lava_outcomes	n_selected_loci	conclusion
+Figure5_shared_genetic_architecture	183	145	R ggplot2 patchwork	6	4	15	Overall psoriasis susceptibility shows selected comorbidity-level sharing; restricted LAVA reveals CAD positive local architecture, PsA positive-control sharing, and IBD directional heterogeneity.

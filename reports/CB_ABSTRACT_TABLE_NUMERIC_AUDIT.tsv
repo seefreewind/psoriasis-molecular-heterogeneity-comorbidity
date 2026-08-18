@@ -1,0 +1,21 @@
+location	claim	value	source_file	source_identifier	verified
+Abstract/Results	Minimum bootstrap Jaccard for k=2 representation	0.562	reports/CB_NUMERIC_CLAIM_AUDIT.tsv	N001	yes
+Results	Prespecified cluster stability threshold	0.75	manuscript/Communications_Biology_main_manuscript_v5.md	Results discrete-endotype paragraph	yes
+Abstract/Results/Table1	Complete baseline discovery patients	76	reports/CB_NUMERIC_CLAIM_AUDIT.tsv	N002	yes
+Table1	Paired-skin replication patients	57	reports/CB_NUMERIC_CLAIM_AUDIT.tsv	N002/Table1 source	yes
+Table2	F1 GSE244679 support	|rho| = 0.688	reports/CB_NUMERIC_CLAIM_AUDIT.tsv	N004	yes
+Table2	F2 GSE244679 support	|rho| = 0.518	reports/CB_NUMERIC_CLAIM_AUDIT.tsv	N005	yes
+Table2	F6 GSE244679 support	|rho| = 0.375	reports/CB_NUMERIC_CLAIM_AUDIT.tsv	N006	yes
+Results	CAD LDSC genetic correlation	rg=0.1732; SE=0.0274; P=2.4979e-10; FDR=7.4937e-10	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	yes
+Results	PsA LDSC genetic correlation	rg=1.1715; SE=0.0751; P=6.7461e-55; FDR=4.04766e-54	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	yes
+Results	Crohn LDSC genetic correlation	rg=-0.2717; SE=0.0449; P=1.434e-09; FDR=2.868e-09	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	yes
+Results	UC LDSC genetic correlation	rg=-0.2233; SE=0.0409; P=4.8195e-08; FDR=7.22925e-08	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	yes
+Results/Table3 supplement	SMR/HEIDI prioritized outcome-gene rows	91	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	line count minus header	yes
+Results/Table3 supplement	Highest SMR/HEIDI tier genes	33	manuscript/Communications_Biology_main_manuscript_v5.md	Results regulatory paragraph	yes
+Table3	PsA SLC22A5 PP4	0.971	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	psa/SLC22A5/Spleen	yes
+Table3	PsA RP11-977G19.11 PP4	0.945	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	psa/RP11-977G19.11/LCL	yes
+Table3	UC RP11-973H7.1 PP4	0.960 in both	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	uc/RP11-973H7.1/colon	yes
+Table3	CAD UBQLN4 PP4	0.754; 0.746	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	cad/UBQLN4/skin	yes
+Table3	CAD MEX3A PP4	0.597; 0.595	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	cad/MEX3A/skin	yes
+Table3	Crohn SLC22A5 PP4	0.639	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	crohn/SLC22A5/Sigmoid colon	yes
+Table3	Crohn PARK7 PP4	0.565	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	crohn/PARK7/Whole blood	yes

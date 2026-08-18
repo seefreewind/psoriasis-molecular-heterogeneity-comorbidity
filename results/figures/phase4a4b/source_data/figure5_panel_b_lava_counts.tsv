@@ -1,0 +1,13 @@
+outcome_label	metric	n
+CAD	Nominal positive	21
+CAD	Nominal negative	10
+CAD	FDR-supported	23
+Crohn	Nominal positive	9
+Crohn	Nominal negative	51
+Crohn	FDR-supported	49
+PsA	Nominal positive	36
+PsA	Nominal negative	0
+PsA	FDR-supported	31
+UC	Nominal positive	7
+UC	Nominal negative	18
+UC	FDR-supported	19

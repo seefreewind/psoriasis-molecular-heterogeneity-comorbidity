@@ -1,0 +1,2 @@
+dataset	status	platform	n_samples_metadata	n_expression_rows	n_expression_columns	n_probe_ids_with_gene_symbol	n_mapped_expression_probes	n_gene_symbols_after_probe_aggregation	n_psc	n_psa	n_control	expression_handling
+GSE61281	platform_mapped_gene_matrix_ready	GPL6480	52	41093	52	30723	30723	19553	20	20	12	GEO series-matrix values used as normalized microarray expression; probes averaged by GPL6480 Gene symbol

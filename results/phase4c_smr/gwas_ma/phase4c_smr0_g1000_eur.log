@@ -1,0 +1,26 @@
+PLINK v2.0.0-a.7.3 M1 (8 Aug 2026)
+Options in effect:
+  --bfile /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur
+  --extract /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/phase4c_smr0_all_rsids.txt
+  --freq
+  --out /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/phase4c_smr0_g1000_eur
+
+Hostname: zhangyudeMacBook-Air.local
+Working directory: /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity
+Start time: Sat Aug 15 20:10:14 2026
+
+Random number seed: 1786795814
+16384 MiB RAM detected; reserving 8192 MiB for main workspace.
+Using up to 10 threads (change this with --threads).
+503 samples (263 females, 240 males; 503 founders) loaded from
+/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.fam.
+22665064 variants loaded from
+/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.bim.
+Note: No phenotype data present.
+--extract: 146297 variants remaining.
+Calculating allele frequencies... done.
+--freq: Allele frequencies (founders only) written to
+/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma/phase4c_smr0_g1000_eur.afreq
+.
+
+End time: Sat Aug 15 20:10:16 2026

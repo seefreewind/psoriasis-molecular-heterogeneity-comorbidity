@@ -1,0 +1,10 @@
+section	claim	current citation	citation supports exact claim?	recommended citation	action
+Introduction	Transcriptomic molecular heterogeneity/endotyping in psoriasis	[2-4]	yes	[2-4]	split from single-cell/spatial bundle
+Introduction	Single-cell and spatial psoriasis tissue-state organization	[5,6]	yes	[5,6]	split from transcriptomic bundle
+Introduction	Psoriasis overview and genetics/comorbidity context	[1,7-10]	yes	[1,7-10]	broadened genetics citation precision
+Methods	LDSC genome-wide genetic correlation	[21]	yes	[21]	added method citation
+Methods	MOFA-style continuous latent factor modeling	[22]	yes	[22]	added method citation
+Methods	MAGMA gene-set enrichment	[23]	yes	[23]	added method citation
+Methods	LAVA local genetic correlation	[13]	yes	[13]	retained and placed in Methods
+Methods	SMR/HEIDI regulatory prioritization with GTEx v8	[14,15]	yes	[14,15]	retained and placed in Methods
+Methods	coloc model for shared association signal	[16]	yes	[16]	retained and placed in Methods

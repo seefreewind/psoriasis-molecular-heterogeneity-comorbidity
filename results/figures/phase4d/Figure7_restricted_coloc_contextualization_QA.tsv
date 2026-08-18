@@ -1,0 +1,2 @@
+figure	width_mm	height_mm	backend	n_displayed_candidates	n_all_tests	n_direct_axis_program_overlaps	conclusion
+Figure7_restricted_coloc_contextualization	183	130	R ggplot2 patchwork	15	108	0	Restricted coloc separates shared local architecture from PP4-supported eQTL signals; no direct F1/F2/F6/F7 gene-program overlap among PP4-supported/suggestive candidates.

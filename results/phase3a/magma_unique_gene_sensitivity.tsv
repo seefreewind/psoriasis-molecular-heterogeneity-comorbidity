@@ -1,0 +1,5 @@
+axis	set	N_tested_genes	beta	SE	P	interpretation
+F1	F1_UNIQUE_MHC_EXCLUDED	135	-0.063434	0.083218	0.77705	not_significant
+F2	F2_UNIQUE_MHC_EXCLUDED	533	0.074531	0.044236	0.046016	nominal_only_sensitivity
+F6	F6_UNIQUE_MHC_EXCLUDED	72	-0.027669	0.10851	0.60063	not_significant
+F7	F7_UNIQUE_MHC_EXCLUDED	169	0.059729	0.074865	0.21249	not_significant

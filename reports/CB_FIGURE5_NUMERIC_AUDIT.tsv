@@ -1,0 +1,118 @@
+panel	trait	locus	metric	displayed_value	source_file	source_identifier	analysis_definition	verified
+a	PsA		rg	1.1715	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	PsA		SE	0.0751	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	PsA		P	6.7461e-55	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	PsA		FDR	4.0476600000000004e-54	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	PsA		QC_status	CROSS_TRAIT_INTERCEPT_ELEVATED;NEAR_NEIGHBOR_PHENOTYPE	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	PsA		cross_trait_intercept	0.3142	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	PsA		95% CI low	1.024304	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	computed as rg - 1.96*SE for display	yes
+a	PsA		95% CI high	1.318696	results/phase4a/phase4a_ldsc_rg_results.tsv	Psoriatic arthritis	computed as rg + 1.96*SE for display	yes
+a	Crohn		rg	-0.2717	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Crohn		SE	0.0449	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Crohn		P	1.434e-09	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Crohn		FDR	2.868e-09	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Crohn		QC_status	ELEVATED_H2_INTERCEPT;CROSS_TRAIT_INTERCEPT_ELEVATED	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Crohn		cross_trait_intercept	-0.0636	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Crohn		95% CI low	-0.359704	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	computed as rg - 1.96*SE for display	yes
+a	Crohn		95% CI high	-0.183696	results/phase4a/phase4a_ldsc_rg_results.tsv	Crohn disease	computed as rg + 1.96*SE for display	yes
+a	UC		rg	-0.2233	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	UC		SE	0.0409	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	UC		P	4.8195e-08	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	UC		FDR	7.22925e-08	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	UC		QC_status	ELEVATED_H2_INTERCEPT;CROSS_TRAIT_INTERCEPT_ELEVATED	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	UC		cross_trait_intercept	-0.0625	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	UC		95% CI low	-0.303464	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	computed as rg - 1.96*SE for display	yes
+a	UC		95% CI high	-0.143136	results/phase4a/phase4a_ldsc_rg_results.tsv	Ulcerative colitis	computed as rg + 1.96*SE for display	yes
+a	CAD		rg	0.1732	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CAD		SE	0.0274	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CAD		P	2.4979e-10	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CAD		FDR	7.4937e-10	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CAD		QC_status	PASS	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CAD		cross_trait_intercept	0.0189	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CAD		95% CI low	0.119496	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	computed as rg - 1.96*SE for display	yes
+a	CAD		95% CI high	0.226904	results/phase4a/phase4a_ldsc_rg_results.tsv	Coronary artery disease	computed as rg + 1.96*SE for display	yes
+a	Stroke		rg	0.0255	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Stroke		SE	0.0589	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Stroke		P	0.6647	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Stroke		FDR	0.7912	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Stroke		QC_status	PASS	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Stroke		cross_trait_intercept	0.0156	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	Stroke		95% CI low	-0.089944	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	computed as rg - 1.96*SE for display	yes
+a	Stroke		95% CI high	0.140944	results/phase4a/phase4a_ldsc_rg_results.tsv	Ischemic stroke	computed as rg + 1.96*SE for display	yes
+a	CKD		rg	0.0118	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CKD		SE	0.0445	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CKD		P	0.7912	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CKD		FDR	0.7912	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CKD		QC_status	PASS	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CKD		cross_trait_intercept	0.0102	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	LDSC genome-wide genetic correlation of psoriasis with each outcome	yes
+a	CKD		95% CI low	-0.075420	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	computed as rg - 1.96*SE for display	yes
+a	CKD		95% CI high	0.099020	results/phase4a/phase4a_ldsc_rg_results.tsv	Chronic kidney disease	computed as rg + 1.96*SE for display	yes
+b	CAD		nominal positive local-rg count	21	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	cad	LAVA bivariate loci with nominal local-rg direction	yes
+b	CAD		nominal negative local-rg count	10	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	cad	LAVA bivariate loci with nominal local-rg direction	yes
+b	CAD		FDR-supported count	23	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	cad	LAVA local-rg loci with all-tests FDR < 0.05	yes
+b	Crohn		nominal positive local-rg count	9	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	crohn	LAVA bivariate loci with nominal local-rg direction	yes
+b	Crohn		nominal negative local-rg count	51	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	crohn	LAVA bivariate loci with nominal local-rg direction	yes
+b	Crohn		FDR-supported count	49	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	crohn	LAVA local-rg loci with all-tests FDR < 0.05	yes
+b	PsA		nominal positive local-rg count	36	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	psa	LAVA bivariate loci with nominal local-rg direction	yes
+b	PsA		nominal negative local-rg count	0	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	psa	LAVA bivariate loci with nominal local-rg direction	yes
+b	PsA		FDR-supported count	31	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	psa	LAVA local-rg loci with all-tests FDR < 0.05	yes
+b	UC		nominal positive local-rg count	7	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	uc	LAVA bivariate loci with nominal local-rg direction	yes
+b	UC		nominal negative local-rg count	18	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	uc	LAVA bivariate loci with nominal local-rg direction	yes
+b	UC		FDR-supported count	19	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	uc	LAVA local-rg loci with all-tests FDR < 0.05	yes
+c	CAD	347	local rho	0.650751	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	cad locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	347	local FDR all tests	8.16681e-07	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	cad locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	347	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	cad locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	1841	local rho	0.605075	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	cad locus 1841	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	1841	local FDR all tests	3.61285e-05	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	cad locus 1841	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	1841	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	cad locus 1841	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	113	local rho	0.631202	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	cad locus 113	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	113	local FDR all tests	0.000562164	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	cad locus 113	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	CAD	113	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	cad locus 113	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	57	local rho	-0.534925	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	57	local FDR all tests	7.92138e-21	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	57	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	crohn locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	887	local rho	-0.642693	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 887	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	887	local FDR all tests	6.69294e-12	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 887	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	887	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	crohn locus 887	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	908	local rho	0.381768	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	908	local FDR all tests	1.0658e-10	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	908	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	crohn locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	1082	local rho	-0.945307	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 1082	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	1082	local FDR all tests	7.75876e-10	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 1082	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	1082	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	crohn locus 1082	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	1559	local rho	-0.625949	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 1559	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	1559	local FDR all tests	2.1717e-07	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 1559	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	1559	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	crohn locus 1559	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	2251	local rho	-0.658624	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 2251	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	2251	local FDR all tests	2.97906e-07	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	crohn locus 2251	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	Crohn	2251	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	crohn locus 2251	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	908	local rho	0.944787	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	908	local FDR all tests	3.83337e-84	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	908	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	psa locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	1041	local rho	1.000000	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 1041	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	1041	local FDR all tests	1.23004e-25	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 1041	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	1041	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	psa locus 1041	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	57	local rho	0.740363	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	57	local FDR all tests	9.0474e-17	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	57	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	psa locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	347	local rho	0.847701	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	347	local FDR all tests	1.32744e-12	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	347	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	psa locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	887	local rho	0.807433	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 887	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	887	local FDR all tests	6.69294e-12	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	psa locus 887	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	PsA	887	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	psa locus 887	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	57	local rho	-0.689577	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	57	local FDR all tests	9.83117e-23	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	57	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	uc locus 57	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	347	local rho	0.828549	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	347	local FDR all tests	2.8172e-08	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	347	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	uc locus 347	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	2251	local rho	-0.762875	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 2251	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	2251	local FDR all tests	3.1697e-07	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 2251	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	2251	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	uc locus 2251	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	908	local rho	0.392340	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	908	local FDR all tests	8.16681e-07	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	908	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	uc locus 908	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	2203	local rho	-0.648811	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 2203	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	2203	local FDR all tests	0.000199142	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	uc locus 2203	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes
+c	UC	2203	LD-reference validation tier	Tier 1	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	uc locus 2203	displayed if in prespecified selected locus set, all-tests FDR < 0.05 and Phase 4B-R Tier 1/2	yes

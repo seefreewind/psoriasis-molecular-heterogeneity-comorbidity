@@ -1,0 +1,4 @@
+sensitivity	status	selected_k	silhouette_fixed_k	min_cluster_size_fixed_k	ari_vs_primary	n_patients	n_features
+lesional_only	run	2	0.20905688549014048	34	0.18210417479962301	82	85
+nonlesional_only	run	2	0.24216561646164067	35	0.3637626323099765	82	85
+pathway_regulon_only	run	2	0.1928970421654163	31	1.0	82	152

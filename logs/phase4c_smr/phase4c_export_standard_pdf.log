@@ -1,0 +1,6 @@
+Wrote figure bundle to: /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/figures/phase4c
+Error in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  : 
+  failed to find or load PDF CID font
+Calls: print ... heightDetails -> heightDetails.text -> grid.Call -> .Call
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted

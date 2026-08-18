@@ -1,0 +1,5 @@
+outcome	scope	shared_loci_tested_local_h2	joint_h2_p05	joint_h2_1e5	bivar_loci_tested	fdr05_within_outcome	fdr05_all_tests	nominal_positive	nominal_negative	median_rho	min_p	top_locus	top_rho
+cad	primary_systemic	2011	1031	118	118	18	23	21	10	0.07869200000000001	5.23986e-08	347	0.650751
+crohn	qc_flagged_ibd	1981	940	131	131	49	49	9	51	-0.207759	8.18747e-23	57	-0.534925
+psa	positive_control_near_neighbor	1773	716	40	40	36	31	36	0	0.6314835000000001	9.905359999999999e-87	908	0.944787
+uc	qc_flagged_ibd	1961	925	98	98	17	19	7	18	-0.04786755	7.62106e-25	57	-0.689577

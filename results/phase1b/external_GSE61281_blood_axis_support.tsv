@@ -1,0 +1,25 @@
+dataset	axis	view	contrast	n_case	n_control	n_common_axis_features	loading_vs_case_minus_control_spearman	external_effect_definition
+GSE61281	F1	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	-0.1649110214832065	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F2	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	-0.09104221643358838	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F3	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	0.24937850354536104	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F4	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	0.060395461971855094	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F5	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	0.024000151498372042	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F6	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	0.021286530064084368	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F7	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	-0.3998801827946007	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F8	BLD	cutaneous_psoriasis_without_arthritis_minus_control	20	12	426	0.02354643250441123	mean score difference: cutaneous psoriasis without arthritis minus control in whole blood
+GSE61281	F1	BLD	psoriatic_arthritis_minus_control	20	12	426	-0.1745561590568441	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F2	BLD	psoriatic_arthritis_minus_control	20	12	426	-0.25812831058284885	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F3	BLD	psoriatic_arthritis_minus_control	20	12	426	0.21863162977089953	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F4	BLD	psoriatic_arthritis_minus_control	20	12	426	0.05184201296630722	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F5	BLD	psoriatic_arthritis_minus_control	20	12	426	-0.06497658023007111	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F6	BLD	psoriatic_arthritis_minus_control	20	12	426	-0.07971616097230051	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F7	BLD	psoriatic_arthritis_minus_control	20	12	426	-0.4359310517875504	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F8	BLD	psoriatic_arthritis_minus_control	20	12	426	-0.18448302771978686	mean score difference: psoriatic arthritis minus control in whole blood
+GSE61281	F1	BLD	psoriasis_spectrum_minus_control	40	12	426	-0.20916437860406278	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F2	BLD	psoriasis_spectrum_minus_control	40	12	426	-0.22118506030482196	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F3	BLD	psoriasis_spectrum_minus_control	40	12	426	0.2623825276432265	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F4	BLD	psoriasis_spectrum_minus_control	40	12	426	0.02258544232596054	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F5	BLD	psoriasis_spectrum_minus_control	40	12	426	-0.0358264930758199	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F6	BLD	psoriasis_spectrum_minus_control	40	12	426	-0.04816879836723484	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F7	BLD	psoriasis_spectrum_minus_control	40	12	426	-0.45493928539803924	mean score difference: psoriasis spectrum minus control in whole blood
+GSE61281	F8	BLD	psoriasis_spectrum_minus_control	40	12	426	-0.1079971504025741	mean score difference: psoriasis spectrum minus control in whole blood

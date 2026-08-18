@@ -1,0 +1,5 @@
+panel	unique_claim	center_or_summary	spread_or_interval	replicate_unit	source_data	pass
+a	Frozen Phase 4C table contains 91 genes and separates evidence tiers across outcomes.	count	none; descriptive frozen table	gene-table row	figure_phase4c_panel_a_tier_counts.tsv	yes
+b	CAD has recurrent Tier A genes across robust positive local-rg loci.	-log10 global SMR FDR	none; gene-prioritization statistic	gene/probe	figure_phase4c_panel_b_cad_tierA.tsv	yes
+c	Crohn and UC candidates occupy both positive and negative local-rg groups.	count	none; descriptive frozen table	gene-table row	figure_phase4c_panel_c_ibd_direction.tsv	yes
+d	Probe-centered ±2Mb SMR2 retains the SMR1 gene-level candidate set.	count	none; sensitivity count	primary SMR signal	figure_phase4c_panel_d_smr_stability.tsv	yes

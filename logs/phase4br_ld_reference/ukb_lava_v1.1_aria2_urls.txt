@@ -1,0 +1,14 @@
+https://vu.data.surfsara.nl/index.php/s/7NBVIvtPRdu7Qhz/download
+  out=lava-ukb-v1.1_chr1-2.zip
+https://vu.data.surfsara.nl/index.php/s/fy6ITboMojHrQXr/download
+  out=lava-ukb-v1.1_chr3-4.zip
+https://vu.data.surfsara.nl/index.php/s/mRz31q0lq7KMcuI/download
+  out=lava-ukb-v1.1_chr5-6.zip
+https://vu.data.surfsara.nl/index.php/s/89RXxPN2BlOqxLs/download
+  out=lava-ukb-v1.1_chr7-9.zip
+https://vu.data.surfsara.nl/index.php/s/3dU1L2Hap43xuCs/download
+  out=lava-ukb-v1.1_chr10-12.zip
+https://vu.data.surfsara.nl/index.php/s/DQqJ2Sqr49RP4xe/download
+  out=lava-ukb-v1.1_chr13-16.zip
+https://vu.data.surfsara.nl/index.php/s/U8eg5XfTr8qPzPp/download
+  out=lava-ukb-v1.1_chr17-23.zip

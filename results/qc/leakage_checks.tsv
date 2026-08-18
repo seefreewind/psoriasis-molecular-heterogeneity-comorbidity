@@ -1,0 +1,6 @@
+check	value	status
+patient_crosses_discovery_replication	0	PASS
+post_treatment_in_baseline_cohort	0	PASS
+duplicated_sample_ids	0	PASS
+unknown_cohort_samples	0	PASS
+replication_blood_available	False	RISK

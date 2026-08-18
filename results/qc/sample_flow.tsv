@@ -1,0 +1,15 @@
+cohort	timepoint	tissue	n_samples	n_patients
+discovery	0	Lesional Skin	82	82
+discovery	0	Nonlesional Skin	82	82
+discovery	0	Whole Blood	82	82
+discovery	1	Lesional Skin	82	82
+discovery	1	Whole Blood	80	80
+discovery	4	Whole Blood	80	80
+discovery	12	Lesional Skin	73	73
+discovery	12	Nonlesional Skin	81	81
+discovery	12	Whole Blood	76	76
+replication	0	Lesional Skin	57	57
+replication	0	Nonlesional Skin	57	57
+replication	1	Lesional Skin	57	57
+replication	12	Lesional Skin	52	52
+replication	12	Nonlesional Skin	53	53

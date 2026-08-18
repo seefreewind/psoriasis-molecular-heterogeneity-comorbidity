@@ -1,0 +1,6 @@
+phenotype	cases	controls	filename
+psoriasis	36466	458078	psoriasis_GCST90472771.sumstats.gz
+psa	5065	21286	psoriatic_arthritis_GCST90243956.sumstats.gz
+crohn	12194	28072	crohn_disease_GCST004132.sumstats.gz
+uc	12366	33609	ulcerative_colitis_GCST004133.sumstats.gz
+cad	122733	424528	coronary_artery_disease_CADMETA_eu.sumstats.gz

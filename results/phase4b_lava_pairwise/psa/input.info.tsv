@@ -1,0 +1,3 @@
+phenotype	cases	controls	filename
+psoriasis	36466	458078	psoriasis_GCST90472771.sumstats.gz
+psa	5065	21286	psoriatic_arthritis_GCST90243956.sumstats.gz

@@ -1,0 +1,1 @@
+SNP	Chr	BP	A1	A2	Freq	Probe	Probe_Chr	Probe_bp	Gene	Orientation	b	SE	p

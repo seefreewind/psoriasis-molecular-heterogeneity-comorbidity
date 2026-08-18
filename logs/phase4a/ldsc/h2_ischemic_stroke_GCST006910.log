@@ -1,0 +1,125 @@
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/parse.py:21: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  return pd.read_csv(fh, delim_whitespace=True, na_values='.', **kwargs)
+/Users/zy/.codex/tools/ldsc/ldscore/irwls.py:161: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  coef = np.linalg.lstsq(x, y)
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out results/phase4a/munge/ischemic_stroke_GCST006910.h2 \
+--h2 results/phase4a/munge/ischemic_stroke_GCST006910.sumstats.gz \
+--ref-ld-chr data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/ \
+--w-ld-chr data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/ 
+
+Beginning analysis at Thu Aug 13 08:23:14 2026
+Reading summary statistics from results/phase4a/munge/ischemic_stroke_GCST006910.sumstats.gz ...
+Read summary statistics for 1188762 SNPs.
+Reading reference panel LD Score from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1290028 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1290028 SNPs.
+After merging with reference panel LD, 1179870 SNPs remain.
+After merging with regression SNP LD, 1179870 SNPs remain.
+Using two-step estimator with cutoff at 30.
+Total Observed scale h2: 0.0086 (0.0016)
+Lambda GC: 1.1082
+Mean Chi^2: 1.1195
+Intercept: 1.0569 (0.0066)
+Ratio: 0.4766 (0.0555)
+Analysis finished at Thu Aug 13 08:23:21 2026
+Total time elapsed: 7.28s

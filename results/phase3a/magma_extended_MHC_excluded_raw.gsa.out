@@ -1,0 +1,9 @@
+# MEAN_SAMPLE_SIZE = 82975
+# TOTAL_GENES = 18005
+# TEST_DIRECTION = one-sided, positive (set), two-sided (covar)
+# CONDITIONED_INTERNAL = gene size, gene density, sample size, inverse mac, log(gene size), log(gene density), log(sample size), log(inverse mac)
+VARIABLE                      TYPE  NGENES         BETA     BETA_STD           SE            P
+F1_EXTENDED_MHC_EXCLUDED       SET     718   -0.0050894  -0.00099589     0.037204       0.5544
+F2_EXTENDED_MHC_EXCLUDED       SET    1059      0.05465     0.012859     0.032032     0.044002
+F6_EXTENDED_MHC_EXCLUDED       SET     499     0.029358    0.0048194     0.042178       0.2432
+F7_EXTENDED_MHC_EXCLUDED       SET     442     0.022483    0.0034792      0.04664      0.31489

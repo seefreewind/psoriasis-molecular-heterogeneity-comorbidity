@@ -1,0 +1,140 @@
+patient_id	endotype	cohort	nearest_centroid_confidence
+1001	E2	discovery	
+1002	E1	discovery	
+1003	E1	discovery	
+1004	E1	discovery	
+1005	E1	discovery	
+1006	E1	discovery	
+1008	E2	discovery	
+1009	E2	discovery	
+1013	E1	discovery	
+1014	E2	discovery	
+138001	E2	discovery	
+138002	E1	discovery	
+138003	E1	discovery	
+138004	E1	discovery	
+23002	E1	discovery	
+23003	E1	discovery	
+23005	E1	discovery	
+23006	E2	discovery	
+23007	E2	discovery	
+23009	E1	discovery	
+23012	E1	discovery	
+5002	E1	discovery	
+5003	E2	discovery	
+5004	E2	discovery	
+5006	E1	discovery	
+5007	E2	discovery	
+5008	E2	discovery	
+5009	E1	discovery	
+5010	E1	discovery	
+5011	E2	discovery	
+5012	E1	discovery	
+5013	E1	discovery	
+5014	E1	discovery	
+5015	E1	discovery	
+5016	E2	discovery	
+5017	E2	discovery	
+5018	E1	discovery	
+5019	E2	discovery	
+5020	E2	discovery	
+5021	E2	discovery	
+5022	E1	discovery	
+5023	E2	discovery	
+5024	E2	discovery	
+5025	E1	discovery	
+60001	E2	discovery	
+60005	E1	discovery	
+6001	E2	discovery	
+6002	E2	discovery	
+6003	E1	discovery	
+6004	E2	discovery	
+6005	E1	discovery	
+6006	E2	discovery	
+6007	E1	discovery	
+6008	E1	discovery	
+6010	E2	discovery	
+6012	E1	discovery	
+6013	E1	discovery	
+6014	E2	discovery	
+6016	E1	discovery	
+6017	E1	discovery	
+6018	E2	discovery	
+6019	E2	discovery	
+6020	E1	discovery	
+6021	E1	discovery	
+6022	E2	discovery	
+6023	E1	discovery	
+6024	E2	discovery	
+6025	E1	discovery	
+6026	E1	discovery	
+6028	E1	discovery	
+6029	E2	discovery	
+6030	E1	discovery	
+6031	E1	discovery	
+6032	E2	discovery	
+6033	E1	discovery	
+6034	E2	discovery	
+6035	E1	discovery	
+6036	E2	discovery	
+6038	E1	discovery	
+6039	E2	discovery	
+6040	E1	discovery	
+6041	E1	discovery	
+1015	E2	replication	0.7811472908682381
+1016	E2	replication	0.19285266179293703
+1021	E1	replication	0.2127907613639276
+1022	E2	replication	0.07509477312102342
+1024	E2	replication	0.8445558658573946
+1025	E2	replication	0.85589291613264
+1026	E2	replication	0.4769967661804597
+1027	E1	replication	0.2693897561222345
+1028	E2	replication	0.47861930460579594
+1029	E2	replication	0.7928827110344696
+1032	E2	replication	0.3670411345768274
+124001	E2	replication	0.020406712607113242
+124003	E2	replication	0.7914958982616105
+138005	E2	replication	0.8722793930502855
+23011	E2	replication	0.6638546962696494
+42001	E1	replication	0.18518744914710217
+42005	E1	replication	0.7034129553579903
+43001	E2	replication	0.7175001899202127
+43003	E1	replication	0.06766011318719234
+43004	E1	replication	0.33977736111465306
+43005	E2	replication	0.3931944517667527
+5026	E1	replication	0.6752371120670853
+5028	E1	replication	0.6053303462767117
+5031	E2	replication	0.7719863554142963
+5032	E2	replication	0.8472992208416226
+5033	E1	replication	0.6319065814369156
+5034	E2	replication	0.5968181727663837
+5035	E1	replication	0.6192180405216182
+5036	E1	replication	0.3765928342897422
+5038	E2	replication	0.6850062795919369
+5039	E2	replication	0.37690270311212715
+5040	E2	replication	0.34607090619172654
+5041	E2	replication	0.9386322388697573
+5042	E1	replication	0.4204610589948229
+5044	E1	replication	0.7928980008271218
+5045	E1	replication	0.5198841020260814
+5046	E1	replication	0.6718442649513774
+60006	E1	replication	0.2885660991303137
+60008	E1	replication	0.4914366822480618
+60013	E2	replication	0.5169801760665178
+60019	E2	replication	0.3619070715691586
+6011	E2	replication	0.6960130204979498
+6042	E2	replication	0.8438057785438182
+6043	E1	replication	0.14661258780024633
+6044	E1	replication	0.7760786015211061
+6045	E2	replication	0.24365431511841606
+6046	E1	replication	0.8433354336688983
+6047	E1	replication	0.7760809847200301
+6049	E1	replication	0.7504905392435569
+6050	E2	replication	0.2057090141296961
+6051	E2	replication	0.8889770032391213
+6052	E1	replication	0.21346075941935017
+6056	E2	replication	0.9429770305237083
+6059	E1	replication	0.7042655955753654
+6061	E2	replication	0.5147589571391471
+6063	E1	replication	0.8133920551822286
+6071	E2	replication	0.2682964544570158

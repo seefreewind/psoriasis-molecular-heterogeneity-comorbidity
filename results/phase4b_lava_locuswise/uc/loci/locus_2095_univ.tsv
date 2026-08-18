@@ -1,0 +1,3 @@
+phen	h2.obs	h2.latent	ascertained	p	locus	chr	start	stop	outcome
+psoriasis	0.00119492	0.00417994	FALSE	1.96093e-07	2095	15	95662426	96864278	uc
+uc	0.00359874	0.00649721	FALSE	2.74278e-11	2095	15	95662426	96864278	uc

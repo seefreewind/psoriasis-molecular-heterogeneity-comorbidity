@@ -1,0 +1,29 @@
+axis	Stability	"Dominant
+tissue"	"Independent
+bulk replication"	"Cellular
+support"	"Spatial
+support"	"Systemic
+support"	panel	factor	view	view_contribution_r2_percent	view_label	dataset	n_pairs	n_common_axis_features	loading_vs_paired_lesional_minus_adjacent_spearman	external_effect_definition	abs_rho	interpretation
+F1	robust	lesional skin	direct	directional	directional	supportive	a											
+F2	robust	non-lesional skin	direct	directional	directional	supportive	a											
+F6	robust	lesional skin	direct	directional	directional	supportive	a											
+F7	robust	blood	limited	directional	limited	systemic candidate	a											
+							b	F1	LS	37.97755241394043	Lesional skin							
+							b	F2	LS	0.7922470569610596	Lesional skin							
+							b	F6	LS	8.619707822799683	Lesional skin							
+							b	F7	LS	0.0022828578948974	Lesional skin							
+							b	F1	NL	0.011378526687622	Non-lesional skin							
+							b	F2	NL	35.35502552986145	Non-lesional skin							
+							b	F6	NL	1.9738316535949707	Non-lesional skin							
+							b	F7	NL	0.004124641418457	Non-lesional skin							
+							b	F1	BLD	0.7871568202972412	Blood							
+							b	F2	BLD	0.0018477439880371	Blood							
+							b	F6	BLD	0.0023543834686279	Blood							
+							b	F7	BLD	9.657394886016846	Blood							
+F1							c		LS			GSE244679	24.0	424.0	-0.6883982319031207	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	0.6883982319031207	
+F2							c		NL			GSE244679	24.0	423.0	-0.5182294539339017	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	0.5182294539339017	
+F6							c		LS			GSE244679	24.0	424.0	0.3752915899687147	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	0.3752915899687147	
+F1							d											skin-primary tissue-state program
+F2							d											skin-primary program with field-state support
+F6							d											skin-primary program with stress-like features
+F7							d											systemic-supportive candidate

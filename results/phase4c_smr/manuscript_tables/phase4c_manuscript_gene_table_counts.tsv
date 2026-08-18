@@ -1,0 +1,13 @@
+outcome	phase4c_role	phase4c_eqtl_gene_tier	n_genes	n_loci	n_recurrent
+cad	primary_systemic_cardiovascular	A_local_Tier1_recurrent_SMR2	8	4	8
+cad	primary_systemic_cardiovascular	B_local_Tier1_single_tissue_SMR2	7	2	0
+cad	primary_systemic_cardiovascular	B_local_Tier2_recurrent_SMR2	4	2	4
+cad	primary_systemic_cardiovascular	C_local_Tier2_single_tissue_SMR2	7	3	0
+crohn	ibd_direction_heterogeneity	A_local_Tier1_recurrent_SMR2	7	3	7
+crohn	ibd_direction_heterogeneity	B_local_Tier1_single_tissue_SMR2	14	7	0
+psa	positive_control_near_neighbor	A_local_Tier1_recurrent_SMR2	12	5	12
+psa	positive_control_near_neighbor	B_local_Tier1_single_tissue_SMR2	11	6	0
+uc	ibd_direction_heterogeneity	A_local_Tier1_recurrent_SMR2	6	3	6
+uc	ibd_direction_heterogeneity	B_local_Tier1_single_tissue_SMR2	12	5	0
+uc	ibd_direction_heterogeneity	B_local_Tier2_recurrent_SMR2	1	1	1
+uc	ibd_direction_heterogeneity	C_local_Tier2_single_tissue_SMR2	2	1	0

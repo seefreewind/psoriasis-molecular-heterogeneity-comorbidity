@@ -1,0 +1,3 @@
+phenotype	cases	controls	filename
+psoriasis	36466	458078	psoriasis_GCST90472771.sumstats.gz
+crohn	12194	28072	crohn_disease_GCST004132.sumstats.gz

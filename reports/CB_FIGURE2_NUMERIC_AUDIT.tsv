@@ -1,0 +1,28 @@
+panel	metric	displayed_value	source_file	source_row_or_identifier	transformation	verified
+b	F1 LS contribution	37.977552	results/phase1b/cross_tissue_discovery_support.tsv	F1 LS_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F2 LS contribution	0.792247	results/phase1b/cross_tissue_discovery_support.tsv	F2 LS_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F6 LS contribution	8.619708	results/phase1b/cross_tissue_discovery_support.tsv	F6 LS_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F7 LS contribution	0.002283	results/phase1b/cross_tissue_discovery_support.tsv	F7 LS_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F1 NL contribution	0.011379	results/phase1b/cross_tissue_discovery_support.tsv	F1 NL_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F2 NL contribution	35.355026	results/phase1b/cross_tissue_discovery_support.tsv	F2 NL_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F6 NL contribution	1.973832	results/phase1b/cross_tissue_discovery_support.tsv	F6 NL_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F7 NL contribution	0.004125	results/phase1b/cross_tissue_discovery_support.tsv	F7 NL_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F1 BLD contribution	0.787157	results/phase1b/cross_tissue_discovery_support.tsv	F1 BLD_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F2 BLD contribution	0.001848	results/phase1b/cross_tissue_discovery_support.tsv	F2 BLD_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F6 BLD contribution	0.002354	results/phase1b/cross_tissue_discovery_support.tsv	F6 BLD_view_r2	none; displayed as View contribution, R² (%)	yes
+b	F7 BLD contribution	9.657395	results/phase1b/cross_tissue_discovery_support.tsv	F7 BLD_view_r2	none; displayed as View contribution, R² (%)	yes
+c	F1 GSE244679 |rho|	0.688398	results/phase1b/external_GSE244679_skin_axis_replication.tsv	F1 LS	absolute value of loading_vs_paired_lesional_minus_adjacent_spearman	yes
+c	F2 GSE244679 |rho|	0.518229	results/phase1b/external_GSE244679_skin_axis_replication.tsv	F2 NL	absolute value of loading_vs_paired_lesional_minus_adjacent_spearman	yes
+c	F6 GSE244679 |rho|	0.375292	results/phase1b/external_GSE244679_skin_axis_replication.tsv	F6 LS	absolute value of loading_vs_paired_lesional_minus_adjacent_spearman	yes
+a	F1 stability category	robust	results/phase2a/axis_evidence_matrix.tsv	F1 MOFA_seed_stability=1.0; bootstrap_stability=1.0	category from both stability metrics ~1.0	yes
+a	F1 independent bulk replication category	direct	results/phase2a/axis_evidence_matrix.tsv	F1 external_GSE244679_support=0.6883982319031207	manuscript-level categorical summary of frozen evidence	yes
+a	F1 systemic support category	supportive	results/phase2a/axis_evidence_matrix.tsv	F1 blood_support_abs_max=0.5142583732057416; GSE61281=-0.2091643786040627	manuscript-level categorical summary of frozen evidence	yes
+a	F2 stability category	robust	results/phase2a/axis_evidence_matrix.tsv	F2 MOFA_seed_stability=1.0; bootstrap_stability=1.0	category from both stability metrics ~1.0	yes
+a	F2 independent bulk replication category	direct	results/phase2a/axis_evidence_matrix.tsv	F2 external_GSE244679_support=0.5182294539339017	manuscript-level categorical summary of frozen evidence	yes
+a	F2 systemic support category	supportive	results/phase2a/axis_evidence_matrix.tsv	F2 blood_support_abs_max=0.594313055365687; GSE61281=-0.2581283105828488	manuscript-level categorical summary of frozen evidence	yes
+a	F6 stability category	robust	results/phase2a/axis_evidence_matrix.tsv	F6 MOFA_seed_stability=0.9999999105930328; bootstrap_stability=1.0	category from both stability metrics ~1.0	yes
+a	F6 independent bulk replication category	direct	results/phase2a/axis_evidence_matrix.tsv	F6 external_GSE244679_support=0.3752915899687147	manuscript-level categorical summary of frozen evidence	yes
+a	F6 systemic support category	supportive	results/phase2a/axis_evidence_matrix.tsv	F6 blood_support_abs_max=0.5052631578947369; GSE61281=-0.0797161609723005	manuscript-level categorical summary of frozen evidence	yes
+a	F7 stability category	robust	results/phase2a/axis_evidence_matrix.tsv	F7 MOFA_seed_stability=0.9999998211860656; bootstrap_stability=1.0	category from both stability metrics ~1.0	yes
+a	F7 independent bulk replication category	limited	results/phase2a/axis_evidence_matrix.tsv	F7 external_GSE244679_support=0.2039053922549263	manuscript-level categorical summary of frozen evidence	yes
+a	F7 systemic support category	systemic candidate	results/phase2a/axis_evidence_matrix.tsv	F7 blood_support_abs_max=0.5768147641831852; GSE61281=-0.4549392853980392	manuscript-level categorical summary of frozen evidence	yes

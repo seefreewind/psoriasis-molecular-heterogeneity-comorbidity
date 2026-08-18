@@ -1,0 +1,49 @@
+dataset	axis	view	n_pairs	n_common_axis_features	loading_vs_paired_lesional_minus_adjacent_spearman	external_effect_definition	result_type	n_psoriasis	n_control	loading_vs_psoriasis_minus_control_spearman	contrast	n_case	loading_vs_case_minus_control_spearman
+GSE244679	F1	LS	24.0	424	-0.6883982319031207	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F1	NL	24.0	423	-0.04582738294816645	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F2	LS	24.0	424	0.08311480074669071	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F2	NL	24.0	423	-0.5182294539339017	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F3	LS	24.0	424	0.011093544541486951	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F3	NL	24.0	423	-0.3562221193678217	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F4	LS	24.0	424	0.07483035928292187	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F4	NL	24.0	423	-0.15245347581305932	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F5	LS	24.0	424	-0.3553196991039475	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F5	NL	24.0	423	-0.08343018378351474	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F6	LS	24.0	424	0.3752915899687147	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F6	NL	24.0	423	0.18444339652219927	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F7	LS	24.0	424	0.11997940814960263	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F7	NL	24.0	423	0.20390539225492638	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F8	LS	24.0	424	-0.12870166257938903	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE244679	F8	NL	24.0	423	-0.1967300095894532	mean paired score difference: lesional psoriatic skin minus adjacent normal skin	skin_replication						
+GSE147339	F1	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	-0.048472989183018185			
+GSE147339	F2	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	0.0013232836925495715			
+GSE147339	F3	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	-0.051710393960079565			
+GSE147339	F4	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	-0.1733514231695403			
+GSE147339	F5	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	-0.15045312882877113			
+GSE147339	F6	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	0.081722981331164			
+GSE147339	F7	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	0.07670314624453792			
+GSE147339	F8	BLD		424		mean score difference: psoriasis whole blood minus control whole blood	blood_support	10.0	10.0	0.037413955270635846			
+GSE61281	F1	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	-0.1649110214832065
+GSE61281	F2	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	-0.09104221643358838
+GSE61281	F3	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	0.24937850354536104
+GSE61281	F4	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	0.060395461971855094
+GSE61281	F5	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	0.024000151498372042
+GSE61281	F6	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	0.021286530064084368
+GSE61281	F7	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	-0.3998801827946007
+GSE61281	F8	BLD		426		mean score difference: cutaneous psoriasis without arthritis minus control in whole blood	blood_support		12.0		cutaneous_psoriasis_without_arthritis_minus_control	20.0	0.02354643250441123
+GSE61281	F1	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	-0.1745561590568441
+GSE61281	F2	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	-0.25812831058284885
+GSE61281	F3	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	0.21863162977089953
+GSE61281	F4	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	0.05184201296630722
+GSE61281	F5	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	-0.06497658023007111
+GSE61281	F6	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	-0.07971616097230051
+GSE61281	F7	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	-0.4359310517875504
+GSE61281	F8	BLD		426		mean score difference: psoriatic arthritis minus control in whole blood	blood_support		12.0		psoriatic_arthritis_minus_control	20.0	-0.18448302771978686
+GSE61281	F1	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	-0.20916437860406278
+GSE61281	F2	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	-0.22118506030482196
+GSE61281	F3	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	0.2623825276432265
+GSE61281	F4	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	0.02258544232596054
+GSE61281	F5	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	-0.0358264930758199
+GSE61281	F6	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	-0.04816879836723484
+GSE61281	F7	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	-0.45493928539803924
+GSE61281	F8	BLD		426		mean score difference: psoriasis spectrum minus control in whole blood	blood_support		12.0		psoriasis_spectrum_minus_control	40.0	-0.1079971504025741

@@ -1,0 +1,29 @@
+*******************************************************************
+* Summary-data-based Mendelian Randomization (SMR)
+* version 1.03
+* (C) 2015 Futao Zhang, Zhihong Zhu and Jian Yang
+* The University of Queensland
+* MIT License
+*******************************************************************
+Analysis started: 20:14:12,Sat Aug 15,2026
+
+Options:
+--beqtl-summary data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary
+--query   5.00e-08
+--snp rs2111485
+--out results/phase4c_smr/smoke/query_rs2111485_smr103
+
+
+Reading eQTL summary data...
+Reading eQTL probe information from [data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary.epi].
+23095 Probes to be included from [data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary.epi].
+Reading eQTL SNP information from [data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary.esi].
+WARNING: frequency is "NA" in one or more rows.
+9596856 SNPs to be included from [data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary.esi].
+rs2111485 is extracted. 
+Reading eQTL summary data from [data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary.besd].
+eQTL summary data of 23095 Probes to be included from [data/genetics/reference/gtex_v8_smr_besd/extracted/Artery_Coronary/Artery_Coronary.besd].
+Extracted results of 0 SNPs have been saved in the file [results/phase4c_smr/smoke/query_rs2111485_smr103.txt].
+
+Analysis completed: 20:15:14,Sat Aug 15,2026
+Computational time: 0:1:2

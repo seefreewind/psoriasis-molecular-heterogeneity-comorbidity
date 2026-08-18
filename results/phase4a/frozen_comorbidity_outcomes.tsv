@@ -1,0 +1,11 @@
+outcome	system_domain(primary)	phase4_role	primary_question	analysis_priority
+Psoriatic arthritis	autoimmune_musculoskeletal	expected_positive_control_like_comorbidity	Does overall psoriasis liability share genetic architecture with joint involvement?	primary
+Crohn disease	autoimmune_intestinal_inflammation	inflammatory_comorbidity	Does psoriasis share inherited risk with intestinal inflammatory disease?	primary
+Ulcerative colitis	autoimmune_intestinal_inflammation	inflammatory_comorbidity	Does psoriasis share inherited risk with ulcerative intestinal inflammation?	primary
+Coronary artery disease	cardiometabolic_vascular	multisystem_cardiometabolic_comorbidity	Does psoriasis liability share genetic architecture with atherosclerotic disease?	primary
+Ischemic stroke	vascular_neurologic	vascular_comorbidity	Does psoriasis liability share genetic architecture with ischemic cerebrovascular disease?	primary
+Type 2 diabetes	cardiometabolic	metabolic_comorbidity	Does psoriasis liability share genetic architecture with diabetes risk?	primary
+MASLD	hepatometabolic	metabolic_liver_comorbidity	Does psoriasis liability share genetic architecture with steatotic liver disease?	primary
+Major depression	neuropsychiatric_neuroimmune	neuroimmune_comorbidity	Does psoriasis liability share genetic architecture with major depression?	primary
+Uveitis	ocular_immune	extracutaneous_immune_comorbidity	Does psoriasis liability share genetic architecture with ocular immune inflammation?	primary
+Chronic kidney disease	renal_vascular_metabolic	renal_comorbidity	Does psoriasis liability share genetic architecture with chronic kidney disease?	primary

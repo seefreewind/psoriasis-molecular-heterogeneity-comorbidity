@@ -1,0 +1,50 @@
+*******************************************************************
+* Summary-data-based Mendelian Randomization (SMR)
+* version 1.03
+* (C) 2015 Futao Zhang, Zhihong Zhu and Jian Yang
+* The University of Queensland
+* MIT License
+*******************************************************************
+Analysis started: 21:43:11,Sat Aug 15,2026
+
+Options:
+--bfile /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur
+--gwas-summary /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma_probe2mb/psa.phase4c_probe2mb.ma
+--beqtl-summary /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes
+--extract-probe /Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/probe_lists/psa__Cells_EBV-transformed_lymphocytes.probe_ids.txt
+--out results/phase4c_smr/probe2mb/psa__Cells_EBV-transformed_lymphocytes
+--thread-num 4
+--peqtl-smr   5.00e-08
+--heidi-min-m 3
+
+Reading GWAS summary data from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma_probe2mb/psa.phase4c_probe2mb.ma].
+GWAS summary data of 139812 SNPs to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/gwas_ma_probe2mb/psa.phase4c_probe2mb.ma].
+Reading eQTL SNP information from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes.esi].
+WARNING: frequency is "NA" in one or more rows.
+9625403 SNPs to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes.esi].
+Reading PLINK FAM file from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.fam].
+503 individuals to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.fam].
+Reading PLINK BIM file from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.bim].
+22665064 SNPs to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.bim].
+Checking the consistency of the alleles of each SNP between pairwise data sets (including the GWAS summary data, the eQTL summary data and the LD reference data).
+119785 SNPs are included after allele checking. 
+Reading PLINK BED file from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.bed] in SNP-major format ...
+Genotype data for 503 individuals and 119785 SNPs to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/ld/g1000_eur/g1000_eur.bed].
+Calculating allele frequencies ...
+Checking the consistency of allele frequency of each SNP between pairwise data sets (including the GWAS summary data, the eQTL summary data and the LD reference data).
+15 SNPs (0.01% <= 5.00%) with allele frequency differences > 0.20 between any pair of the data sets are excluded from the analysis.
+Reading eQTL summary data...
+Reading eQTL probe information from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes.epi].
+21491 Probes to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes.epi].
+Reading a list of probes from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/probe_lists/psa__Cells_EBV-transformed_lymphocytes.probe_ids.txt].
+283 probes are extracted from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/results/phase4c_smr/probe_lists/psa__Cells_EBV-transformed_lymphocytes.probe_ids.txt].
+Reading eQTL summary data from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes.besd].
+eQTL summary data of 283 Probes to be included from [/Volumes/EMPTY2TB/银屑病机制论文设计/psoriasis_endotype_comorbidity/data/genetics/reference/gtex_v8_smr_besd/extracted/Cells_EBV-transformed_lymphocytes/Cells_EBV-transformed_lymphocytes.besd].
+
+Performing SMR analysis (SMR and HEIDI tests) for 22 probes (with at least a cis-eQTL at p < 5.00e-08)... 
+For each probe, the analysis will only include SNPs with eQTL p-values < 1.565400e-03,
+then exclude SNPs with LD r-squared between top-SNP > 0.90 or < 0.05, and further exclude one of each pair of the remaining SNPs with LD r-squared > 0.90.
+  0%  5% 25% 75%100%Results of 22 probes have been saved in file results/phase4c_smr/probe2mb/psa__Cells_EBV-transformed_lymphocytes.smr.
+
+Analysis completed: 21:45:28,Sat Aug 15,2026
+Computational time: 0:2:17

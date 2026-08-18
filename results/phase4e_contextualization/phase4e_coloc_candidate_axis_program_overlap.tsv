@@ -1,0 +1,16 @@
+outcome	locus	gene	tissue	interpretation_tier	PP.H3.abf	PP.H4.abf	maf_source	axis	leading_edge_status	loading_direction	loading_strength	tissue_support	replication_support	evidence_family	axis_overlap_status
+cad	113	UBQLN4	Skin_Sun_Exposed_Lower_leg	suggestive_PP4_0p5_to_0p8	0.02929446430132	0.75434121107419		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+cad	113	UBQLN4	Skin_Not_Sun_Exposed_Suprapubic	suggestive_PP4_0p5_to_0p8	0.0303301189440337	0.745851100006251		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+cad	113	MEX3A	Skin_Sun_Exposed_Lower_leg	suggestive_PP4_0p5_to_0p8	0.0481834232910978	0.596904430146344		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+cad	113	MEX3A	Skin_Not_Sun_Exposed_Suprapubic	suggestive_PP4_0p5_to_0p8	0.048395675996408	0.595072302373462		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+crohn	887	SLC22A5	Colon_Sigmoid	suggestive_PP4_0p5_to_0p8	0.357879860348626	0.638935381600202	eqtl_maf_proxy	NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+crohn	10	PARK7	Whole_Blood	suggestive_PP4_0p5_to_0p8	0.434408249876068	0.564517151019125	eqtl_maf_proxy	NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	887	SLC22A5	Spleen	coloc_supported_PP4_ge_0p8	0.0291038785930535	0.970896121406947		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	1793	RP11-977G19.11	Cells_EBV-transformed_lymphocytes	coloc_supported_PP4_ge_0p8	0.0545235091515641	0.945450346716023		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	887	SLC22A5	Cells_EBV-transformed_lymphocytes	coloc_supported_PP4_ge_0p8	0.0649665869569736	0.934370802757502		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	1793	RP11-977G19.11	Skin_Not_Sun_Exposed_Suprapubic	suggestive_PP4_0p5_to_0p8	0.216616863881474	0.783383136118531		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	1793	RP11-977G19.11	Whole_Blood	suggestive_PP4_0p5_to_0p8	0.225689510140892	0.772827776987664		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	887	SLC22A5	Skin_Sun_Exposed_Lower_leg	suggestive_PP4_0p5_to_0p8	0.237594011068886	0.762405988931102		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+psa	1793	RP11-977G19.11	Skin_Sun_Exposed_Lower_leg	suggestive_PP4_0p5_to_0p8	0.250735904751089	0.749264095248911		NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+uc	2251	RP11-973H7.1	Colon_Transverse	coloc_supported_PP4_ge_0p8	0.0377693002614035	0.959989603131851	eqtl_maf_proxy	NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs
+uc	2251	RP11-973H7.1	Colon_Sigmoid	coloc_supported_PP4_ge_0p8	0.0379377919972519	0.959811371820983	eqtl_maf_proxy	NA	NA	NA	NA	NA	NA	NA	no_overlap_with_F1_F2_F6_F7_programs

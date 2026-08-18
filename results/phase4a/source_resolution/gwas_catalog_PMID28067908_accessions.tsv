@@ -1,0 +1,4 @@
+accession	trait	initialSampleSize	snpCount	fullPvalueSet
+GCST004132	ERR:'diseaseTrait'	12,194 European and unknown ancestry cases, 28,072 European and unknown ancestry controls	9560910	True
+GCST004133	ERR:'diseaseTrait'	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls	9578670	True
+GCST004131	ERR:'diseaseTrait'	25,042 European and unknown ancestry cases, 34,915 European and unknown ancestry controls	9725440	True

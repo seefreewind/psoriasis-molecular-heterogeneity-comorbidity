@@ -1,0 +1,10 @@
+# Communications Biology Final Figure Claim Audit
+
+| figure | panel | visual claim | source result | allowed wording | prohibited wording | verified |
+| --- | --- | --- | --- | --- | --- | --- |
+| Figure 3 | a-d | Frozen molecular programs show directional cellular and spatial contextualization. | Phase 2B and Phase 2C tables | directional/contextual support at donor and spot level | definitive cell-state mechanisms; cell-level pseudoreplication | yes |
+| Figure 6 | a-c | Restricted regulatory prioritization yields limited candidates and supports a layered model without direct program-gene overlap. | Phase 4C/4D/4E outputs | restricted candidates; incomplete coloc; no direct one-to-one correspondence detected | causal proof; CAD mediator proven; absolute no biological interaction | yes |
+| Figure 4 | a-d | Prespecified molecular programs did not meet robust axis-specific genetic anchoring criteria, so downstream genetics uses overall psoriasis susceptibility. | Phase 3A genetic anchoring tables | distinct transcriptomic tissue-state and inherited-liability evidence layers | failed QC; rescued genetic endotypes; MR causality | yes |
+| Figure 1 | a-d | The tested discrete k=2 representation did not meet the prespecified stability criterion, motivating continuous multi-view programs. | Phase 1 stability report; phase1_smoke_summary | tested k=2 representation was insufficiently stable; continuous programs were carried forward | psoriasis has no endotypes; all heterogeneity is continuous; programs are genetically anchored | yes |
+| Figure 5 | a-c | Overall psoriasis susceptibility shows disease-specific genome-wide and local shared architecture. | Phase 4A LDSC and restricted LAVA outputs | CAD positive-biased; PsA positive control; IBD directional heterogeneity | IBD protective or inverse biological relationship | yes |
+| Figure 2 | a-d | F1/F2/F6 are reproducible skin-primary molecular programs and F7 remains systemic-supportive. | Phase 2A matrix; GSE244679 replication; Phase 2B/2C contextualization | reproducible molecular programs with distinct tissue roles | genetic or mechanistic endotypes | yes |

@@ -1,0 +1,10 @@
+outcome	interpretation_tier	n
+cad	distinct_signal_PP3_gt_PP4	15
+cad	suggestive_PP4_0p5_to_0p8	4
+crohn	distinct_signal_PP3_gt_PP4	22
+crohn	suggestive_PP4_0p5_to_0p8	2
+psa	coloc_supported_PP4_ge_0p8	3
+psa	distinct_signal_PP3_gt_PP4	32
+psa	suggestive_PP4_0p5_to_0p8	4
+uc	coloc_supported_PP4_ge_0p8	2
+uc	distinct_signal_PP3_gt_PP4	24

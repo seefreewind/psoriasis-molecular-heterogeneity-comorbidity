@@ -1,0 +1,59 @@
+/Users/zy/.codex/tools/ldsc/munge_sumstats.py:660: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  merge_alleles = pd.read_csv(args.merge_alleles, compression=compression, header=0,
+/Users/zy/.codex/tools/ldsc/munge_sumstats.py:680: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  dat_gen = pd.read_csv(args.sumstats, delim_whitespace=True, header=0,
+/Users/zy/.codex/tools/ldsc/munge_sumstats.py:434: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[True True True ... True True True]' has dtype incompatible with bool, please explicitly cast to a compatible dtype first.
+  jj[ii] = match
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./munge_sumstats.py \
+--sumstats results/phase4a/munge_inputs/psoriasis_GCST90472771.hm3_rsids.tsv.gz \
+--out results/phase4a/munge/psoriasis_GCST90472771 \
+--merge-alleles data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/w_hm3.snplist \
+--snp SNP \
+--N-col cum_eff_sample_size \
+--a1 effect_allele \
+--a2 other_allele \
+--p p_value \
+--signed-sumstats beta,0 
+
+Interpreting column names as follows:
+SNP:	Variant ID (e.g., rs number)
+effect_allele:	Allele 1, interpreted as ref allele for signed sumstat.
+other_allele:	Allele 2, interpreted as non-ref allele for signed sumstat.
+beta:	Directional summary statistic as specified by --signed-sumstats.
+p_value:	p-Value
+cum_eff_sample_size:	Sample size
+
+Reading list of SNPs for allele merge from data/genetics/reference/ldsc/eur_w_ld_chr_zenodo18749273/eur_w_ld_chr/w_hm3.snplist
+Read 1217311 SNPs for allele merge.
+Reading sumstats from results/phase4a/munge_inputs/psoriasis_GCST90472771.hm3_rsids.tsv.gz into memory 5000000 SNPs at a time.
+. done
+Read 1184002 SNPs from --sumstats file.
+Removed 0 SNPs not in --merge-alleles.
+Removed 0 SNPs with missing values.
+Removed 0 SNPs with INFO <= 0.9.
+Removed 0 SNPs with MAF <= 0.01.
+Removed 0 SNPs with out-of-bounds p-values.
+Removed 0 variants that were not SNPs or were strand-ambiguous.
+1184002 SNPs remain.
+Removed 0 SNPs with duplicated rs numbers (1184002 SNPs remain).
+Removed 8161 SNPs with N < 69076.0 (1175841 SNPs remain).
+Median value of SIGNED_SUMSTATS was 0.0, which seems sensible.
+Removed 0 SNPs whose alleles did not match --merge-alleles (1175841 SNPs remain).
+Writing summary statistics for 1217311 SNPs (1175841 with nonmissing beta) to results/phase4a/munge/psoriasis_GCST90472771.sumstats.gz.
+
+Metadata:
+Mean chi^2 = 1.487
+Lambda GC = 1.256
+Max chi^2 = 778.454
+2297 Genome-wide significant SNPs (some may have been removed by filtering).
+
+Conversion finished at Thu Aug 13 08:16:15 2026
+Total time elapsed: 18.6s
