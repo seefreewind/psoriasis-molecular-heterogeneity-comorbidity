@@ -1,0 +1,5 @@
+Program	GSE225475_dominant_marker	GSE225475_median_rho	GSE202011_dominant_marker	GSE202011_median_rho	Same_marker?	Interpretation_allowed
+F1	keratinocyte_stress_hypoxia	0.5023091804132536	keratinocyte_stress_hypoxia	0.4894746551524132	YES	cross-dataset spatial concordance
+F2	keratinocyte_stress_hypoxia	0.5060327012745283	keratinocyte_stress_hypoxia	0.49077328280802085	YES	cross-dataset spatial concordance
+F6	keratinocyte_stress_hypoxia	0.5457899639646722	keratinocyte_stress_hypoxia	0.4961148623199959	YES	cross-dataset spatial concordance
+F7	keratinocyte_basal	0.5049055863453149	keratinocyte_stress_hypoxia	0.4847144138620564	NO	dataset-specific spatial contextualization

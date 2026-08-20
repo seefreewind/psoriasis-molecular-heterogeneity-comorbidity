@@ -1,0 +1,14 @@
+check	answer
+No local absolute paths in v4	YES
+No internal decision labels in v4	YES
+MOFA parameters documented	YES
+CORE and EXTENDED rules documented	YES
+Single-cell donor-level statistics documented	YES
+Spatial dominant marker rule documented	YES
+MAGMA matched-null documented	YES
+LDSC QC documented	YES
+LAVA LD-reference review documented	YES
+SMR/HEIDI missingness documented	YES
+coloc priors documented	YES
+Supplementary Tables S1-S8 generated	YES
+Supplementary Data 1-8 generated	YES

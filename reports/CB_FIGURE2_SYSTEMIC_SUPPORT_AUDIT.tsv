@@ -1,0 +1,5 @@
+program	systemic_support_label	evidence_source	numeric_support	claim_allowed
+F1	supportive only	internal blood support; weak GSE61281	blood_support_abs_max=0.514; GSE61281=-0.209	skin-primary; not stronger systemic evidence than F7
+F2	supportive only	internal blood support; weak GSE61281	blood_support_abs_max=0.594; GSE61281=-0.258	skin-primary; not stronger systemic evidence than F7
+F6	supportive only	internal blood support; weak GSE61281	blood_support_abs_max=0.505; GSE61281=-0.080	skin-primary stress-like; not systemic axis
+F7	systemic-supportive candidate	blood-dominant view; GSE61281 strongest external blood support	blood_support_abs_max=0.577; GSE61281=-0.455	systemic-supportive candidate

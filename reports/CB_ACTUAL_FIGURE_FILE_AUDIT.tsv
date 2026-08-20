@@ -1,0 +1,7 @@
+figure	svg_exists	tiff_exists	png_preview_exists	embedded_in_integrated_docx	source_data_exists	final_title	legend_matches	status
+Figure 1	True	True	True	yes_after_v9_build	True	Study design and transition from discrete endotypes to continuous molecular programs	yes	PASS
+Figure 2	True	True	True	yes_after_v9_build	True	Molecular-program prioritization and independent bulk replication	yes	PASS
+Figure 3	True	True	True	yes_after_v9_build	True	Single-cell and spatial contextualization of selected molecular programs	yes	PASS
+Figure 4	True	True	True	yes_after_v9_build	True	Axis-specific genetic anchoring was not robustly supported	yes	PASS
+Figure 5	True	True	True	yes_after_v9_build	True	Genome-wide and local shared genetic architecture	yes	PASS
+Figure 6	True	True	True	yes_after_v9_build	True	Restricted regulatory prioritization and layered biology	yes	PASS

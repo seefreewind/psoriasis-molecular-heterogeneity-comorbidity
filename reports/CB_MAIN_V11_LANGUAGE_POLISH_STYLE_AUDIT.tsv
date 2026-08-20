@@ -1,0 +1,9 @@
+section	issue	count_or_status	notes
+global	em_dash	0	reviewed after v11 polish
+global	en_dash	0	reviewed after v11 polish
+global	project_language_failed	0	reviewed after v11 polish
+global	unnecessary_to_be_clear	0	reviewed after v11 polish
+global	generic_highlight	0	reviewed after v11 polish
+global	generic_crucial	0	reviewed after v11 polish
+global	project_rescue	0	reviewed after v11 polish
+global	sentences_over_38_words	2	109 Xueyuan West Road, Lucheng District, Wenzhou, Zhejiang Province, China  2 Wenzhou Medical University, Wenzhou, Zhejiang Province, China  Correspondence: Da ; Public datasets and analytical roles   Footnote: LS, lesional skin; NL, non-lesional skin; PsA, psoriatic arthritis; CAD, coronary artery disease; UC, ulcerativ

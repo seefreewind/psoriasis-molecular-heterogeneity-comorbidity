@@ -1,0 +1,7 @@
+Figure	Panel	Main_result	Numerical_result	Mentioned_in_Results?	Defined_in_Legend?	Defined_in_Methods?	Appears_in_Table?	Supplementary_trace?	Action
+Figure 1	a-d	study design and k=2 transition	Jaccard 0.562; threshold 0.75; n=76	yes	yes	yes	Table 1	yes	none
+Figure 2	a-d	program prioritization and tissue contribution	F1 38.0%, F2 35.4%, F6 8.6%, F7 9.7%; |ρ| values	yes	yes	yes	Table 2	yes	none
+Figure 3	a-d	single-cell/spatial contextualization	spatial ρ values	yes	yes	yes	Table 2	yes	none
+Figure 4	a-d	no robust axis-specific genetic anchoring	FDR/matched-null negative summarized	yes	yes	yes	Table 2	yes	none
+Figure 5	a-d	genome-wide/local genetic sharing	LDSC r_g and LAVA counts	yes	yes	yes	none	yes	none
+Figure 6	a-d	restricted regulatory candidates and no overlap	91/33/15/5/10 units defined	yes	yes	yes	Table 3	yes	none

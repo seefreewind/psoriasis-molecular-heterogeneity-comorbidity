@@ -1,0 +1,9 @@
+analysis_layer	input_source	primary_inclusion_rule	statistical_output	interpretation_boundary
+Molecular-axis discovery	E-MTAB-14509 discovery	Complete baseline LS/NL/blood patients	MOFA factors F1-F8	continuous tissue-state axes
+Axis prioritisation	Bulk discovery plus skin/blood replication datasets	Stable factors with replication and interpretable feature families	F1, F2, F6, F7	primary molecular axes and systemic candidate
+Single-cell localization	GSE228421	Baseline samples primary; treatment timepoints sensitivity	donor x cell-type axis scores	cell-type support for frozen programs
+Spatial localization	GSE225475 and GSE202011	spot-level scoring with section-level interpretation	axis-marker Spearman correlations	spatial support only
+Axis genetic anchoring	GCST90472771 psoriasis GWAS	CORE primary, MHC-excluded MAGMA	axis gene-set enrichment and matched null	no robust axis-specific genetic anchoring
+Genome-wide shared genetics	Psoriasis plus comorbidity GWAS	QC-passing LDSC munged summary statistics	rg, SE, intercepts and FDR	overall shared liability
+Local shared genetics	LAVA candidate loci	CAD/PsA/Crohn/UC restricted loci after LD-reference review	local rho and tier	robust loci eligible for regulatory follow-up
+Regulatory follow-up	GTEx v8 eQTL, SMR/HEIDI and coloc	candidate locus x tissue x gene combinations	SMR, HEIDI and PP4	candidate regulatory links only

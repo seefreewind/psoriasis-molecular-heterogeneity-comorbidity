@@ -1,0 +1,5 @@
+axis	role	dominant_tissue	CORE_genes	EXTENDED_genes	initial_CORE_rule_genes	fallback_topup_triggered	CORE_rule	EXTENDED_rule	program_file
+F1	PRIMARY AXIS	LS	304	809	304	no	n_source_features >= 2 and n_evidence_families >= 1	all mapped genes from top loading-ranked features	results/phase2a/axis_gene_programs/F1_gene_program.tsv
+F2	PRIMARY AXIS	NL	725	1184	725	no	n_source_features >= 2 and n_evidence_families >= 1	all mapped genes from top loading-ranked features	results/phase2a/axis_gene_programs/F2_gene_program.tsv
+F6	PRIMARY AXIS	LS	134	544	134	no	n_source_features >= 2 and n_evidence_families >= 1	all mapped genes from top loading-ranked features	results/phase2a/axis_gene_programs/F6_gene_program.tsv
+F7	SUPPORTIVE/SYSTEMIC AXIS	BLD	232	507	232	no	n_source_features >= 2 and n_evidence_families >= 1	all mapped genes from top loading-ranked features	results/phase2a/axis_gene_programs/F7_gene_program.tsv

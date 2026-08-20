@@ -1,0 +1,16 @@
+Dataset_or_resource	Role	Main_text_present?	Supplementary_methods_section	Role_consistent?	Action
+E-MTAB-14509	bulk transcriptomic discovery/internal replication	YES	Methods and tables	YES	covered in v5
+GSE244679	independent paired-skin bulk replication	YES	Bulk replication and systemic support	YES	covered in v5
+GSE61281	external cross-platform whole-blood support	YES	Bulk replication and systemic support	YES	covered in v5
+GSE228421	primary donor-level single-cell contextualization	YES	Single-cell contextualization	YES	covered in v5
+GSE173706	independent single-cell sensitivity	YES	Single-cell contextualization	YES	covered in v5
+GSE225475	spatial transcriptomic contextualization	YES	Spatial transcriptomic contextualization	YES	covered in v5
+GSE202011	spatial transcriptomic contextualization	YES	Spatial transcriptomic contextualization	YES	covered in v5
+GCST90472771	overall psoriasis susceptibility GWAS	YES	Genetic analyses	YES	covered in v5
+Psoriatic arthritis GWAS	analyzed LDSC/LAVA outcome	YES	GWAS/LDSC/LAVA	YES	covered in v5
+Crohn disease GWAS	analyzed LDSC/LAVA outcome	YES	GWAS/LDSC/LAVA	YES	covered in v5
+Ulcerative colitis GWAS	analyzed LDSC/LAVA outcome	YES	GWAS/LDSC/LAVA	YES	covered in v5
+Coronary artery disease GWAS	analyzed LDSC/LAVA outcome	YES	GWAS/LDSC/LAVA	YES	covered in v5
+Ischemic stroke GWAS	analyzed LDSC outcome	YES	GWAS/LDSC	YES	covered in v5
+Chronic kidney disease GWAS	analyzed LDSC outcome	CHECK	GWAS/LDSC	YES	covered in v5
+GTEx v8	eQTL resource for SMR/coloc	YES	Regulatory prioritization	YES	covered in v5

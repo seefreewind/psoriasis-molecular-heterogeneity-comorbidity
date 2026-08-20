@@ -41,7 +41,8 @@ manuscript/rendered_main_*/
 manuscript/figure_package/rendered_*/
 manuscript/figure_package/review_composites/*.pdf
 manuscript/figure_package/review_composites/*.tiff
-manuscript/Communications_Biology_main_manuscript_v1*
+manuscript/Communications_Biology_main_manuscript_v1.md
+manuscript/Communications_Biology_main_manuscript_v1.docx
 manuscript/Communications_Biology_main_manuscript_v3*
 manuscript/Communications_Biology_main_manuscript_v4*
 manuscript/Communications_Biology_main_manuscript_v5*

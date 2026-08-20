@@ -1,0 +1,32 @@
+Item	Value	Source	Sync_status
+Discovery paired baseline skin patients	82	main manuscript v10; archived result tables/source data	MATCH
+Complete three-view MOFA patients	76	main manuscript v10; archived result tables/source data	MATCH
+Internal replication paired skin patients	57	main manuscript v10; archived result tables/source data	MATCH
+Discrete k=2 minimum Jaccard	0.562	main manuscript v10; archived result tables/source data	MATCH
+Discrete stability threshold	0.75	main manuscript v10; archived result tables/source data	MATCH
+GSE244679 F1 LS |ρ|	0.688	external_GSE244679_skin_axis_replication.tsv	MATCH
+GSE244679 F2 NL |ρ|	0.518	external_GSE244679_skin_axis_replication.tsv	MATCH
+GSE244679 F6 LS |ρ|	0.375	external_GSE244679_skin_axis_replication.tsv	MATCH
+GSE61281 F7 psoriasis-spectrum |ρ|	0.455	external_GSE61281_blood_axis_support.tsv	MATCH
+F1 program size	CORE 304; EXTENDED 809	Supplementary Table S2	MATCH
+F2 program size	CORE 725; EXTENDED 1184	Supplementary Table S2	MATCH
+F6 program size	CORE 134; EXTENDED 544	Supplementary Table S2	MATCH
+F7 program size	CORE 232; EXTENDED 507	Supplementary Table S2	MATCH
+Single-cell bootstrap count	2,000	phase2b and GSE173706 scripts	MATCH
+Spatial F1 median ρ	0.502; 0.489	spatial marker consistency audit	MATCH
+Spatial F2 median ρ	0.506; 0.491	spatial marker consistency audit	MATCH
+Spatial F6 median ρ	0.546; 0.496	spatial marker consistency audit	MATCH
+Spatial F7 median ρ	0.505; 0.485	spatial marker consistency audit	MATCH
+F1 MAGMA FDR	0.8101	Table_axis_genetic_anchoring.tsv	MATCH
+F2 MAGMA FDR	0.3717	Table_axis_genetic_anchoring.tsv	MATCH
+F6 MAGMA FDR	0.4012	Table_axis_genetic_anchoring.tsv	MATCH
+F7 MAGMA FDR	0.4012	Table_axis_genetic_anchoring.tsv	MATCH
+LDSC Psoriatic arthritis r_g/FDR	1.171; 4.05 × 10^-54	phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Crohn disease r_g/FDR	-0.272; 2.87 × 10^-9	phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Ulcerative colitis r_g/FDR	-0.223; 7.23 × 10^-8	phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Coronary artery disease r_g/FDR	0.173; 7.49 × 10^-10	phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Ischemic stroke r_g/FDR	0.025; 0.7912	phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Chronic kidney disease r_g/FDR	0.012; 0.7912	phase4a_ldsc_rg_results.tsv	MATCH
+LAVA all-tests FDR-supported count	122	phase4b_restricted_lava_summary.tsv	MATCH
+SMR prioritized/highest-tier counts	91; 33	Figure6 source data	MATCH
+Coloc PP4-supported/suggestive counts	5; 10	coloc manuscript counts and Figure6 source data	MATCH

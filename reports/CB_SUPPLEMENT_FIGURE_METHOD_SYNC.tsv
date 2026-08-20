@@ -1,0 +1,6 @@
+Figure	Definition_domain	Supplement_definition	Match?
+Figure 2	Independent replication statistic	GSE244679 feature-level loading-versus-paired-contrast |ρ|	YES
+Figure 3	Cellular/spatial metric	donor-level single-cell summaries and median within-sample spot-level Spearman ρ	YES
+Figure 4	Axis genetics	CORE MHC-excluded MAGMA plus matched-null empirical P	YES
+Figure 5	LAVA definitions	local ρ; all-tests FDR < 0.05 for panel-b FDR-supported count	YES
+Figure 6	SMR/coloc units	91 and 33 are outcome–gene pairs; 15/5/10 are outcome–gene–tissue pairs	YES

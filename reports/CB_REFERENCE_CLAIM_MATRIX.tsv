@@ -1,0 +1,22 @@
+Reference	Primary claim in manuscript	Section used	Used more than once?	Each use justified?	Bibliography verified?	Notes
+Rider 2026	PSORT molecular programs and phenotype/severity heterogeneity	Introduction; Discussion	yes	yes	existing	Used only for PSORT/cross-tissue molecular heterogeneity.
+Ma 2023	Keratinocyte, fibroblast and immune-cell organization in psoriatic tissue	Introduction	no	yes	existing	Best match for cellular ecosystem claim.
+Dand 2025	Large psoriasis GWAS susceptibility map and inherited-liability context	Introduction; Discussion	yes	yes	existing	Not used for comorbidity-specific claims.
+Shrotri 2025	Transcriptomic profiles linked to severity and treatment response	Introduction; Discussion	yes	yes	existing	Specific severity/response claim.
+Chen 2026	Taiwanese cohort dual Th17/type 2 transcriptomic pattern with IL-36 activation	Introduction; Discussion	yes	yes	existing	Cohort-specific wording retained.
+Castillo 2023	Spatial transcriptomics stratifies psoriatic disease severity by cellular ecosystems	Introduction	no	yes	existing	Spatial psoriasis-specific claim.
+Stuart 2015	PsA and cutaneous psoriasis have overlapping but distinguishable genetics	Introduction	no	yes	existing	Disease-pair-specific genetics.
+Patrick 2022	Psoriasis-CAD shared inherited architecture	Introduction; Discussion	yes	yes	existing	CAD-specific genetics.
+Ellinghaus 2012	Shared psoriasis-Crohn susceptibility loci	Introduction; Discussion	yes	yes	existing	Locus-level IBD context.
+Vestergaard 2026	Positive psoriasis-IBD genetic sharing in harmonized analysis	Introduction; Discussion	yes	yes	existing	Genome-wide IBD comparison.
+Jimenez-Gracia 2026	Shared/disease-specific inflammatory states across IMIDs	Discussion	no	yes	existing	Conceptual context only.
+Restrepo 2026	Organ-wide human skin multicellular neighborhoods and disease disruption	Discussion	no	yes	publisher/PubMed	Newly added; not used as psoriasis replication.
+Li 2025	Shared genetic architecture across psoriasis and cardiovascular phenotypes	Discussion	no	yes	existing	Separated from Patrick 2022.
+GTEx Consortium 2020	Baseline cross-tissue cis-regulatory reference	Discussion; Methods	yes	yes	existing	Not used to infer disease-context effects.
+Alegbe 2026	Disease-context/cell-type-restricted regulatory effects	Discussion	yes	yes	existing	Used for regulatory-context limitation.
+Argelaguet 2018	MOFA method	Methods	no	yes	existing	Method citation only.
+de Leeuw 2015	MAGMA method	Methods	no	yes	existing	Method citation only.
+Bulik-Sullivan 2015	LDSC genetic correlation method	Methods	no	yes	existing	Method citation only.
+Werme 2022	LAVA/local genetic correlation method	Methods	no	yes	existing	Method citation only.
+Zhu 2016	SMR/HEIDI method	Methods	no	yes	existing	Method citation only.
+Giambartolomei 2014	coloc method	Methods	no	yes	existing	Method citation only.

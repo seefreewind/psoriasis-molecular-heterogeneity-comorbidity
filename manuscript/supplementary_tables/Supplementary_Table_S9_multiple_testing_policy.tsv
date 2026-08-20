@@ -1,0 +1,7 @@
+Analysis	Primary_test_family	Correction	Primary_threshold
+Single-cell contextualization	Donor-level CORE or EXTENDED program contrasts across tested cell types	Benjamini-Hochberg within program type	FDR; bootstrap confidence intervals descriptive
+MAGMA axis gene-set enrichment	Four primary CORE MHC-excluded axis tests	Benjamini-Hochberg across four primary tests	FDR < 0.05; matched-null empirical P as sensitivity
+LDSC genome-wide genetic correlation	Analyzed psoriasis–outcome pairs with source-resolved summary statistics	Benjamini-Hochberg across analyzed pairs	FDR < 0.05
+LAVA local genetic correlation	Restricted bivariate local tests for CAD, PsA, Crohn disease and UC	Within-outcome FDR and all-tests FDR reported; Figure 5 uses all-tests FDR < 0.05	Local h² P < 0.05 in both traits before bivariate interpretation
+SMR/HEIDI	Restricted outcome–gene rows within eligible local-r_g loci and tissues	Global FDR primary; within-outcome and within-outcome–tissue FDR descriptive	P_eQTL < 5 × 10⁻⁸; P_HEIDI > 0.01 for HEIDI pass
+Colocalization	Restricted outcome–gene–tissue candidate pairs	Posterior-probability thresholds rather than FDR	PP4 ≥ 0.80 supported; 0.50 ≤ PP4 < 0.80 suggestive

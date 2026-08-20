@@ -1,0 +1,29 @@
+supplementary_or_main_figure	file	format	status
+Figure 1	manuscript/figure_package/review_composites/Figure_1_review_composite.tiff	tiff	available
+Figure 1	manuscript/figure_package/review_composites/Figure_1_review_composite.pdf	pdf	available
+Figure 1	manuscript/figure_package/review_composites/Figure_1_review_composite.svg	svg	available
+Figure 1	manuscript/figure_package/review_composites/Figure_1_review_composite.png	png	available
+Figure 2	manuscript/figure_package/review_composites/Figure_2_review_composite.tiff	tiff	available
+Figure 2	manuscript/figure_package/review_composites/Figure_2_review_composite.pdf	pdf	available
+Figure 2	manuscript/figure_package/review_composites/Figure_2_review_composite.svg	svg	available
+Figure 2	manuscript/figure_package/review_composites/Figure_2_review_composite.png	png	available
+Figure 3	manuscript/figure_package/review_composites/Figure_3_review_composite.tiff	tiff	available
+Figure 3	manuscript/figure_package/review_composites/Figure_3_review_composite.pdf	pdf	available
+Figure 3	manuscript/figure_package/review_composites/Figure_3_review_composite.svg	svg	available
+Figure 3	manuscript/figure_package/review_composites/Figure_3_review_composite.png	png	available
+Figure 4	manuscript/figure_package/review_composites/Figure_4_review_composite.tiff	tiff	available
+Figure 4	manuscript/figure_package/review_composites/Figure_4_review_composite.pdf	pdf	available
+Figure 4	manuscript/figure_package/review_composites/Figure_4_review_composite.svg	svg	available
+Figure 4	manuscript/figure_package/review_composites/Figure_4_review_composite.png	png	available
+Figure 5	manuscript/figure_package/review_composites/Figure_5_review_composite.tiff	tiff	available
+Figure 5	manuscript/figure_package/review_composites/Figure_5_review_composite.pdf	pdf	available
+Figure 5	manuscript/figure_package/review_composites/Figure_5_review_composite.svg	svg	available
+Figure 5	manuscript/figure_package/review_composites/Figure_5_review_composite.png	png	available
+Figure 6	manuscript/figure_package/review_composites/Figure_6_review_composite.tiff	tiff	available
+Figure 6	manuscript/figure_package/review_composites/Figure_6_review_composite.pdf	pdf	available
+Figure 6	manuscript/figure_package/review_composites/Figure_6_review_composite.svg	svg	available
+Figure 6	manuscript/figure_package/review_composites/Figure_6_review_composite.png	png	available
+Supplementary Figure 1	to be assembled from molecular-axis QC outputs	planned	organization_manifest_only
+Supplementary Figure 2	to be assembled from single-cell sensitivity outputs	planned	organization_manifest_only
+Supplementary Figure 3	to be assembled from spatial robustness outputs	planned	organization_manifest_only
+Supplementary Figure 4	to be assembled from LDSC/LAVA QC outputs	planned	organization_manifest_only

@@ -1,0 +1,24 @@
+Item	Supplement_v5_value	Source_of_truth	Sync_status
+k=2 minimum bootstrap Jaccard	0.562	main manuscript v10 numeric lock; Figure 1 source data	MATCH
+GSE244679 F1 LS absolute rho	0.688	results/phase1b/external_GSE244679_skin_axis_replication.tsv	MATCH
+GSE244679 F2 NL absolute rho	0.518	results/phase1b/external_GSE244679_skin_axis_replication.tsv	MATCH
+GSE244679 F6 LS absolute rho	0.375	results/phase1b/external_GSE244679_skin_axis_replication.tsv	MATCH
+GSE61281 F7 psoriasis spectrum absolute rho	0.455	results/phase1b/external_GSE61281_blood_axis_support.tsv	MATCH
+Spatial F1 GSE225475/GSE202011 median rho	0.502; 0.489	reports/CB_SPATIAL_CROSS_DATASET_MARKER_CONSISTENCY.tsv	MATCH
+Spatial F2 GSE225475/GSE202011 median rho	0.506; 0.491	reports/CB_SPATIAL_CROSS_DATASET_MARKER_CONSISTENCY.tsv	MATCH
+Spatial F6 GSE225475/GSE202011 median rho	0.546; 0.496	reports/CB_SPATIAL_CROSS_DATASET_MARKER_CONSISTENCY.tsv	MATCH
+Spatial F7 GSE225475/GSE202011 median rho	0.505; 0.485	reports/CB_SPATIAL_CROSS_DATASET_MARKER_CONSISTENCY.tsv	MATCH
+F1 MAGMA FDR	0.8101	results/phase3a/Table_axis_genetic_anchoring.tsv	MATCH
+F2 MAGMA FDR	0.3717	results/phase3a/Table_axis_genetic_anchoring.tsv	MATCH
+F6 MAGMA FDR	0.4012	results/phase3a/Table_axis_genetic_anchoring.tsv	MATCH
+F7 MAGMA FDR	0.4012	results/phase3a/Table_axis_genetic_anchoring.tsv	MATCH
+LDSC Psoriatic arthritis r_g	1.171	results/phase4a/phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Crohn disease r_g	-0.272	results/phase4a/phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Ulcerative colitis r_g	-0.223	results/phase4a/phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Coronary artery disease r_g	0.173	results/phase4a/phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Ischemic stroke r_g	0.025	results/phase4a/phase4a_ldsc_rg_results.tsv	MATCH
+LDSC Chronic kidney disease r_g	0.012	results/phase4a/phase4a_ldsc_rg_results.tsv	MATCH
+GSE173706 F1 paired donor FDR	0.2784	results/phase2c/GSE173706_independent_scRNA_localization.tsv	MATCH
+GSE173706 F2 paired donor FDR	0.3124	results/phase2c/GSE173706_independent_scRNA_localization.tsv	MATCH
+GSE173706 F6 paired donor FDR	0.3124	results/phase2c/GSE173706_independent_scRNA_localization.tsv	MATCH
+GSE173706 F7 paired donor FDR	0.6222	results/phase2c/GSE173706_independent_scRNA_localization.tsv	MATCH

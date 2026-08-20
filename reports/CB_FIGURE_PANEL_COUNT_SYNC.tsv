@@ -1,0 +1,7 @@
+figure	actual_panel_labels	legend_panel_labels	panel_count_match	panel_title_match	statistic_match	CI_definition_match	resolved
+Figure 1	a,b,c,d	a,b,c,d	YES	YES	YES	NA	YES
+Figure 2	a,b,c,d	a,b,c,d	YES	YES	YES	NA	YES
+Figure 3	a,b,c,d	a,b,c,d	YES	YES	YES	YES	YES
+Figure 4	a,b,c,d	a,b,c,d	YES	YES	YES	YES	YES
+Figure 5	a,b,c	a,b,c	YES	YES	YES	YES	YES
+Figure 6	a,b,c	a,b,c	YES	YES	YES	NA	YES

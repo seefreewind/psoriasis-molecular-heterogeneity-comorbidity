@@ -1,0 +1,21 @@
+claim_or_value	present_in_v11	count
+minimum bootstrap Jaccard = 0.562	YES	1
+76 complete baseline patients	YES	1
+|ρ| = 0.688	YES	1
+|ρ| = 0.518	YES	1
+|ρ| = 0.375	YES	1
+|ρ| = 0.455	YES	1
+r_g = 0.1732	YES	1
+r_g = 1.1715	YES	1
+r_g = -0.2717	YES	1
+r_g = -0.2233	YES	1
+23 FDR-supported loci	YES	1
+49 FDR-supported loci	YES	1
+19 FDR-supported loci	YES	1
+91 outcome-gene pairs	YES	1
+33 highest-tier outcome-gene pairs	YES	1
+30 unique genes	YES	1
+PP4 = 0.971	YES	2
+PP4 = 0.960	YES	3
+no direct gene-membership overlap	YES	2
+F1, F2, F6 and F7	YES	5

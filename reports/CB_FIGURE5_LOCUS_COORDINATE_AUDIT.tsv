@@ -1,0 +1,13 @@
+internal_locus_id	chromosome	source_start	source_end	figure_label	results_text	table_or_supplement_label	status
+57	1	66778016	67761890	L57 chr1:66.8-67.8Mb	chr1:66,778,016-67,761,890	Figure5_source_data.tsv	PASS
+113	1	154685546	156813845	L113 chr1:154.7-156.8Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+347	2	161432090	163607635	L347 chr2:161.4-163.6Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+887	5	130573818	132554690	L887 chr5:130.6-132.6Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+908	5	158484776	159663733	L908 chr5:158.5-159.7Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+1041	6	111363444	112342873	L1041 chr6:111.4-112.3Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+1082	6	158952061	159604052	L1082 chr6:159.0-159.6Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+1215	7	138755108	140217630	L1215 chr7:138.8-140.2Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+1559	10	79952997	81190573	L1559 chr10:80.0-81.2Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+1841	12	111592382	113947983	L1841 chr12:111.6-113.9Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+2203	17	37361179	38880481	L2203 chr17:37.4-38.9Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH
+2251	18	12735559	13641479	L2251 chr18:12.7-13.6Mb	not explicitly stated in Results	Figure5_source_data.tsv	PASS_SOURCE_FIGURE_MATCH

@@ -16,7 +16,7 @@ locus-trait pairs"	results/phase4b_restricted_lava/phase4b_restricted_lava_summa
 Figure 6	a	91	"SMR/HEIDI-prioritized
 outcome-gene pairs"	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs	yes
 Figure 6	a	33	"Highest-tier
-gene-level candidates"	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs with A_local_Tier1_recurrent_SMR2; 30 unique genes	yes
+outcome-gene pairs"	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	unique outcome-gene pairs with A_local_Tier1_recurrent_SMR2; 30 unique genes	yes
 Figure 6	a	15	Restricted colocalization	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	unique outcome-gene-tissue pairs in restricted coloc set	yes
 Figure 6	a	5	PP4-supported outcome-gene-tissue pairs	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	interpretation_tier == coloc_supported_PP4_ge_0p8	yes
 Figure 6	a	10	suggestive outcome-gene-tissue pairs	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	interpretation_tier == suggestive_PP4_0p5_to_0p8	yes

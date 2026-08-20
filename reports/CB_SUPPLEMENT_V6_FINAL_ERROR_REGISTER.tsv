@@ -1,0 +1,21 @@
+Issue_ID	Severity	Section	Current_problem	Source_of_truth	Required_action	Resolved?	Notes
+V6-001	BLOCKING	Overview	Internal final-lock/pass language in publication-facing text	Supplementary Methods v5	Remove internal workflow language	YES	Resolved in v6 QA package
+V6-002	BLOCKING	Structure	Methods and Results mixed in the Methods section	Prompt; v5 file	Create Supplementary Methods and Supplementary Results sections	YES	Resolved in v6 QA package
+V6-003	BLOCKING	LAVA	Raw Python dictionary of LAVA tier counts in prose	v5 LAVA section	Move counts to Supplementary Results/tables	YES	Resolved in v6 QA package
+V6-004	MAJOR	MOFA	Input preprocessing and alignment details incomplete	src/integration/phase1b_molecular_axes.py	Restore feature filtering, scaling, seeds, alignment and stability thresholds	YES	Resolved in v6 QA package
+V6-005	BLOCKING	Program construction	Top-30 source-feature rule needed code verification	src/integration/phase2a_strict_axis_freeze.py	Audit actual rule and correct prose	YES	Resolved in v6 QA package
+V6-006	MAJOR	Discrete clustering	Primary k = 2 and sensitivity k = 3–6 distinction incomplete	src/phase1_smoke_test.py	Clarify primary and sensitivity branch	YES	Resolved in v6 QA package
+V6-007	MAJOR	GSE244679	Statistic and sample unit ambiguous	src/integration/phase1b_external_replication.py; metadata/output tables	Define feature-level Spearman statistic and 24-pair unit	YES	Resolved in v6 QA package
+V6-008	MAJOR	GSE61281	Rank-percentile scoring undefined	src/integration/phase1b_external_replication.py	Define within-sample percentile-rank gene-set scoring	YES	Resolved in v6 QA package
+V6-009	MAJOR	GSE228421	Primary single-cell methods too brief	src/integration/phase2b_gse228421_single_cell_localization.py	Restore raw matrix, QC, scoring and donor-level testing details	YES	Resolved in v6 QA package
+V6-010	MAJOR	Terminology	Localization wording too strong	Main manuscript v10	Use contextualization except for formal genetic colocalization	YES	Resolved in v6 QA package
+V6-011	MAJOR	Spatial	Dominant-marker rule and F7 distinction needed separation from Methods	Supplementary Data 4; spatial audit	Define rule in Methods and results in Supplementary Results	YES	Resolved in v6 QA package
+V6-012	MAJOR	MAGMA	Software/reference/MHC details and matched-null fallback needed fuller detail	src/genetics/phase3a_prepare_magma_inputs.py; phase3a_matched_null.py	Restore reproducibility parameters and separate FDR results	YES	Resolved in v6 QA package
+V6-013	MAJOR	LDSC	QC-passing wording incompatible with QC-flagged IBD outcomes	phase4a LDSC table	Use source-resolved analyzable summary statistics	YES	Resolved in v6 QA package
+V6-014	MAJOR	LAVA	Overlap derivation, negative entries, local h² and Tier 2 criteria needed precision	src/genetics/phase4b_prepare_lava_inputs.py; phase4br_compare_ld_reference.py	State direct intercept entry and exact tier rules	YES	Resolved in v6 QA package
+V6-015	MAJOR	SMR	Scientific threshold formatting and HEIDI result-count placement	phase4c scripts/results	Format thresholds and move counts to Supplementary Results	YES	Resolved in v6 QA package
+V6-016	BLOCKING	Colocalization	Allele alignment, MAF/proxy and low-overlap rules omitted	src/genetics/phase4d_run_restricted_coloc_tierA.R	Restore exact alignment/filtering rules	YES	Resolved in v6 QA package
+V6-017	MAJOR	Multiple testing	Repeated prose rather than compact policy table	Prompt	Create Table S9 multiple-testing policy	YES	Resolved in v6 QA package
+V6-018	STYLE	Typography	Raw operators and scientific notation need publication cleanup	Prompt	Use ≥, ≤, ×10 notation, r_g, local ρ, h²	YES	Resolved in v6 QA package
+V6-019	BLOCKING	File audits	Need physical existence audit of S1–S8, Data1–8 and Figure S1–S6	Filesystem	Create final existence audits	YES	Resolved in v6 QA package
+V6-020	BLOCKING	Main/figure sync	Need final method and numeric synchronization with main and figures	Main v10; final figures/source data	Create final method, numeric and figure sync reports	YES	Resolved in v6 QA package

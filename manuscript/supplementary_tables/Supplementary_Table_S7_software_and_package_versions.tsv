@@ -1,0 +1,18 @@
+software_or_package	version	source	analysis_role
+Python	3.9.6	runtime query	Python scripts
+numpy	1.26.4	Python package metadata	array operations
+pandas	2.3.3	Python package metadata	tabular data processing
+scipy	1.13.1	Python package metadata	statistics and sparse matrices
+scikit-learn	1.6.1	Python package metadata	PCA, k-means and regression utilities
+h5py	3.14.0	Python package metadata	HDF5 expression and MOFA output reading
+matplotlib	3.9.4	Python package metadata	figure generation
+python-docx	1.2.0	Python package metadata	DOCX generation
+mofapy2	not_recoverable	archived virtual-environment metadata	MOFA molecular-axis model
+R	4.4.3 (2025-02-28)	Rscript query	LAVA and coloc scripts
+LAVA	0.1.5	R package query	R statistical analysis
+coloc	5.2.3	R package query	R statistical analysis
+data.table	1.18.4	R package query	R statistical analysis
+SMR	not_recoverable	SMR executable header unavailable	SMR/HEIDI
+MAGMA	1.10	MAGMA analysis log	gene-set enrichment
+LDSC	1.0.1	analysis log and environment record	heritability and genetic correlation
+PLINK2	not_recoverable	used for allele-frequency extraction where needed	SMR sensitivity resource preparation

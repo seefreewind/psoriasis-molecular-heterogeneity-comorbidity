@@ -1,0 +1,5 @@
+outcome	GTEx_v8_tissues	rationale
+CAD	Skin_Sun_Exposed_Lower_leg;Skin_Not_Sun_Exposed_Suprapubic;Whole_Blood;Artery_Coronary;Artery_Aorta;Artery_Tibial	skin, blood and arterial contexts
+PsA	Skin_Sun_Exposed_Lower_leg;Skin_Not_Sun_Exposed_Suprapubic;Whole_Blood;Spleen;Cells_EBV-transformed_lymphocytes	skin and immune contexts
+Crohn disease	Skin_Sun_Exposed_Lower_leg;Skin_Not_Sun_Exposed_Suprapubic;Whole_Blood;Colon_Sigmoid;Colon_Transverse;Spleen;Cells_EBV-transformed_lymphocytes	skin, blood, intestinal and immune contexts
+Ulcerative colitis	Skin_Sun_Exposed_Lower_leg;Skin_Not_Sun_Exposed_Suprapubic;Whole_Blood;Colon_Sigmoid;Colon_Transverse;Spleen;Cells_EBV-transformed_lymphocytes	skin, blood, intestinal and immune contexts

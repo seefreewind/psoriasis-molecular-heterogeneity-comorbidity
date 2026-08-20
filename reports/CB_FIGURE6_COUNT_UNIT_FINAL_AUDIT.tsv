@@ -1,0 +1,7 @@
+stage	count	scientific_unit	unique?	source_file	figure_current_label	correct_label	verified
+FDR-supported local-rg locus-trait pairs	122	locus-trait pairs	no	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	FDR-supported local-rg locus-trait pairs	FDR-supported local-rg locus-trait pairs; n = 122 locus-trait pairs	YES
+SMR/HEIDI-prioritized outcome-gene pairs	91	outcome-gene pairs	partial	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	SMR/HEIDI-prioritized outcome-gene pairs	SMR/HEIDI-prioritized outcome-gene pairs; n = 91 outcome-gene pairs	YES
+Highest-tier outcome-gene pairs	33	outcome-gene pairs	partial	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	Highest-tier outcome-gene pairs	Highest-tier outcome-gene pairs; n = 33 outcome-gene pairs	YES
+Restricted colocalization	15	outcome-gene-tissue pairs	partial	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	Restricted colocalization	Restricted colocalization; n = 15 outcome-gene-tissue pairs	YES
+PP4-supported	5	outcome-gene-tissue pairs	partial	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PP4-supported	PP4-supported; n = 5 outcome-gene-tissue pairs	YES
+Suggestive	10	outcome-gene-tissue pairs	partial	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	Suggestive	Suggestive; n = 10 outcome-gene-tissue pairs	YES

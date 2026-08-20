@@ -1,0 +1,11 @@
+Issue_ID	Severity	Location	Current_value_or_text	Conflicting_value_or_text	Source_of_truth	Action	Resolved?	Notes
+E001	BLOCKING	Results/Figure 5 locus 57	chr1:25,052,479-25,894,379	Figure/source show chr1:66,778,016-67,761,890	results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv; Figure5_source_data.tsv	Corrected Results text	YES	Figure and source were consistent; prose was wrong.
+E002	MAJOR	Figure 4 legend	Old CORE/EXTENDED/MHC sensitivity legend	Actual Figure 4 a-d: hypothesis, CORE MHC-excluded MAGMA, matched-null, decision	Figure4.svg; Figure4_source_data.tsv	Rewrote legend	YES	No new analysis.
+E003	MAJOR	Figure 5 legend	Mentioned panel d and standard errors	Actual Figure 5 has a-c and panel a uses 95% CI	Figure5.svg; figure5_panel_a_ldsc_rg.tsv	Removed panel d; changed SE to 95% CI	YES	Panel count synchronized.
+E004	MAJOR	Figure 6 legend	Old four-panel legend	Actual Figure 6 has a-c	Figure6.svg; Figure6_source_data.tsv	Rewrote legend	YES	Panel d removed.
+E005	MAJOR	Figure 6 cascade	Highest-tier gene-level candidates n=33 outcome-gene pairs	33 is outcome-gene pairs; 30 unique genes	Figure6_source_data.tsv	Regenerated Figure 6 with corrected node	YES	Unit retained explicitly.
+E006	MAJOR	Data Availability	GSE61281 missing	GSE61281 used in Results/Methods/Tables	main text evidence inventory	Added accession	YES	Public-data inventory now complete.
+E007	MINOR	Table 2	Independent replication	F7 is systemic support, not design-matched replication	Table 2 evidence definitions	Changed column to Independent/external support	YES	F7 wording corrected.
+E008	MINOR	Figure 3 legend	Interval summaries where available	Figure panel b says point + 95% bootstrap CI	Figure3.svg; Figure3_source_data.tsv	Updated legend	YES	Panel a/b metric distinction defined.
+E009	MINOR	Reference 16	Analysis-a framework	Official title uses an em dash after Analysis	publisher metadata	Corrected title	YES	MOFA+ reference added as ref 22.
+E010	MINOR	Spelling	near-neighbour/non-neighbour	US style preferred	prompt convention	Changed to neighbor/non-neighbor	YES	Publisher can house-style later.

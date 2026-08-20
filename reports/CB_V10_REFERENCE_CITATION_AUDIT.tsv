@@ -1,0 +1,23 @@
+ref	citation_count	claims_supported	metadata_verified	orphan?	action
+1	3	Rider, A., Grantham, H. J., Smith, G. R. et al. Transcriptomic profiling and machine learn	NOT_RECHECKED_THIS_PASS	NO	keep
+2	1	Ma, F., Plazyo, O., Billi, A. C. et al. Single cell and spatial sequencing define processe	NOT_RECHECKED_THIS_PASS	NO	keep
+3	1	Dand, N. et al. GWAS meta-analysis of psoriasis identifies new susceptibility alleles impa	NOT_RECHECKED_THIS_PASS	NO	keep
+4	2	Shrotri, S., Daamen, A., Kingsmore, K. et al. Transcriptomic analysis identifies disease s	NOT_RECHECKED_THIS_PASS	NO	keep
+5	2	Chen, C. H., Lee, M. S., Chang, W. Y. et al. Uncovering a Dual Th17/Type 2 Transcriptomic 	YES	NO	keep
+6	1	Castillo, R. L., Sidhu, I., Dolgalev, I. et al. Spatial transcriptomics stratifies psoriat	NOT_RECHECKED_THIS_PASS	NO	keep
+7	1	Stuart, P. E. et al. Genome-wide association analysis of psoriatic arthritis and cutaneous	NOT_RECHECKED_THIS_PASS	NO	keep
+8	2	Patrick, M. T. et al. Shared genetic risk factors and causal association between psoriasis	NOT_RECHECKED_THIS_PASS	NO	keep
+9	2	Ellinghaus, D. et al. Combined analysis of genome-wide association studies for Crohn disea	NOT_RECHECKED_THIS_PASS	NO	keep
+10	2	Vestergaard, M. V., Alfaro-Núñez, A., Sazonovs, A., Athanasiadis, G. & Jess, T. Multimodal	YES	NO	keep
+11	1	Jiménez-Gracia, L. et al. Interpretable inflammation landscape of circulating immune cells	YES	NO	keep
+12	1	Restrepo, P., Wilder, A., Houser, A. et al. Single-cell spatial transcriptomic analysis of	NOT_RECHECKED_THIS_PASS	NO	keep
+13	1	Li, X., Yan, Z., Lan, H. et al. Genetic comorbidity of psoriasis and four cardiovascular d	NOT_RECHECKED_THIS_PASS	NO	keep
+14	2	The GTEx Consortium. The GTEx Consortium atlas of genetic regulatory effects across human 	NOT_RECHECKED_THIS_PASS	NO	keep
+15	1	Alegbe, T. et al. Cell-type-resolved genetic variation shapes inflammatory bowel disease r	YES	NO	keep
+16	1	Argelaguet, R. et al. Multi-Omics Factor Analysis—a framework for unsupervised integration	YES	NO	keep
+17	1	de Leeuw, C. A., Mooij, J. M., Heskes, T. & Posthuma, D. MAGMA: generalized gene-set analy	NOT_RECHECKED_THIS_PASS	NO	keep
+18	1	Bulik-Sullivan, B. et al. An atlas of genetic correlations across human diseases and trait	NOT_RECHECKED_THIS_PASS	NO	keep
+19	1	Werme, J., van der Sluis, S., Posthuma, D. & de Leeuw, C. A. An integrated framework for l	NOT_RECHECKED_THIS_PASS	NO	keep
+20	1	Zhu, Z. et al. Integration of summary data from GWAS and eQTL studies predicts complex tra	NOT_RECHECKED_THIS_PASS	NO	keep
+21	1	Giambartolomei, C. et al. Bayesian test for colocalisation between pairs of genetic associ	NOT_RECHECKED_THIS_PASS	NO	keep
+22	1	Argelaguet, R., Arnol, D., Bredikhin, D. et al. MOFA+: a statistical framework for compreh	YES	NO	keep

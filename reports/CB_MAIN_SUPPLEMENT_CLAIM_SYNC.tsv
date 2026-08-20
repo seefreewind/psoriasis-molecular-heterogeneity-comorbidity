@@ -1,0 +1,9 @@
+Claim_domain	Main_text_claim_strength	Supplementary_v5_boundary	Synchronized?
+F1	skin-primary tissue-state program	No validated endotype or genetic anchoring claim	YES
+F2	skin-primary program with possible field-state support	No definitive stromal/repair endotype claim	YES
+F6	skin-primary program with stress-like features	No definitive hypoxia endotype claim	YES
+F7	systemic-supportive candidate	No coherent skin-localized immune identity claim	YES
+Axis genetics	no robust axis-specific genetic anchoring	No axis-specific LDSC/LAVA/MR/coloc claim	YES
+CAD	cleanest systemic genome-wide shared genetic architecture	Shared polygenic architecture, not established cis mediator	YES
+IBD	directionally heterogeneous and QC-sensitive architecture	No simple negative-causality claim	YES
+Coloc	association patterns compatible with shared signals under model	No proof of causality	YES

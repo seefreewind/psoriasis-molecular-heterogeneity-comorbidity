@@ -1,0 +1,5 @@
+ref_no	first_author	title	journal	year	volume	pages_or_article	DOI	publisher_verified	change_required
+5	Chen	Uncovering a dual T helper 17/type 2 transcriptomic endotype in psoriasis	Journal of the American Academy of Dermatology	2026	online ahead of print	not yet assigned in PubMed	10.1016/j.jaad.2026.06.131	PubMed	no
+10	Vestergaard	Multimodal analysis disentangles the genetic and microbial associations between inflammatory bowel disease and other immune-mediated diseases across a harmonized population framework	Nature Communications	2026	17	1849	10.1038/s41467-026-68564-4	Crossref	yes_author_diacritic_fixed
+11	Jiménez-Gracia	Interpretable inflammation landscape of circulating immune cells	Nature Medicine	2026	32	633-644	10.1038/s41591-025-04126-3	Nature/Crossref	yes_diacritic_fixed
+15	Alegbe	Cell-type-resolved genetic variation shapes inflammatory bowel disease risk	Nature	2026	656	129-139	10.1038/s41586-026-10627-z	Nature/Crossref	yes_volume_pages_fixed

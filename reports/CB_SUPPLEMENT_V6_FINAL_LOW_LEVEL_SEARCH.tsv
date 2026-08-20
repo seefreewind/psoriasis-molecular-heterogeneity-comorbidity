@@ -1,0 +1,25 @@
+Search_term	Hit_count	Line_numbers	Review_status
+phase4	0		reviewed_no_publication_problem
+phase4br	0		reviewed_no_publication_problem
+lock	0		reviewed_no_publication_problem
+pass	5	73,146,148,151,153	reviewed_acceptable_HEIDI_pass_or_nonprose_context
+smoke	0		reviewed_no_publication_problem
+frozen	0		reviewed_no_publication_problem
+localization	6	75,77,155,172,186,210	reviewed_acceptable_formal_colocalization_only
+causal signal	0		reviewed_no_publication_problem
+>=	0		reviewed_no_publication_problem
+<=	0		reviewed_no_publication_problem
+e-8	0		reviewed_no_publication_problem
+e-10	0		reviewed_no_publication_problem
+per factor and view	0		reviewed_no_publication_problem
+rank-percentile	0		reviewed_no_publication_problem
+QC-passing	0		reviewed_no_publication_problem
+four threads	0		reviewed_no_publication_problem
+raw path	0		reviewed_no_publication_problem
+.py	0		reviewed_no_publication_problem
+.tsv	0		reviewed_no_publication_problem
+/Users/	0		reviewed_no_publication_problem
+/Volumes/	0		reviewed_no_publication_problem
+manuscript/	0		reviewed_no_publication_problem
+results/	0		reviewed_no_publication_problem
+logs/	0		reviewed_no_publication_problem

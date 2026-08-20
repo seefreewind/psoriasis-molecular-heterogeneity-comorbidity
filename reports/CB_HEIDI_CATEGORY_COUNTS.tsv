@@ -1,0 +1,11 @@
+outcome	HEIDI_category	n_tests
+cad	fail	33
+cad	not_evaluable	3
+cad	pass	385
+crohn	fail	47
+crohn	pass	162
+psa	fail	37
+psa	not_evaluable	1
+psa	pass	274
+uc	fail	32
+uc	pass	135

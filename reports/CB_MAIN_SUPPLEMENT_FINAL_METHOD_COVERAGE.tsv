@@ -1,0 +1,10 @@
+Dataset	Main_use	Supplement_method_section	Statistical_unit	Metric	Role	Match?
+E-MTAB-14509	bulk transcriptomic discovery/internal replication	Cohort definition; discrete; MOFA	patient	MOFA scores, bootstrap Jaccard, replication projection	discovery/internal replication	YES
+GSE244679	independent paired-skin support	Bulk replication and systemic support	24 pairs	feature-level Spearman ρ	paired-skin support	YES
+GSE61281	external systemic support	Bulk replication and systemic support	sample group	feature-level Spearman ρ	whole-blood supportive evidence	YES
+GSE228421	primary single-cell contextualization	Primary single-cell contextualization	donor/cell-type	LS–NL donor effect, sign-flip P, bootstrap CI	cellular context	YES
+GSE173706	independent single-cell sensitivity	Independent single-cell sensitivity	donor/sample	sensitivity effect and FDR	sensitivity only	YES
+GSE225475	spatial transcriptomic contextualization	Spatial transcriptomic contextualization	sample/spot summary	median spot-level Spearman ρ	spatial context	YES
+GSE202011	spatial transcriptomic contextualization	Spatial transcriptomic contextualization	sample/spot summary	median spot-level Spearman ρ	spatial context	YES
+GCST90472771	psoriasis susceptibility GWAS	Axis genetics; LDSC/LAVA/SMR/coloc	summary-statistic SNP/gene set	MAGMA, LDSC r_g, local ρ	overall inherited liability	YES
+GTEx v8	eQTL resource	Shared-locus/eQTL prioritization; SMR; colocalization	gene–tissue/variant	SMR/HEIDI and coloc PP	regulatory follow-up	YES

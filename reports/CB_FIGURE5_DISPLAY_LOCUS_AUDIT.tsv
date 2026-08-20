@@ -1,0 +1,20 @@
+locus	trait	local_rho	FDR	LD_reference_robust	display_reason	source
+347	CAD	0.650751	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	cad
+1841	CAD	0.605075	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	cad
+113	CAD	0.631202	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	cad
+57	Crohn	-0.534925	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	crohn
+887	Crohn	-0.642693	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	crohn
+908	Crohn	0.381768	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	crohn
+1082	Crohn	-0.945307	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	crohn
+1559	Crohn	-0.625949	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	crohn
+2251	Crohn	-0.658624	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	crohn
+908	PsA	0.944787	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	psa
+1041	PsA	1.0	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	psa
+57	PsA	0.740363	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	psa
+347	PsA	0.847701	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	psa
+887	PsA	0.807433	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	psa
+57	UC	-0.689577	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	uc
+347	UC	0.828549	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	uc
+2251	UC	-0.762875	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	uc
+908	UC	0.39234	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	uc
+2203	UC	-0.648811	FDR_supported	Tier 1	selected locus; all-tests FDR < 0.05; Phase 4B-R Tier 1/2	uc

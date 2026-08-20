@@ -1,0 +1,3 @@
+url	purpose	checked_by	http_status_or_local_evidence	status
+https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity	main analysis-code repository	git remote -v	configured as origin fetch/push	PASS_LOCAL_REMOTE_MATCH
+https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity/releases/tag/v0.1.1	manuscript-stage code release	curl -I -L	200	PASS

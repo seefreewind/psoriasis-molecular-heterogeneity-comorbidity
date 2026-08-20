@@ -798,7 +798,7 @@ def figure3():
         label.set_color(PROGRAM_COLORS[axis])
         label.set_fontweight("bold")
     axc.set_xlim(0.46, 0.56)
-    axc.set_xlabel("Median spot-level program-marker correlation (rho)")
+    axc.set_xlabel("Median spot-level program-marker correlation (ρ)")
     axc.legend(loc="lower right", handlelength=1.0, borderaxespad=0.2)
     axc.grid(axis="x", color="#E3E7EA", lw=0.6)
 
@@ -1203,7 +1203,7 @@ def figure5():
         r = rg[rg["label"].eq(lab)].iloc[0]
         color = DISEASE_COLORS[lab]
         axa.errorbar(r["rg"], i, xerr=1.96 * r["SE"], fmt="o", color=color, ecolor=color, capsize=2, ms=4)
-        q = "QC pass" if r["QC_status"] == "PASS" else ("near-neighbour / QC flag" if "NEAR_NEIGHBOR" in r["QC_status"] else "QC flag")
+        q = "QC pass" if r["QC_status"] == "PASS" else ("near-neighbor / QC flag" if "NEAR_NEIGHBOR" in r["QC_status"] else "QC flag")
         axa.text(flag_x, i, q, va="center", ha="left", fontsize=5.6)
         add_numeric("Figure 5", "a", f"{r['rg']:.4f} ({r['ci_low']:.4f},{r['ci_high']:.4f})", "LDSC rg and 95% CI", "results/phase4a/phase4a_ldsc_rg_results.tsv", lab)
     axa.set_yticks(y)
@@ -1212,7 +1212,7 @@ def figure5():
         label.set_color(DISEASE_COLORS[lab])
         label.set_fontweight("bold")
     axa.invert_yaxis()
-    axa.set_xlabel("LDSC rg (95% CI)")
+    axa.set_xlabel("LDSC $r_g$ (95% CI)")
     axa.set_xlim(-0.45, 1.62)
     axa.text(flag_x, -0.62, "QC flag", ha="left", va="bottom", fontsize=5.7, fontweight="bold", clip_on=False)
     axa.grid(axis="x", color="#E3E7EA", lw=0.6)
@@ -1236,7 +1236,7 @@ def figure5():
         label.set_color(DISEASE_COLORS[lab])
         label.set_fontweight("bold")
     axb.invert_yaxis()
-    axb.set_xlabel("Number of nominal local-rg signals\nnegative <- 0 -> positive")
+    axb.set_xlabel("Number of nominal local-$r_g$ signals\nnegative <- 0 -> positive")
     axb.set_xlim(-60, 45)
     axb.text(1.05, -0.62, "FDR\n<0.05", transform=axb.get_yaxis_transform(), ha="left", va="bottom", fontsize=5.7, fontweight="bold", clip_on=False)
     axb.grid(axis="x", color="#E3E7EA", lw=0.6)
@@ -1273,7 +1273,7 @@ def figure5():
             if elig[i, j]:
                 axc.text(j, i, f"{mat[i,j]:.2f}", ha="center", va="center", fontsize=5.4)
     cb = fig.colorbar(im, ax=axc, fraction=0.022, pad=0.01)
-    cb.set_label("Local rho")
+    cb.set_label("Local ρ")
     axc.text(0.995, 1.02, "IBD: heterogeneous local directions", transform=axc.transAxes, ha="right", va="bottom", fontsize=6.0, color="#6B4E2E")
     axc.text(0.0, -0.12, "Grey cells: selected locus-trait pair did not meet the robust display criterion.", transform=axc.transAxes, ha="left", va="top", fontsize=5.4, color="#59636B")
 
@@ -1293,7 +1293,7 @@ def figure5():
 
 ## Changes Implemented
 - Added the title `Genome-wide and local shared genetic architecture of psoriasis comorbidity`.
-- Standardized panel-a QC annotations into an aligned column with `QC pass`, `QC flag` and `near-neighbour / QC flag`.
+- Standardized panel-a QC annotations into an aligned column with `QC pass`, `QC flag` and `near-neighbor / QC flag`.
 - Removed ambiguous panel-b circles and added an aligned FDR-supported count column.
 - Defined panel-b bars as nominal local-rg signal counts.
 - Re-encoded panel-c non-displayed cells as uniform neutral grey.
@@ -1307,10 +1307,10 @@ Panel b uses `results/phase4b_restricted_lava/phase4b_restricted_lava_summary.ts
 Panel c starts from the existing selected locus set used in the prior Figure 5 code: 347, 1215, 1841, 57, 887, 908, 1041, 1082, 2251, 1559, 2203 and 113. A locus-trait cell is displayed with color and numeric local rho only when it is present in this selected set, has all-tests FDR < 0.05 in the restricted LAVA result, and is Phase 4B-R Tier 1 or Tier 2 in the LD-reference validation table. Cells not meeting that rule are shown in uniform grey and should not be interpreted as rho = 0.
 
 ## PsA rg Greater Than 1 Interpretation
-PsA is displayed as analyzed and is not clipped. The legend should state that PsA is a near-neighbour positive-control phenotype and that rg > 1 is interpreted in the context of elevated cross-trait intercept, potential sample overlap or near-identical liability, not as a literal biological correlation greater than 1.
+PsA is displayed as analyzed and is not clipped. The legend should state that PsA is a near-neighbor positive-control phenotype and that rg > 1 is interpreted in the context of elevated cross-trait intercept, potential sample overlap or near-identical liability, not as a literal biological correlation greater than 1.
 
 ## Publication-ready Legend
-Figure 5. Genome-wide and local shared genetic architecture of psoriasis comorbidity. a, LDSC genome-wide genetic correlation between overall psoriasis susceptibility and six comorbidity outcomes. Points show rg and horizontal intervals show 95% CI; aligned labels summarize QC interpretation. Psoriatic arthritis is shown as a near-neighbour positive-control phenotype, and its rg estimate greater than 1 should be interpreted in light of elevated cross-trait intercept and overlap or near-identical-liability concerns rather than as a literal correlation above 1. b, Directional balance of LAVA local-rg results for CAD, PsA, Crohn disease and UC. Bars show nominal negative and positive local-rg counts; the aligned column reports the number of all-tests FDR-supported local-rg loci. c, Local genetic correlation at selected robust loci. Heatmap color encodes local rho on a diverging scale centered at zero, and numeric labels are shown only for locus-trait cells meeting the predefined robust display criterion. Grey cells indicate that the selected locus-trait pair did not meet the robust display criterion and do not represent rho = 0. Crohn disease and UC are interpreted as showing directionally heterogeneous local sharing; their genome-wide negative estimates remain QC-sensitive.
+Figure 5. Genome-wide and local shared genetic architecture of psoriasis comorbidity. a, LDSC genome-wide genetic correlation between overall psoriasis susceptibility and six comorbidity outcomes. Points show rg estimates and horizontal intervals show 95% CI; aligned labels summarize QC interpretation. Psoriatic arthritis is shown as a near-neighbor positive-control phenotype, and its rg estimate greater than 1 should be interpreted in light of elevated cross-trait intercept and overlap or near-identical-liability concerns rather than as a literal correlation above 1. b, Directional balance of LAVA local-rg results for CAD, PsA, Crohn disease and UC. Bars show nominal negative and positive local-rg counts; the aligned column reports the number of all-tests FDR-supported local-rg loci. c, Local genetic correlation at selected robust loci. Heatmap color encodes local ρ on a diverging scale centered at zero, and numeric labels are shown only for locus-trait cells meeting the predefined robust display criterion. Grey cells indicate that the selected locus-trait pair did not meet the robust display criterion and do not represent ρ = 0. Crohn disease and UC are interpreted as showing directionally heterogeneous local sharing; their genome-wide negative estimates remain QC-sensitive.
 
 ## Final Main Claim
 Overall psoriasis susceptibility shows disease-specific shared genetic architecture, with robust positive CAD sharing, strong PsA positive-control architecture and directionally heterogeneous local sharing with inflammatory bowel disease.
@@ -1371,7 +1371,7 @@ def figure6():
                 "identifier": "unique outcome-gene pairs",
             },
             {
-                "step": "Highest-tier\ngene-level candidates",
+                "step": "Highest-tier\noutcome-gene pairs",
                 "n": highest,
                 "unit": "outcome-gene pairs",
                 "source": "results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv",
@@ -1502,7 +1502,7 @@ def figure6():
     count_audit_rows = [
         (fdr_loci, "FDR-supported local-rg locus-trait pairs", "nonunique across traits; summed across CAD/PsA/Crohn/UC", "no", "phase4b_restricted_lava_summary.tsv", "Evidence cascade layer"),
         (smr_pairs, "SMR/HEIDI-prioritized outcome-gene pairs", "unique outcome-gene pairs", "partial", "phase4c_frozen_shared_locus_eqtl_gene_table.tsv", "Next evidence layer, not a one-to-one subset"),
-        (highest, f"highest-tier gene-level candidates ({highest_unique_genes} unique genes)", "unique outcome-gene pairs", "partial", "phase4c_frozen_shared_locus_eqtl_gene_table.tsv", "Gene-level prioritization node"),
+        (highest, f"highest-tier outcome-gene pairs ({highest_unique_genes} unique genes)", "unique outcome-gene pairs", "partial", "phase4c_frozen_shared_locus_eqtl_gene_table.tsv", "Highest-tier prioritization node"),
         (restricted_coloc, "restricted colocalization outcome-gene-tissue pairs", "unique outcome-gene-tissue pairs", "partial", "phase4d_coloc_supported_and_suggestive_candidates.tsv", "Colocalization layer"),
         (pp4_supported, "PP4-supported outcome-gene-tissue pairs", "nonunique genes; tissue-specific tests", "parallel coloc category", "phase4d_coloc_supported_and_suggestive_candidates.tsv", "Parallel branch"),
         (suggestive, "suggestive outcome-gene-tissue pairs", "nonunique genes; tissue-specific tests", "parallel coloc category", "phase4d_coloc_supported_and_suggestive_candidates.tsv", "Parallel branch"),
@@ -1649,7 +1649,7 @@ Candidates are grouped by outcome, with disease color encoding and circle/triang
 The lower panel now presents two observed biological layers: tissue-state programs and inherited multisystem liability. Axis-specific genetic anchoring and gene-membership overlap are shown as correspondence tests between layers, leading to the final interpretation that the layers are connected but non-equivalent.
 
 ## Publication-ready legend
-Figure 6 | Restricted regulatory prioritization supports a layered model of psoriasis biology. a, Evidence cascade from FDR-supported local-rg locus-trait pairs to SMR/HEIDI-prioritized outcome-gene pairs, highest-tier genes and restricted colocalization. Supported and suggestive coloc results are parallel outcome-gene-tissue categories, not sequential stages. b, Restricted colocalization candidates grouped by outcome. Points show PP4, interpreted as posterior support for a model-compatible shared association signal under the coloc model. Colors indicate disease, circles indicate standard input, and triangles denote analyses using eQTL MAF as a proxy where GWAS EAF was unavailable. The dashed line marks the prespecified PP4 support threshold of 0.80. LCL, EBV-transformed lymphocytes. c, Final synthesis model separating tissue-state molecular programs from inherited-liability architecture. The study found no robust direct axis-specific genetic anchoring and no direct gene-membership overlap between regulatory candidates and the molecular programs, supporting connected but non-equivalent biological layers.
+Figure 6 | Restricted regulatory prioritization supports a layered model of psoriasis biology. a, Evidence cascade from FDR-supported local-rg locus-trait pairs to SMR/HEIDI-prioritized outcome-gene pairs, highest-tier outcome-gene pairs and restricted colocalization. Supported and suggestive coloc results are parallel outcome-gene-tissue categories, not sequential stages. b, Restricted colocalization candidates grouped by outcome. Points show PP4, interpreted as posterior support for a model-compatible shared association signal under the coloc model. Colors indicate disease, circles indicate standard input, and triangles denote analyses using eQTL MAF as a proxy where GWAS EAF was unavailable. The dashed line marks the prespecified PP4 support threshold of 0.80. LCL, EBV-transformed lymphocytes. c, Final synthesis model separating tissue-state molecular programs from inherited-liability architecture. The study found no robust direct axis-specific genetic anchoring and no direct gene-membership overlap between regulatory candidates and the molecular programs, supporting connected but non-equivalent biological layers.
 
 ## Remaining limitations
 - MAF-proxy sensitivity remains visible for UC/Crohn candidates and should not be interpreted as the same input certainty as standard coloc tests.

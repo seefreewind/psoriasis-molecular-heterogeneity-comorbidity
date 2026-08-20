@@ -1,0 +1,6 @@
+item	value	status	notes
+rendered_page_count	17	PASS	render_docx completed
+contact_sheet	manuscript/rendered_v10_final_low_level_qa/contact_sheet.png	PASS	all pages present
+figure_pages	Figures 1-6 inspected	PASS	no blank/cropped figure panels detected
+table_pages	Tables 1-3 inspected	PASS	tables span pages but remain readable and uncropped
+rho_rendering	Unicode ρ present in source and DOCX XML	PASS_WITH_FONT_NOTE	rendered glyph resembles p in body font

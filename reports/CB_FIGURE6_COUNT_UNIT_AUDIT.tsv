@@ -1,0 +1,7 @@
+count	unit	definition	source	status
+122	locus-trait pairs	FDR-supported local-r_g locus-trait pairs across CAD/PsA/Crohn/UC	results/phase4b_restricted_lava/phase4b_restricted_lava_summary.tsv	PASS
+91	outcome-gene pairs	unique SMR/HEIDI-prioritized outcome-gene pairs	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	PASS
+33	outcome-gene pairs	highest prespecified tier; 30 unique genes	results/phase4c_smr/phase4c_frozen_shared_locus_eqtl_gene_table.tsv	PASS
+15	outcome-gene-tissue pairs	restricted coloc supported or suggestive set	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PASS
+5	outcome-gene-tissue pairs	PP4-supported restricted coloc signals	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PASS
+10	outcome-gene-tissue pairs	suggestive restricted coloc signals	results/phase4d_coloc/manuscript_tables/phase4d_coloc_supported_and_suggestive_candidates.tsv	PASS

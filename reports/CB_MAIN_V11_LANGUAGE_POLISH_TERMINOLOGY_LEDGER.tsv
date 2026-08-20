@@ -1,0 +1,7 @@
+Canonical term	First-use definition or usage	Variants controlled in v11	Decision
+molecular programs	continuous MOFA-style tissue programs	axes, endotypes when not justified	Use molecular programs except when describing rejected discrete endotype representation
+tissue-state variables	interpretation of retained programs after negative axis-specific genetics	germline-defined subtypes	Use only for the retained F1/F2/F6/F7 programs
+overall psoriasis susceptibility	GCST90472771 genetic exposure/reference	axis-specific exposure	Use for all comorbidity genetics
+genetic architecture	LDSC/LAVA shared inherited liability	mechanism, mediator	Avoid causal mediator wording unless coloc supports it
+colocalization	compatibility with a shared association signal under the specified model	proof of causal variant	Keep conservative coloc language
+systemic-supportive	F7 evidence tier	skin-localized immune program	Retain F7 as supportive, not primary skin immune identity

@@ -1,0 +1,22 @@
+analysis	marker_panel	genes	assignment_rule
+single_cell	keratinocyte	KRT14,KRT5,KRT1,KRT10,KRT16,KRT17,DSG1,DSG3,S100A7,S100A8,S100A9	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	fibroblast	COL1A1,COL1A2,COL3A1,DCN,LUM,COL6A1,PDGFRA	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	endothelial	PECAM1,VWF,KDR,CLDN5,RAMP2,ENG	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	pericyte_smooth_muscle	ACTA2,MYH11,TAGLN,RGS5,MCAM,PDGFRB	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	T_cell	CD3D,CD3E,TRAC,TRBC1,IL7R,CD8A,CD4	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	myeloid_monocyte	LYZ,LST1,CTSS,CD14,FCGR3A,S100A8,S100A9,TYROBP	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	dendritic	FCER1A,CLEC10A,CD1C,LAMP3,CCR7	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	B_cell	MS4A1,CD79A,CD79B,BANK1,CD74	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	NK_cell	NKG7,GNLY,KLRD1,PRF1,GZMB	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	mast_cell	TPSAB1,TPSB2,CPA3,KIT	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+single_cell	melanocyte	PMEL,MLANA,TYR,DCT	maximum mean log1p(CP10K) marker score; unassigned if maximum score <= 0
+spatial	keratinocyte_basal	KRT5,KRT14,KRT15,TP63,ITGA6	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	keratinocyte_spinous_suprabasal	KRT1,KRT10,DSG1,DSC1,FLG,LOR	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	keratinocyte_inflammatory_T17	KRT16,KRT17,S100A7,S100A8,S100A9,DEFB4A,IL36G,CXCL8	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	keratinocyte_stress_hypoxia	HIF1A,VEGFA,DDIT4,NDRG1,SLC2A1,ADM,BNIP3	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	fibroblast_matrix	COL1A1,COL1A2,COL3A1,DCN,LUM,PDGFRA	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	fibroblast_inflammatory	CCL19,CCL13,CXCL12,CXCL14,IL6,PDPN,FAP	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	endothelial_vascular	PECAM1,VWF,KDR,RAMP2,CLDN5,ENG	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	myeloid_dendritic	LYZ,LST1,CTSS,CD14,LAMP3,CCR7,FCER1A	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	T_NK_cytotoxic	CD3D,CD3E,TRAC,NKG7,GNLY,PRF1,GZMB	marker score used for spot-level Spearman correlation; no cell label assigned
+spatial	B_plasma	MS4A1,CD79A,CD79B,MZB1,JCHAIN	marker score used for spot-level Spearman correlation; no cell label assigned

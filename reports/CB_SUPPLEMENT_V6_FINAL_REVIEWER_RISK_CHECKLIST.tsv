@@ -1,0 +1,43 @@
+Question_ID	Question	Answer
+1	Is raw Python dict output removed?	YES
+2	Is Overview free of internal audit language?	YES
+3	Are Methods separated from Results?	YES
+4	Are all MOFA preprocessing parameters restored?	YES
+5	Are factor alignment/stability rules restored?	YES
+6	Is top 30 per factor and view verified against code?	YES
+7	Is CORE construction fully reproducible?	YES
+8	Is k=2 clearly primary and k=3–6 sensitivity?	YES
+9	Is discrete vs MOFA input-space difference explicit?	YES
+10	Is the 0.75 threshold framing clear?	YES
+11	Is GSE244679 statistic mathematically defined?	YES
+12	Is the GSE244679 sample unit unambiguous?	YES
+13	Is rank-percentile scoring either defined or removed?	YES
+14	Is GSE61281 correctly described as supportive only?	YES
+15	Is GSE228421 fully reproducible?	YES
+16	Is GSE173706 clearly sensitivity only?	YES
+17	Is localization replaced with contextualization?	YES
+18	Is the spatial dominant-marker rule explicit?	YES
+19	Are spatial results moved out of Methods?	YES
+20	Are MAGMA software/MHC/gene mapping details restored?	YES
+21	Is matched-null fallback hierarchy explicit?	YES
+22	Are MAGMA results moved out of Methods?	YES
+23	Is LDSC wording compatible with QC-flagged IBD?	YES
+24	Is LAVA overlap derivation explicit?	YES
+25	Is local h² reliability quantitatively defined?	YES
+26	Is Tier 2 quantitatively defined?	YES
+27	Is Figure 5 FDR family explicit?	YES
+28	Is raw LAVA tier-count dict removed?	YES
+29	Is SMR command notation publication-ready?	YES
+30	Are HEIDI result counts moved out of Methods?	YES
+31	Is coloc allele alignment restored?	YES
+32	Is coloc MAF/proxy handling restored?	YES
+33	Is low-overlap filtering restored?	YES
+34	Is shared causal signal replaced with shared association signal?	YES
+35	Are supported/suggestive coloc counts moved out of Methods?	YES
+36	Are statistical symbols formatted consistently?	YES
+37	Do S1–S8 actually exist?	YES
+38	Do Data1–8 actually exist?	YES
+39	Do Figure S1–S6 actually exist?	YES
+40	Do all figure legends/source-data files exist?	YES
+41	Does Supplement match the main manuscript numerically?	YES
+42	Has no new scientific result been introduced?	YES

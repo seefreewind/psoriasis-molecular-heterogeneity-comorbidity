@@ -1,0 +1,40 @@
+Question_ID	Question	Answer
+1	Does v5 preserve the F1/F2/F6/F7 interpretation boundary?	YES
+2	Does v5 avoid validated-endotype wording?	YES
+3	Does v5 avoid genetically anchored axis claims?	YES
+4	Is GSE244679 described?	YES
+5	Is GSE244679 described as paired-skin support, not mechanistic validation?	YES
+6	Is GSE61281 described?	YES
+7	Is GSE61281 described as cross-platform whole-blood support?	YES
+8	Is GSE173706 included because the main text still uses it?	YES
+9	Are GSE173706 sample/donor/tissue-state details present?	YES
+10	Is the single-cell statistical unit donor/sample summarized signal?	YES
+11	Is the clinical-confounding audit restored?	YES
+12	Are PASI/BMI/age/sex/HLA-C*06:02 covariates described?	YES
+13	Is batch handled as unavailable rather than silently omitted?	YES
+14	Are discrete-clustering parameters described?	YES
+15	Is the 0.75 stability threshold described?	YES
+16	Is the k=2 bootstrap Jaccard value synchronized?	YES
+17	Are MOFA seeds and training settings described?	YES
+18	Are CORE/EXTENDED rules described?	YES
+19	Are top 30 loading-ranked features described?	YES
+20	Are spatial analyses called contextualization, not colocalization?	YES
+21	Are spatial marker names and median ρ values reported?	YES
+22	Are spots/sections not treated as patient-level replication?	YES
+23	Is matched-null MAGMA described?	YES
+24	Is the empirical P formula explicit?	YES
+25	Is axis-specific genetics kept negative/conservative?	YES
+26	Is GWAS provenance covered?	YES
+27	Are unresolved primary outcomes not treated as null?	YES
+28	Is LDSC r_g terminology used consistently?	YES
+29	Is LAVA local ρ terminology used consistently?	YES
+30	Is the LAVA sample-overlap matrix described as cross-trait-intercept-informed?	YES
+31	Is Figure 5 FDR definition synchronized?	YES
+32	Are UKB LD-reference Tier 1/2/3 rules explicit?	YES
+33	Are SMR primary and ±2 Mb sensitivity windows distinguished?	YES
+34	Are HEIDI not-evaluable rows handled conservatively?	YES
+35	Do Supplementary Figures S1-S6 exist with source data and legends?	YES
+36	Do Supplementary Tables S1-S8 exist?	YES
+37	Do Supplementary Data 1-8 exist?	YES
+38	Are main-supplement dataset and claim audits synchronized?	YES
+39	Was no new biological result introduced?	YES

@@ -1,0 +1,5 @@
+Context	Definition	Source	FDR_family	Threshold	Interpretation
+Figure 5 panel b	FDR-supported local r_g loci	results/figures/phase4a4b/source_data/figure5_panel_b_lava_counts.tsv; results/phase4b_restricted_lava/phase4b_restricted_lava_bivariate.tsv	all restricted bivariate local LAVA tests	fdr_all_tests < 0.05	display-level count of 1000G-reference local-r_g signals
+LAVA restricted summary	within-outcome FDR	src/genetics/phase4b_summarize_lava.py	tests within each outcome	fdr_within_outcome < 0.05	outcome-specific descriptive local-r_g support
+LD-reference validation Tier 1	UKB-reviewed Tier 1	src/genetics/phase4br_compare_ld_reference.py	UKB p values within outcome after candidate-locus review	direction concordant; both local h2 P < 0.05; ukb_fdr_within_outcome < 0.05	highest-confidence local-r_g candidate for regulatory follow-up
+Phase 4C eligibility	Tier 1/2 eligible local loci	results/phase4br_ld_reference_validation/phase4br_ld_reference_comparison.tsv	not a new global screen	Tier 1 or Tier 2 after reference-validation rules	restricted coloc input set

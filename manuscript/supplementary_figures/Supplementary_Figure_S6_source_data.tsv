@@ -1,0 +1,16 @@
+outcome	HEIDI_category	n_tests	source	interpretation_tier	n
+cad	fail	33.0	HEIDI		
+cad	not_evaluable	3.0	HEIDI		
+cad	pass	385.0	HEIDI		
+crohn	fail	47.0	HEIDI		
+crohn	pass	162.0	HEIDI		
+psa	fail	37.0	HEIDI		
+psa	not_evaluable	1.0	HEIDI		
+psa	pass	274.0	HEIDI		
+uc	fail	32.0	HEIDI		
+uc	pass	135.0	HEIDI		
+psa			coloc	coloc_supported_PP4_ge_0p8	3.0
+uc			coloc	coloc_supported_PP4_ge_0p8	2.0
+cad			coloc	suggestive_PP4_0p5_to_0p8	4.0
+crohn			coloc	suggestive_PP4_0p5_to_0p8	2.0
+psa			coloc	suggestive_PP4_0p5_to_0p8	4.0

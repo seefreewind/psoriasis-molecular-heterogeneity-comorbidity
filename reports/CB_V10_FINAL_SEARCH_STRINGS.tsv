@@ -1,0 +1,23 @@
+term	count	action
+failed	0	absent
+failure	0	absent
+Tier D	0	absent
+lowest evidence category	0	absent
+rho	1	benign substring hits only; statistical symbol reported as ρ
+abs(rho)	0	absent
+e-	112	benign hyphen/DOI contexts, not unformatted scientific notation
+>=	0	absent
+<=	0	absent
+near-neighbour	0	absent
+non-neighbour	0	absent
+Locus 57	0	absent
+outcome-gene rows	0	absent
+SMR1	0	absent
+SMR2	0	absent
+GSE61281	6	intentionally retained and defined
+Figure 5 d	0	absent
+Figure 6 d	0	absent
+EXTENDED and MHC sensitivity	0	absent
+standard errors	0	absent
+T helper 17	0	absent
+Analysis-a framework	0	absent

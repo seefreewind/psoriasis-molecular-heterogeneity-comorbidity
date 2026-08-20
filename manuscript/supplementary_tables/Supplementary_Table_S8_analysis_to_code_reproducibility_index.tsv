@@ -1,0 +1,12 @@
+analysis_step	primary_code	principal_output	release_status
+Molecular-axis discovery	src/integration/phase1b_molecular_axes.py	results/phase1b/	ready_for_code_repository
+Axis prioritisation	src/integration/phase2a_strict_axis_freeze.py	results/phase2a/	ready_for_code_repository
+Single-cell localization	src/integration/phase2b_gse228421_single_cell_localization.py	results/phase2b/	ready_for_code_repository
+Spatial localization GSE225475	src/integration/phase2c_gse225475_spatial_localization.py	results/phase2c/	ready_for_code_repository
+Spatial localization GSE202011	src/integration/phase2c_gse202011_spatial_robustness.py	results/phase2c/	ready_for_code_repository
+MAGMA and matched null	src/genetics/phase3a_prepare_magma_inputs.py;src/genetics/phase3a_matched_null.py;src/genetics/phase3a_summarize.py	results/phase3a/	ready_for_code_repository
+LDSC genetic correlation	src/genetics/phase4a_prepare_psoriasis_ldsc.py;src/genetics/phase4a_summarize_ldsc.py	results/phase4a/	ready_for_code_repository
+LAVA local genetic correlation	src/genetics/phase4b_prepare_lava_inputs.py;src/genetics/phase4b_pairwise_lava.R;src/genetics/phase4br_compare_ld_reference.py	results/phase4b_lava_pairwise/;results/phase4br_ld_reference_validation/	ready_for_code_repository
+SMR/HEIDI	src/genetics/phase4c_smr1_prepare_probe_lists.py;src/genetics/phase4c_smr1_run_restricted_smr.py;src/genetics/phase4c_smr1_summarize_results.py;src/genetics/phase4c_smr2_build_probe_window_gwas_ma.py	results/phase4c_smr/	ready_for_code_repository
+Restricted coloc	src/genetics/phase4d_coloc_input_feasibility_audit.py;src/genetics/phase4d_run_restricted_coloc_tierA.R	results/phase4d_coloc/	ready_for_code_repository
+Transcriptomic contextualization	results/phase4e_contextualization/	results/phase4e_contextualization/	ready_for_code_repository
