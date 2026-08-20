@@ -111,6 +111,8 @@ submission/final_submission_checklist.md
 
 ## Citation
 
-If using this repository before journal publication, cite the repository URL, manuscript title and the submission-stage release
-[`v1.0.0-submission`](https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity/releases/tag/v1.0.0-submission).
-A Zenodo DOI can be added after GitHub release archiving if required by the journal.
+If using this repository before journal publication, cite the archived submission-stage release:
+
+Zhang, Y., Chen, Y., Liu, Y. & Lin, D. Molecular heterogeneity and multisystem shared genetic architecture define distinct biological layers of psoriasis. Zenodo. https://doi.org/10.5281/zenodo.22020396
+
+Repository release: [`v1.0.0-submission`](https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity/releases/tag/v1.0.0-submission).

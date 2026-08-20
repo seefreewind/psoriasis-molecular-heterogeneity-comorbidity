@@ -4,6 +4,8 @@ This release archives the submission-stage code, processed source data, figure s
 
 Molecular heterogeneity and multisystem shared genetic architecture define distinct biological layers of psoriasis
 
+Zenodo DOI: https://doi.org/10.5281/zenodo.22020396
+
 ## Included
 
 - Final language-polished main manuscript source and Word file.

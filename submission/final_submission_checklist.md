@@ -20,7 +20,8 @@ Manuscript title: Molecular heterogeneity and multisystem shared genetic archite
 | Supplementary data | `manuscript/supplementary_data/` | READY |
 | Supplementary figures | `manuscript/supplementary_figures/` | READY |
 | Supplementary tables | `manuscript/supplementary_tables/` | READY |
-| Repository release tag | `v1.0.0-submission` | READY TO CREATE ON GITHUB PUSH |
+| Repository release tag | `v1.0.0-submission` | CREATED AND PUSHED |
+| Repository archive DOI | `10.5281/zenodo.22020396` | CREATED |
 
 ## Submission-system fields
 
@@ -35,7 +36,7 @@ Manuscript title: Molecular heterogeneity and multisystem shared genetic archite
 | Data availability | READY | Includes data restrictions and repository paths |
 | Code availability | READY | Points to GitHub and `v1.0.0-submission` |
 | AI-use statement | NOT ADDED | Add only if the journal submission system explicitly requires it |
-| Zenodo DOI | OPTIONAL AFTER RELEASE | GitHub release tag is sufficient for current upload; Zenodo can be bound after final GitHub release if desired |
+| Zenodo DOI | READY | `https://doi.org/10.5281/zenodo.22020396` |
 
 ## Exclusions from GitHub upload
 
