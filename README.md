@@ -1,108 +1,35 @@
-# Psoriasis molecular heterogeneity and multisystem shared genetics
+# Psoriasis molecular heterogeneity: JDS reproducibility release
 
-This repository contains the code, processed result summaries, figure source data and manuscript-generation utilities for the manuscript:
+Version 1.1.0 accompanies the Journal of Dermatological Science submission, “Molecular heterogeneity and multisystem shared genetic architecture define distinct biological layers of psoriasis.” It contains the project analysis scripts, configuration files, environment specification, aggregated source data for the five main figures and Supplementary Tables S17–S18, and the final figure exports.
 
-**Molecular heterogeneity and multisystem shared genetic architecture define distinct biological layers of psoriasis**
+## Scope
 
-Target journal: *Communications Biology*
+The release supports inspection and regeneration of the manuscript figures from the included aggregate source tables. The analysis scripts document the broader workflow. Full re-execution of every upstream analysis requires the original input datasets, reference panels and, where applicable, access granted by the original data providers.
 
-## Study scope
+Raw expression/genotype data, controlled-access source files, GWAS summary-statistic files, GTEx BESD resources, local LD references, manuscript Word files and rendering/QA caches are not redistributed. Figure source tables contain aggregate results and de-identified donor-level derived scores used to reproduce plotted points; donor labels and any linkage key are omitted. Dataset accessions and source-specific access conditions are described in the manuscript and its Supplementary Information.
 
-The study tests whether reproducible psoriasis tissue molecular programs correspond to inherited multisystem comorbidity architecture. The locked interpretation is:
+## Contents
 
-- reproducible continuous molecular programs are observed in psoriasis tissue;
-- F1, F2 and F6 are skin-primary tissue-state programs;
-- F7 is a systemic-supportive candidate;
-- none of the retained programs meets prespecified criteria for robust axis-specific genetic anchoring;
-- overall psoriasis susceptibility shows disease-specific shared architecture with CAD, PsA and IBD;
-- regulatory prioritization identifies supported or suggestive candidates without direct gene-membership overlap with retained molecular programs.
+- `src/`, `configs/`, `ANALYSIS_LOCK.md`: analysis scripts and project configuration.
+- `environment/environment.yml`: conda environment specification; external genetics tools and reference data may require separate installation.
+- `source_data/`: aggregate source tables for Figures 1–5 and Supplementary Tables S17–S18.
+- `figures/`: final TIFF (600 dpi) and editable SVG figure files.
+- `scripts/rebuild_figures.py`: regenerate Figures 1–5 from the included source tables.
 
-## Repository layout
+## Regenerate figures
 
-```text
-src/                    Analysis, integration, genetics, figure and manuscript scripts
-configs/                Analysis configuration files
-environment/            Conda environment specification and install notes
-results/                Processed summaries and figure-ready outputs
-source_data/            Source data for main manuscript tables
-manuscript/             Main manuscript drafts, supplementary tables and generated Word files
-reports/                Phase reports, claim audits and submission-lock audits
-tests/                  Smoke tests
-```
-
-Large raw transcriptomic matrices, GWAS summary statistics, LD references, GTEx BESD files, virtual environments and rendered QA caches are intentionally excluded from the GitHub repository. They are described by public accession identifiers or source manifests and can be regenerated/downloaded through the scripts where access permissions allow.
-
-## Public data inputs
-
-Transcriptomic and spatial datasets:
-
-- E-MTAB-14509
-- GSE244679
-- GSE228421
-- GSE173706
-- GSE225475
-- GSE202011
-
-Genetic and regulatory resources:
-
-- Psoriasis GWAS: GCST90472771
-- GTEx v8 eQTL resources
-- Prespecified comorbidity GWAS sources for PsA, CAD, Crohn disease, UC, ischemic stroke and CKD, with additional source-unresolved outcomes tracked in the audit files.
-
-## Environment
-
-The main environment specification is:
+Create the documented conda environment or install Python 3.11 with NumPy, pandas and Matplotlib, then run from this directory:
 
 ```bash
-conda env create -f environment/environment.yml
-conda activate psoriasis-endotype-comorbidity
+python scripts/rebuild_figures.py
 ```
 
-Some external command-line tools used in intermediate genetics workflows, including LDSC, MAGMA, LAVA and SMR, require separate installation and reference files. Their use is documented in the corresponding scripts under `src/genetics/` and audit reports under `reports/`.
+The script writes TIFF and SVG files to `figures/`. It does not rerun the upstream transcriptomic or genetic analyses.
 
-## Reproducing manuscript assets
+## Data access
 
-Final Communications Biology figure assets are generated by:
+The study integrates E-MTAB-14509, GSE244679, GSE61281, GSE228421, GSE173706, GSE225475, GSE202011, psoriasis GWAS GCST90472771 and GTEx v8 regulatory resources, together with the prespecified comorbidity GWAS described in the article. Obtain original files directly from their source repositories and comply with the relevant access agreements. No raw or controlled-access participant-level data are included here.
 
-```bash
-python src/figures/make_communications_biology_final_figures.py
-```
+## License and citation
 
-The latest submission-lock manuscript Word file is generated by:
-
-```bash
-python src/manuscript/submission_lock_audit_and_build_v7.py
-```
-
-Main figure source data are under:
-
-```text
-results/figures/communications_biology_final/source_data/
-```
-
-Main table source data are under:
-
-```text
-source_data/
-```
-
-## Submission-lock status
-
-The current submission-lock audit is:
-
-```text
-reports/CB_FINAL_SUBMISSION_LOCK_AUDIT.md
-```
-
-The current manuscript files are:
-
-```text
-manuscript/Communications_Biology_main_manuscript_v7_SUBMISSION_LOCK.md
-manuscript/Communications_Biology_main_manuscript_v7_SUBMISSION_LOCK.docx
-```
-
-## Citation
-
-If using this repository before journal publication, cite the repository URL, manuscript title and the submission-lock release
-[`v0.1.1`](https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity/releases/tag/v0.1.1).
-A Zenodo DOI can be added after GitHub release archiving if required by the journal.
+Code and packaged source assets are released under the MIT License. Cite this version using the citation metadata in `CITATION.cff` or the version-specific Zenodo record associated with GitHub tag `v1.1.0`. The Zenodo concept DOI is https://doi.org/10.5281/zenodo.22020395. The earlier version-specific DOI 10.5281/zenodo.22020396 remains unchanged and refers to tag `v1.0.00`.
