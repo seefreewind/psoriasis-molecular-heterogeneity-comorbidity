@@ -1,0 +1,11 @@
+variable	complete_case_summary	excluded_summary	standardized_difference
+Age, years	76: 43.87 (12.74)	12: 47.75 (9.10)	-0.315
+PASI	76: 15.12 (5.67)	12: 15.93 (7.33)	-0.137
+BMI, kg/m²	76: 30.76 (6.65)	11: 31.64 (4.00)	-0.137
+Age at onset, years	75: 22.21 (13.12)	11: 26.73 (13.91)	-0.342
+Sex code = 1 (metadata code)	48/76 (63.2%)	7/12 (58.3%)	0.099
+HLA-C*06:02 carrier (coded value >0; excluded n=6 available)	34/76 (44.7%)	2/6 (33.3%)	0.235
+Psoriatic arthritis recorded positive	24/76 (31.6%)	3/12 (25.0%)	0.146
+Biologic-naive (recorded yes)	50/76 (65.8%)	11/12 (91.7%)	-0.667
+Anti-TNF-naive (recorded yes)	53/76 (69.7%)	11/12 (91.7%)	-0.578
+Recorded drug category = adalimumab	40/76 (52.6%)	1/12 (8.3%)	1.098

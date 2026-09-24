@@ -1,0 +1,15 @@
+analysis	outcome_or_program	estimate_or_positive_count	SE_or_negative_count	FDR_or_threshold
+MAGMA	F1	-0.053787	0.061254	0.81
+MAGMA	F2	0.05185	0.039191	0.372
+MAGMA	F6	0.042266	0.081005	0.401
+MAGMA	F7	0.04433	0.06921	0.401
+LDSC	CAD	0.1732	0.0274	FDR 7.494e-10; QC PASS
+LDSC	Ischaemic stroke	0.0255	0.0589	QC PASS; not FDR-supported
+LDSC	CKD	0.0118	0.0445	QC PASS; not FDR-supported
+LDSC	Crohn disease	-0.2717	0.0449	QC flagged
+LDSC	Ulcerative colitis	-0.2233	0.0409	QC flagged
+LDSC	Psoriatic arthritis	1.1715	0.0751	Near-neighbour; intercept/overlap concern
+LAVA	CAD	17	6	all-tests FDR<0.05
+LAVA	PsA	31	0	all-tests FDR<0.05
+LAVA	Crohn disease	9	40	all-tests FDR<0.05
+LAVA	UC	5	14	all-tests FDR<0.05

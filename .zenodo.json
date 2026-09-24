@@ -1,0 +1,33 @@
+{
+  "upload_type": "software",
+  "title": "Psoriasis molecular heterogeneity and multisystem shared genetic architecture: JDS reproducibility release",
+  "description": "Versioned analysis-code and aggregate source-data release accompanying a Journal of Dermatological Science submission. Includes analysis scripts, configuration and environment files, aggregate figure source tables, and final figure exports. It excludes raw participant-level, controlled-access, GWAS summary-statistic, GTEx BESD, and local LD-reference files. Full upstream reanalysis requires retrieval of original data and references under their source access terms.",
+  "creators": [
+    {
+      "name": "Yu Zhang",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+    },
+    {
+      "name": "Ying Chen",
+      "affiliation": "Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+    },
+    {
+      "name": "Yue Liu",
+      "affiliation": "Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+    },
+    {
+      "name": "Da Lin",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang Province, China",
+      "orcid": "0009-0009-4410-0218"
+    }
+  ],
+  "keywords": [
+    "psoriasis",
+    "transcriptomics",
+    "molecular heterogeneity",
+    "genetic correlation",
+    "reproducible research"
+  ],
+  "license": "mit-license",
+  "version": "1.1.0"
+}

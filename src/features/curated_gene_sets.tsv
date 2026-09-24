@@ -1,0 +1,108 @@
+feature_family	feature_name	gene_symbol	direction	notes
+pathway	IL17_signaling	IL17A	1	core psoriasis inflammation module
+pathway	IL17_signaling	IL17F	1	core psoriasis inflammation module
+pathway	IL17_signaling	IL17RA	1	core psoriasis inflammation module
+pathway	IL17_signaling	IL17RC	1	core psoriasis inflammation module
+pathway	IL17_signaling	DEFB4A	1	core psoriasis inflammation module
+pathway	IL17_signaling	S100A7	1	core psoriasis inflammation module
+pathway	IL17_signaling	S100A8	1	core psoriasis inflammation module
+pathway	IL17_signaling	S100A9	1	core psoriasis inflammation module
+pathway	IL23_signaling	IL23A	1	core psoriasis inflammation module
+pathway	IL23_signaling	IL23R	1	core psoriasis inflammation module
+pathway	IL23_signaling	IL12B	1	core psoriasis inflammation module
+pathway	IL23_signaling	STAT3	1	core psoriasis inflammation module
+pathway	TNF_NFkB	TNF	1	inflammatory signaling
+pathway	TNF_NFkB	NFKB1	1	inflammatory signaling
+pathway	TNF_NFkB	RELA	1	inflammatory signaling
+pathway	TNF_NFkB	NFKBIA	1	inflammatory signaling
+pathway	Type_I_interferon	IFIT1	1	interferon module
+pathway	Type_I_interferon	IFIT2	1	interferon module
+pathway	Type_I_interferon	IFIT3	1	interferon module
+pathway	Type_I_interferon	ISG15	1	interferon module
+pathway	Type_I_interferon	MX1	1	interferon module
+pathway	Type_II_interferon	IFNG	1	interferon module
+pathway	Type_II_interferon	CXCL9	1	interferon module
+pathway	Type_II_interferon	CXCL10	1	interferon module
+pathway	Type_II_interferon	GBP1	1	interferon module
+pathway	IL36	IL36A	1	keratinocyte inflammation
+pathway	IL36	IL36B	1	keratinocyte inflammation
+pathway	IL36	IL36G	1	keratinocyte inflammation
+pathway	JAK_STAT	JAK1	1	signaling
+pathway	JAK_STAT	JAK2	1	signaling
+pathway	JAK_STAT	STAT1	1	signaling
+pathway	JAK_STAT	STAT3	1	signaling
+pathway	Antigen_presentation	HLA-DRA	1	immune presentation
+pathway	Antigen_presentation	HLA-DRB1	1	immune presentation
+pathway	Antigen_presentation	B2M	1	immune presentation
+pathway	Complement	C3	1	complement module
+pathway	Complement	CFB	1	complement module
+pathway	Complement	C1QA	1	complement module
+pathway	Neutrophil_activation	S100A8	1	myeloid/neutrophil proxy
+pathway	Neutrophil_activation	S100A9	1	myeloid/neutrophil proxy
+pathway	Neutrophil_activation	CXCL1	1	myeloid/neutrophil proxy
+pathway	Neutrophil_activation	CXCL8	1	myeloid/neutrophil proxy
+pathway	Keratinocyte_differentiation	KRT1	1	epidermal differentiation
+pathway	Keratinocyte_differentiation	KRT10	1	epidermal differentiation
+pathway	Keratinocyte_differentiation	FLG	1	epidermal differentiation
+pathway	Epidermal_proliferation	KRT6A	1	hyperproliferation
+pathway	Epidermal_proliferation	KRT16	1	hyperproliferation
+pathway	Epidermal_proliferation	MKI67	1	hyperproliferation
+pathway	Angiogenesis	VEGFA	1	vascular module
+pathway	Angiogenesis	KDR	1	vascular module
+pathway	Endothelial_activation	PECAM1	1	vascular module
+pathway	Endothelial_activation	VWF	1	vascular module
+pathway	Hypoxia	HIF1A	1	stress module
+pathway	Hypoxia	VEGFA	1	stress module
+pathway	Oxidative_stress	NQO1	1	stress module
+pathway	Oxidative_stress	HMOX1	1	stress module
+pathway	Lipid_metabolism	PPARA	1	metabolic module
+pathway	Lipid_metabolism	APOE	1	metabolic module
+pathway	Insulin_signaling	INSR	1	metabolic module
+pathway	Insulin_signaling	IRS1	1	metabolic module
+pathway	mTOR	MTOR	1	metabolic signaling
+pathway	mTOR	RPTOR	1	metabolic signaling
+pathway	ECM_organization	COL1A1	1	stromal module
+pathway	ECM_organization	COL1A2	1	stromal module
+pathway	Fibroblast_activation	ACTA2	1	stromal module
+pathway	Fibroblast_activation	COL3A1	1	stromal module
+pathway	WNT_signaling	WNT5A	1	developmental/stromal signaling
+pathway	WNT_signaling	AXIN2	1	developmental/stromal signaling
+pathway	TGF_beta	TGFB1	1	stromal signaling
+pathway	TGF_beta	SMAD3	1	stromal signaling
+pathway	Apoptosis	BAX	1	cell death
+pathway	Apoptosis	CASP3	1	cell death
+pathway	Cell_cycle	MKI67	1	proliferation
+pathway	Cell_cycle	TOP2A	1	proliferation
+regulon	STAT1_activity	STAT1	1	proxy regulon anchor
+regulon	STAT3_activity	STAT3	1	proxy regulon anchor
+regulon	NFkB_activity	RELA	1	proxy regulon anchor
+regulon	IRF_activity	IRF1	1	proxy regulon anchor
+regulon	AP1_activity	JUN	1	proxy regulon anchor
+regulon	AP1_activity	FOS	1	proxy regulon anchor
+regulon	CEBP_activity	CEBPA	1	proxy regulon anchor
+regulon	AHR_activity	AHR	1	proxy regulon anchor
+regulon	HIF1A_activity	HIF1A	1	proxy regulon anchor
+regulon	FOXO_activity	FOXO1	1	proxy regulon anchor
+regulon	SMAD_activity	SMAD3	1	proxy regulon anchor
+cell_state	Keratinocyte	KRT14	1	bulk marker proxy
+cell_state	Keratinocyte	KRT5	1	bulk marker proxy
+cell_state	Fibroblast	COL1A1	1	bulk marker proxy
+cell_state	Fibroblast	DCN	1	bulk marker proxy
+cell_state	Endothelial	PECAM1	1	bulk marker proxy
+cell_state	Endothelial	VWF	1	bulk marker proxy
+cell_state	T_cells	CD3D	1	bulk marker proxy
+cell_state	T_cells	CD3E	1	bulk marker proxy
+cell_state	CD8_TRM	CD8A	1	bulk marker proxy
+cell_state	CD8_TRM	GZMB	1	bulk marker proxy
+cell_state	Th17_like	RORC	1	bulk marker proxy
+cell_state	Th17_like	IL23R	1	bulk marker proxy
+cell_state	Dendritic_cells	ITGAX	1	bulk marker proxy
+cell_state	Dendritic_cells	CD1C	1	bulk marker proxy
+cell_state	Monocytes_macrophages	CD14	1	bulk marker proxy
+cell_state	Monocytes_macrophages	LYZ	1	bulk marker proxy
+cell_state	Neutrophils	FCGR3B	1	bulk marker proxy
+cell_state	Neutrophils	CXCR2	1	bulk marker proxy
+cell_state	B_cells	MS4A1	1	bulk marker proxy
+cell_state	B_cells	CD79A	1	bulk marker proxy
+cell_state	NK_cells	NKG7	1	bulk marker proxy
+cell_state	NK_cells	GNLY	1	bulk marker proxy

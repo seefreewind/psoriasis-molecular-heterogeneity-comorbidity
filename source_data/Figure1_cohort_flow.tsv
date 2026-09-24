@@ -1,0 +1,8 @@
+branch	n	definition
+total	146	Unique participants in E-MTAB-14509
+baseline	145	Participants with baseline metadata; one participant has no baseline
+discovery_total	89	Discovery participants before excluding one without baseline metadata
+discovery_baseline	88	Discovery participants with baseline metadata
+paired_skin_discovery	82	Discovery participants with paired lesional/non-lesional skin
+complete_three_view	76	Discovery participants with lesional skin, non-lesional skin and blood
+internal_paired_skin	57	Separate participant-ID set; non-overlapping with n=76

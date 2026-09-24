@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this release, please cite it using the version-specific Zenodo record."
+title: "Psoriasis molecular heterogeneity and multisystem shared genetic architecture: JDS reproducibility release"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Yu
+    affiliation: "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+  - family-names: Chen
+    given-names: Ying
+    affiliation: "Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+  - family-names: Liu
+    given-names: Yue
+    affiliation: "Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+  - family-names: Lin
+    given-names: Da
+    affiliation: "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang Province, China"
+    orcid: "https://orcid.org/0009-0009-4410-0218"
+version: 1.1.0
+date-released: 2026-09-24
+doi: 10.5281/zenodo.22020395
+license: MIT
+repository-code: "https://github.com/seefreewind/psoriasis-molecular-heterogeneity-comorbidity"
+keywords:
+  - psoriasis
+  - transcriptomics
+  - molecular heterogeneity
+  - genetic correlation
+  - reproducible research

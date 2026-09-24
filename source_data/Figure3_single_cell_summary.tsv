@@ -1,0 +1,5 @@
+program	cell_type	n_donors	mean_LS_minus_NL	bootstrap_95CI_lower	bootstrap_95CI_upper
+F1	keratinocyte	5	0.03539591046858689	0.02456145000596236	0.04623037093121142
+F2	keratinocyte	5	0.0152069	0.010134	0.02028
+F6	keratinocyte	5	0.0493425	0.038612	0.062008
+F7	NK_cell	5	0.1205052	0.008851	0.259251

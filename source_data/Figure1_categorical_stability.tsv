@@ -1,0 +1,4 @@
+analysis	metric	estimate	threshold
+k2	minimum_bootstrap_jaccard	0.562	0.75
+continuous_model	factor_count	8	8
+continuous_model	seed_count	5	5

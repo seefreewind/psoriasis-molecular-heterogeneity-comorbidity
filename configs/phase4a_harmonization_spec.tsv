@@ -1,0 +1,20 @@
+field	category	requirement
+variant_id	variant_identity	Prefer rsID for LDSC; if absent derive only from audited chr:position:alleles mapping
+chromosome	variant_identity	Required for build checks and later LAVA/coloc; not sufficient alone for LDSC
+position	variant_identity	Record genome build before using positional mapping
+effect_allele	allele	Required; align as A1/effect allele
+other_allele	allele	Required; align as A2/non-effect allele
+beta_or_log_or	effect	Preferred signed effect column for LDSC; convert OR to log_OR only when OR is clearly labeled
+standard_error	effect	Required if beta/log_OR used; otherwise infer Z from P and direction only if validated
+p_value	association	Required; floor only impossible zero values with logged rule
+sample_size	sample_size	Required; use constant N if per-SNP N unavailable and cohort N is clear
+case_count	sample_size	Required for binary traits where available
+control_count	sample_size	Required for binary traits where available
+effective_sample_size	sample_size	Compute or use provided Neff for case-control imbalance if required by munge rules
+info	imputation_qc	Filter threshold to be source-specific; record if unavailable
+maf	frequency_qc	Filter threshold to be source-specific; record if unavailable
+hmp3_merge	qc	Primary LDSC files must report HapMap3 SNP retention
+mean_chi2	qc	Record before rg; abnormal values trigger manual review
+lambda_gc	qc	Record before rg; abnormal values trigger manual review
+ldsc_intercept	qc	Record from LDSC h2/regression output
+cross_trait_intercept	qc	Required in final rg matrix to evaluate sample overlap
